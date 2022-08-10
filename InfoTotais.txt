@@ -1,0 +1,1073 @@
+Id;NomeSerie;Url;Genero;Ano;Maturidade;Temporadas
+70300627;Carrossel;https://www.netflix.com/br/title/70300627;Novelas;2012;10;1 temporada
+81430305;Carinha de Anjo;https://www.netflix.com/br/title/81430305;Novelas;2016;L;1 temporada
+81430599;Cúmplices de um Resgate;https://www.netflix.com/br/title/81430599;Novelas;2015;L;1 temporada
+81396406;Café com Aroma de Mulher;https://www.netflix.com/br/title/81396406;Novelas;2021;14;1 temporada
+81220677;As Aventuras de Poliana;https://www.netflix.com/br/title/81220677;Novelas;2018;10;1 temporada
+80047032;Paixões Ardentes;https://www.netflix.com/br/title/80047032;Novelas;2003;14;2 temporadas
+80046347;Señora Acero;https://www.netflix.com/br/title/80046347;Novelas;2014;16;5 temporadas
+70205672;A Rainha do Tráfico;https://www.netflix.com/br/title/70205672;Novelas;2011;16;2 temporadas
+80993876;María Magdalena;https://www.netflix.com/br/title/80993876;Novelas;2018;16;1 temporada
+80035684;Pablo Escobar, el patrón del mal;https://www.netflix.com/br/title/80035684;Novelas;2012;16;1 temporada
+81098497;O Último Dragão;https://www.netflix.com/br/title/81098497;Novelas;2019;16;2 temporadas
+80220541;Go! Viva do seu jeito;https://www.netflix.com/br/title/80220541;Novelas;2019;L;2 temporadas
+80153272;Sin senos sí hay paraíso;https://www.netflix.com/br/title/80153272;Novelas;2016;16;3 temporadas
+80237428;La piloto;https://www.netflix.com/br/title/80237428;Novelas;2017;16;2 temporadas
+81261170;Coração Marcado;https://www.netflix.com/br/title/81261170;Novelas;2022;16;1 temporada
+81022683;La Reina del Flow;https://www.netflix.com/br/title/81022683;Novelas;2018;14;2 temporadas
+81034775;Falsa identidad;https://www.netflix.com/br/title/81034775;Novelas;2018;16;2 temporadas
+81166747;Quem Matou Sara?;https://www.netflix.com/br/title/81166747;Novelas;2021;18;3 temporadas
+80036140;As Bonecas da Máfia;https://www.netflix.com/br/title/80036140;Novelas;2009;16;2 temporadas
+81091825;Betty em Nova York;https://www.netflix.com/br/title/81091825;Novelas;2019;14;1 temporada
+81398330;Novo Rico, Novo Pobre;https://www.netflix.com/br/title/81398330;Novelas;2007;14;1 temporada
+80108473;La Esclava Blanca;https://www.netflix.com/br/title/80108473;Novelas;2016;14;1 temporada
+81398329;Pedro, O Escamoso;https://www.netflix.com/br/title/81398329;Novelas;2001;14;1 temporada
+80153271;El Chema;https://www.netflix.com/br/title/80153271;Novelas;2016;16;1 temporada
+80120640;A Menina;https://www.netflix.com/br/title/80120640;Novelas;2016;14;1 temporada
+81167570;El final del paraíso;https://www.netflix.com/br/title/81167570;Novelas;2019;16;1 temporada
+81144163;Amar e Viver;https://www.netflix.com/br/title/81144163;Novelas;2020;16;1 temporada
+81435253;Malverde, el santo patrón;https://www.netflix.com/br/title/81435253;Novelas;2021;16;1 temporada
+81000207;Enemigo íntimo;https://www.netflix.com/br/title/81000207;Novelas;2018;18;2 temporadas
+81167761;A Vingança das Juanas;https://www.netflix.com/br/title/81167761;Novelas;2021;18;1 temporada
+80216376;Jenni Rivera: Borboleta do Bairro, A Série;https://www.netflix.com/br/title/80216376;Novelas;2017;16;1 temporada
+81055416;Índia Catalina;https://www.netflix.com/br/title/81055416;Novelas;2020;16;1 temporada
+80220145;A Lei Secreta;https://www.netflix.com/br/title/80220145;Novelas;2017;16;1 temporada
+81196277;La bella y las bestias;https://www.netflix.com/br/title/81196277;Novelas;2018;16;1 temporada
+80220422;Bolívar;https://www.netflix.com/br/title/80220422;Novelas;2019;16;1 temporada
+80066429;Ingobernable;https://www.netflix.com/br/title/80066429;Novelas;2017;16;2 temporadas
+81272752;100 días para enamorarnos;https://www.netflix.com/br/title/81272752;Novelas;2020;16;2 temporadas
+80220644;Histórias de Verão;https://www.netflix.com/br/title/80220644;Novelas;2022;L;1 temporada
+81398328;Canta Escalona;https://www.netflix.com/br/title/81398328;Novelas;1991;14;1 temporada
+81162089;Go! Festa Inesquecível;https://www.netflix.com/br/title/81162089;Novelas;2019;L;1h
+81198582;Preso No. 1;https://www.netflix.com/br/title/81198582;Novelas;2019;16;1 temporada
+80241318;Manifest;https://www.netflix.com/br/title/80241318;Séries dramáticas - EUA;2018;12;3 temporadas
+80240027;Virgin River;https://www.netflix.com/br/title/80240027;Séries dramáticas - EUA;2019;14;4 temporadas
+70195800;Suits;https://www.netflix.com/br/title/70195800;Séries dramáticas - EUA;2011;14;9 temporadas
+70143836;Breaking Bad;https://www.netflix.com/br/title/70143836;Séries dramáticas - EUA;2008;18;5 temporadas
+70177057;The Walking Dead;https://www.netflix.com/br/title/70177057;Séries dramáticas - EUA;2010;16;10 temporadas
+70281312;Lista Negra;https://www.netflix.com/br/title/70281312;Séries dramáticas - EUA;2019;16;8 temporadas
+70219484;Teen Wolf;https://www.netflix.com/br/title/70219484;Séries dramáticas - EUA;2011;16;6 temporadas
+81150303;Sandman;https://www.netflix.com/br/title/81150303;Séries dramáticas - EUA;2022;18;1 temporada
+80021955;Better Call Saul;https://www.netflix.com/br/title/80021955;Séries dramáticas - EUA;2015;16;6 temporadas
+81002370;Cobra Kai;https://www.netflix.com/br/title/81002370;Séries dramáticas - EUA;2018;14;4 temporadas
+80057918;Lucifer;https://www.netflix.com/br/title/80057918;Séries dramáticas - EUA;2016;16;6 temporadas
+81276119;Respire!;https://www.netflix.com/br/title/81276119;Séries dramáticas - EUA;2022;14;1 temporada
+70155618;Gilmore Girls: Tal Mãe, Tal Filha;https://www.netflix.com/br/title/70155618;Séries dramáticas - EUA;2000;12;7 temporadas
+80232398;Bridgerton;https://www.netflix.com/br/title/80232398;Séries dramáticas - EUA;2020;16;2 temporadas
+80189685;The Witcher;https://www.netflix.com/br/title/80189685;Séries dramáticas - EUA;2019;18;2 temporadas
+70283264;The 100;https://www.netflix.com/br/title/70283264;Séries dramáticas - EUA;2014;14;7 temporadas
+70285581;Outlander;https://www.netflix.com/br/title/70285581;Séries dramáticas - EUA;2014;16;5 temporadas
+80058486;Ponto Cego;https://www.netflix.com/br/title/80058486;Séries dramáticas - EUA;2015;14;5 temporadas
+80133311;Riverdale;https://www.netflix.com/br/title/80133311;Séries dramáticas - EUA;2017;16;5 temporadas
+70242311;Orange Is the New Black;https://www.netflix.com/br/title/70242311;Séries dramáticas - EUA;2013;18;7 temporadas
+80236318;Outer Banks;https://www.netflix.com/br/title/80236318;Séries dramáticas - EUA;2020;16;2 temporadas
+80179394;Dinastia;https://www.netflix.com/br/title/80179394;Séries dramáticas - EUA;2017;16;4 temporadas
+80027158;Jane The Virgin;https://www.netflix.com/br/title/80027158;Séries dramáticas - EUA;2014;14;5 temporadas
+80024057;Como Defender um Assassino;https://www.netflix.com/br/title/80024057;Séries dramáticas - EUA;2014;16;6 temporadas
+80117552;Ozark;https://www.netflix.com/br/title/80117552;Séries dramáticas - EUA;2017;16;4 temporadas
+80020542;Gotham;https://www.netflix.com/br/title/80020542;Séries dramáticas - EUA;2014;16;5 temporadas
+80107369;A Rainha do Sul;https://www.netflix.com/br/title/80107369;Séries dramáticas - EUA;2016;16;4 temporadas
+80211991;Você;https://www.netflix.com/br/title/80211991;Séries dramáticas - EUA;2018;18;3 temporadas
+80179190;Eu Nunca...;https://www.netflix.com/br/title/80179190;Séries dramáticas - EUA;2020;14;2 temporadas
+81465093;Uncoupled;https://www.netflix.com/br/title/81465093;Séries dramáticas - EUA;2022;16;1 temporada
+80104198;Perdidos no Espaço;https://www.netflix.com/br/title/80104198;Séries dramáticas - EUA;2018;12;3 temporadas
+80117470;13 Reasons Why;https://www.netflix.com/br/title/80117470;Séries dramáticas - EUA;2017;18;4 temporadas
+80025172;Narcos;https://www.netflix.com/br/title/80025172;Séries dramáticas - EUA;2015;16;3 temporadas
+81166770;Maid;https://www.netflix.com/br/title/81166770;Séries dramáticas - EUA;2021;16;1 temporada
+80109194;O Atirador;https://www.netflix.com/br/title/80109194;Séries dramáticas - EUA;2016;16;3 temporadas
+80177342;Good Girls;https://www.netflix.com/br/title/80177342;Séries dramáticas - EUA;2018;14;4 temporadas
+80111373;Chesapeake Shores;https://www.netflix.com/br/title/80111373;Séries dramáticas - EUA;2016;10;5 temporadas
+81034775;Falsa identidad;https://www.netflix.com/br/title/81034775;Séries dramáticas - EUA;2018;16;2 temporadas
+80117809;On My Block;https://www.netflix.com/br/title/80117809;Séries dramáticas - EUA;2018;16;4 temporadas
+81037371;Emily em Paris;https://www.netflix.com/br/title/81037371;Séries dramáticas - EUA;2020;14;2 temporadas
+80241239;Locke & Key;https://www.netflix.com/br/title/80241239;Séries dramáticas - EUA;2020;16;2 temporadas
+80036416;Good Witch;https://www.netflix.com/br/title/80036416;Séries dramáticas - EUA;2015;10;5 temporadas
+80133042;El Chapo;https://www.netflix.com/br/title/80133042;Séries dramáticas - EUA;2017;16;3 temporadas
+80077977;The Ranch;https://www.netflix.com/br/title/80077977;Séries dramáticas - EUA;2016;14;8 temporadas
+81149450;Vikings: Valhalla;https://www.netflix.com/br/title/81149450;Séries dramáticas - EUA;2022;16;1 temporada
+81221380;Sweet Tooth;https://www.netflix.com/br/title/81221380;Séries dramáticas - EUA;2021;14;1 temporada
+81303831;O Poder e a Lei;https://www.netflix.com/br/title/81303831;Séries dramáticas - EUA;2022;16;1 temporada
+80153271;El Chema;https://www.netflix.com/br/title/80153271;Séries dramáticas - EUA;2016;16;1 temporada
+80117540;Atypical;https://www.netflix.com/br/title/80117540;Séries dramáticas - EUA;2017;14;4 temporadas
+80017537;Grace and Frankie;https://www.netflix.com/br/title/80017537;Séries dramáticas - EUA;2015;16;7 temporadas
+80178687;Raio Negro;https://www.netflix.com/br/title/80178687;Séries dramáticas - EUA;2018;16;4 temporadas
+70178217;House of Cards;https://www.netflix.com/br/title/70178217;Séries dramáticas - EUA;2013;18;6 temporadas
+80234304;O Gambito da Rainha;https://www.netflix.com/br/title/80234304;Séries dramáticas - EUA;2020;16;1 temporada
+80140955;Greenleaf;https://www.netflix.com/br/title/80140955;Séries dramáticas - EUA;2016;14;5 temporadas
+80177458;Expresso do Amanhã;https://www.netflix.com/br/title/80177458;Séries dramáticas - EUA;2020;18;3 temporadas
+80113647;Designated Survivor;https://www.netflix.com/br/title/80113647;Séries dramáticas - EUA;2016;16;3 temporadas
+80179905;Insatiable;https://www.netflix.com/br/title/80179905;Séries dramáticas - EUA;2018;16;2 temporadas
+80239866;Doces Magnólias;https://www.netflix.com/br/title/80239866;Séries dramáticas - EUA;2020;12;2 temporadas
+80175802;The Sinner;https://www.netflix.com/br/title/80175802;Séries dramáticas - EUA;2017;16;4 temporadas
+80036407;When Calls the Heart;https://www.netflix.com/br/title/80036407;Séries dramáticas - EUA;2014;12;2 temporadas
+80176085;The Bold Type;https://www.netflix.com/br/title/80176085;Séries dramáticas - EUA;2017;16;4 temporadas
+80991848;Sex/Life;https://www.netflix.com/br/title/80991848;Séries dramáticas - EUA;2021;18;1 temporada
+81025696;Ginny e Georgia;https://www.netflix.com/br/title/81025696;Séries dramáticas - EUA;2021;16;1 temporada
+81435253;Malverde, el santo patrón;https://www.netflix.com/br/title/81435253;Séries dramáticas - EUA;2021;16;1 temporada
+81244448;For Life;https://www.netflix.com/br/title/81244448;Séries dramáticas - EUA;2020;16;1 temporada
+80997085;Narcos: México;https://www.netflix.com/br/title/80997085;Séries dramáticas - EUA;2018;16;3 temporadas
+81008305;Inventando Anna;https://www.netflix.com/br/title/81008305;Séries dramáticas - EUA;2022;16;1 temporada
+81213653;Primeira Morte;https://www.netflix.com/br/title/81213653;Séries dramáticas - EUA;2022;16;1 temporada
+80067290;Billions;https://www.netflix.com/br/title/80067290;Séries dramáticas - EUA;2016;16;5 temporadas
+80161728;Templários;https://www.netflix.com/br/title/80161728;Séries dramáticas - EUA;2017;16;2 temporadas
+80025744;Sense8;https://www.netflix.com/br/title/80025744;Séries dramáticas - EUA;2015;18;2 temporadas
+70305883;Marco Polo;https://www.netflix.com/br/title/70305883;Séries dramáticas - EUA;2014;18;2 temporadas
+80114855;MINDHUNTER;https://www.netflix.com/br/title/80114855;Séries dramáticas - EUA;2017;16;2 temporadas
+81000207;Enemigo íntimo;https://www.netflix.com/br/title/81000207;Séries dramáticas - EUA;2018;18;2 temporadas
+80189221;A Maldição da Residência Hill;https://www.netflix.com/br/title/80189221;Séries dramáticas - EUA;2018;16;1 temporada
+81518991;Uma Advogada Extraordinária;https://www.netflix.com/br/title/81518991;Séries estrangeiras;2022;16;1 temporada
+81040344;Round 6;https://www.netflix.com/br/title/81040344;Séries estrangeiras;2021;18;1 temporada
+81380432;Uma Nova Mulher;https://www.netflix.com/br/title/81380432;Séries estrangeiras;2022;16;1 temporada
+80192098;La casa de papel;https://www.netflix.com/br/title/80192098;Séries estrangeiras;2017;16;5 temporadas
+80059465;Vis a vis;https://www.netflix.com/br/title/80059465;Séries estrangeiras;2015;18;5 temporadas
+81504820;D1ÁR10S;https://www.netflix.com/br/title/81504820;Séries estrangeiras;2022;12;1 temporada
+81423382;Alba;https://www.netflix.com/br/title/81423382;Séries estrangeiras;2021;16;1 temporada
+81237994;All of Us Are Dead;https://www.netflix.com/br/title/81237994;Séries estrangeiras;2022;16;1 temporada
+81509440;Pretendente Surpresa;https://www.netflix.com/br/title/81509440;Séries estrangeiras;2022;14;1 temporada
+81159258;Pousando no Amor;https://www.netflix.com/br/title/81159258;Séries estrangeiras;2019;12;1 temporada
+80200942;Elite;https://www.netflix.com/br/title/80200942;Séries estrangeiras;2018;18;5 temporadas
+80127001;O Grande Guerreiro Otomano;https://www.netflix.com/br/title/80127001;Séries estrangeiras;2014;14;5 temporadas
+81086462;Prisão de Mulheres;https://www.netflix.com/br/title/81086462;Séries estrangeiras;2019;16;2 temporadas
+81354739;A Love So Beautiful;https://www.netflix.com/br/title/81354739;Séries estrangeiras;2020;12;1 temporada
+81365087;Vincenzo;https://www.netflix.com/br/title/81365087;Séries estrangeiras;2021;16;1 temporada
+80176234;Dinheiro Sujo e Amor;https://www.netflix.com/br/title/80176234;Séries estrangeiras;2014;16;1 temporada
+81430282;O Rei de Porcelana;https://www.netflix.com/br/title/81430282;Séries estrangeiras;2021;16;1 temporada
+81517188;Alquimia das Almas;https://www.netflix.com/br/title/81517188;Séries estrangeiras;2022;16;1 temporada
+81473182;Hometown Cha-Cha-Cha;https://www.netflix.com/br/title/81473182;Séries estrangeiras;2021;16;1 temporada
+81442115;Match VIP;https://www.netflix.com/br/title/81442115;Séries estrangeiras;2022;16;1 temporada
+80188354;Minha Vênus;https://www.netflix.com/br/title/80188354;Séries estrangeiras;2015;12;1 temporada
+80997343;La Casa de Papel: Coreia;https://www.netflix.com/br/title/80997343;Séries estrangeiras;2022;16;1 temporada
+80100172;Dark;https://www.netflix.com/br/title/80100172;Séries estrangeiras;2017;16;3 temporadas
+81243992;Tudo Bem Não Ser Normal;https://www.netflix.com/br/title/81243992;Séries estrangeiras;2020;16;1 temporada
+80232926;Ragnarok;https://www.netflix.com/br/title/80232926;Séries estrangeiras;2020;16;2 temporadas
+81005504;Jardim de Meteoros;https://www.netflix.com/br/title/81005504;Séries estrangeiras;2018;12;1 temporada
+80196931;Hwarang;https://www.netflix.com/br/title/80196931;Séries estrangeiras;2016;16;1 temporada
+81318872;Na Direção do Amor;https://www.netflix.com/br/title/81318872;Séries estrangeiras;2020;12;1 temporada
+81290301;Passarela de Sonhos;https://www.netflix.com/br/title/81290301;Séries estrangeiras;2020;12;1 temporada
+80994082;Lupin;https://www.netflix.com/br/title/80994082;Séries estrangeiras;2021;16;2 temporadas
+81503460;Amanhã;https://www.netflix.com/br/title/81503460;Séries estrangeiras;2022;16;1 temporada
+81517168;Vinte e Cinco, Vinte e Um;https://www.netflix.com/br/title/81517168;Séries estrangeiras;2022;12;1 temporada
+81260283;O Rei Eterno;https://www.netflix.com/br/title/81260283;Séries estrangeiras;2020;12;1 temporada
+81572781;Clima do Amor;https://www.netflix.com/br/title/81572781;Séries estrangeiras;2022;16;1 temporada
+81394495;She Would Never Know;https://www.netflix.com/br/title/81394495;Séries estrangeiras;2021;12;1 temporada
+81026700;Primeira Vez Amor;https://www.netflix.com/br/title/81026700;Séries estrangeiras;2019;12;2 temporadas
+81362748;Amor, Casamento e Divórcio;https://www.netflix.com/br/title/81362748;Séries estrangeiras;2021;14;3 temporadas
+80211703;Areia Movediça;https://www.netflix.com/br/title/80211703;Séries estrangeiras;2019;18;1 temporada
+81290293;Apostando Alto;https://www.netflix.com/br/title/81290293;Séries estrangeiras;2020;12;1 temporada
+80100929;As Telefonistas;https://www.netflix.com/br/title/80100929;Séries estrangeiras;2017;18;6 temporadas
+81287440;Que a Justiça Seja Feita;https://www.netflix.com/br/title/81287440;Séries estrangeiras;2022;18;1 temporada
+81279126;O Anjo do Amor;https://www.netflix.com/br/title/81279126;Séries estrangeiras;2019;16;1 temporada
+80241001;O Sucessor;https://www.netflix.com/br/title/80241001;Séries estrangeiras;2018;16;2 temporadas
+70213130;Meninos antes de flores;https://www.netflix.com/br/title/70213130;Séries estrangeiras;2009;12;1 temporada
+81486372;Nosso Eterno Verão;https://www.netflix.com/br/title/81486372;Séries estrangeiras;2021;12;1 temporada
+81239224;Hospital Playlist;https://www.netflix.com/br/title/81239224;Séries estrangeiras;2020;12;2 temporadas
+81435649;Apesar de Tudo, Amor;https://www.netflix.com/br/title/81435649;Séries estrangeiras;2021;14;1 temporada
+81036622;Toy Boy;https://www.netflix.com/br/title/81036622;Séries estrangeiras;2019;18;2 temporadas
+81030008;Fadas da Limpeza;https://www.netflix.com/br/title/81030008;Séries estrangeiras;2018;12;1 temporada
+80154610;The Rain;https://www.netflix.com/br/title/80154610;Séries estrangeiras;2018;16;3 temporadas
+80188605;Cinderela e os Quatro Cavaleiros;https://www.netflix.com/br/title/80188605;Séries estrangeiras;2016;14;1 temporada
+80200575;Alice in Borderland;https://www.netflix.com/br/title/80200575;Séries estrangeiras;2020;16;1 temporada
+80188730;The K2;https://www.netflix.com/br/title/80188730;Séries estrangeiras;2016;14;1 temporada
+81568842;Amor e Outros Dramas;https://www.netflix.com/br/title/81568842;Séries estrangeiras;2022;16;1 temporada
+81008021;Holo, Meu Amor;https://www.netflix.com/br/title/81008021;Séries estrangeiras;2020;16;1 temporada
+81354529;A Cozinheira de Castamar;https://www.netflix.com/br/title/81354529;Séries estrangeiras;2021;16;1 temporada
+80149594;Intersection;https://www.netflix.com/br/title/80149594;Séries estrangeiras;2016;12;3 temporadas
+80986896;Love in the Moonlight;https://www.netflix.com/br/title/80986896;Séries estrangeiras;2016;16;1 temporada
+81474612;Casais em Crise;https://www.netflix.com/br/title/81474612;Séries estrangeiras;2021;12;1 temporada
+81465196;Backstreet Rookie;https://www.netflix.com/br/title/81465196;Séries estrangeiras;2020;14;1 temporada
+81277858;Os Segredos de Manscheid;https://www.netflix.com/br/title/81277858;Séries estrangeiras;2019;16;2 temporadas
+81033650;Herdeiros;https://www.netflix.com/br/title/81033650;Séries estrangeiras;2013;14;1 temporada
+81312802;Juvenile Justice;https://www.netflix.com/br/title/81312802;Séries estrangeiras;2022;18;1 temporada
+81478080;Entrevías;https://www.netflix.com/br/title/81478080;Séries estrangeiras;2022;16;1 temporada
+81609047;Dali & Cocky Prince;https://www.netflix.com/br/title/81609047;Séries estrangeiras;2021;16;1 temporada
+81030026;Gangnam Beauty;https://www.netflix.com/br/title/81030026;Séries estrangeiras;2018;16;1 temporada
+81011211;My Name;https://www.netflix.com/br/title/81011211;Séries estrangeiras;2021;16;1 temporada
+81403973;É Tudo Meu;https://www.netflix.com/br/title/81403973;Séries estrangeiras;2021;14;1 temporada
+81286017;Prisioneiro da Madrugada;https://www.netflix.com/br/title/81286017;Séries estrangeiras;2022;16;1 temporada
+81149763;Intimidade;https://www.netflix.com/br/title/81149763;Séries estrangeiras;2022;16;1 temporada
+81200228;Os Indomáveis;https://www.netflix.com/br/title/81200228;Séries estrangeiras;2019;16;1 temporada
+81568400;Trinta e Nove;https://www.netflix.com/br/title/81568400;Séries estrangeiras;2022;16;1 temporada
+81568217;Café Minamdang;https://www.netflix.com/br/title/81568217;Séries estrangeiras;2022;16;1 temporada
+80991107;Mr. Sunshine - Um Raio de Sol;https://www.netflix.com/br/title/80991107;Séries estrangeiras;2018;16;1 temporada
+80113612;Fauda;https://www.netflix.com/br/title/80113612;Séries estrangeiras;2015;16;3 temporadas
+80107103;ONE PIECE;https://www.netflix.com/br/title/80107103;Anime;1999;10;13 temporadas
+70205012;Naruto;https://www.netflix.com/br/title/70205012;Anime;2002;14;9 temporadas
+81091393;Demon Slayer: Kimetsu no Yaiba;https://www.netflix.com/br/title/81091393;Anime;2019;16;1 temporada
+81080523;Boruto: Naruto Next Generations;https://www.netflix.com/br/title/81080523;Anime;2017;12;3 temporadas
+80000603;Naruto Shippuden;https://www.netflix.com/br/title/80000603;Anime;2007;14;5 temporadas
+80050063;The Seven Deadly Sins;https://www.netflix.com/br/title/80050063;Anime;2014;14;5 temporadas
+80117291;One-Punch Man;https://www.netflix.com/br/title/80117291;Anime;2015;14;2 temporadas
+80204451;Baki - O Campeão;https://www.netflix.com/br/title/80204451;Anime;2018;18;3 temporadas
+81249833;VINLAND SAGA;https://www.netflix.com/br/title/81249833;Anime;2019;16;1 temporada
+80179831;JoJo's Bizarre Adventure;https://www.netflix.com/br/title/80179831;Anime;2012;18;4 temporadas
+70204970;DEATH NOTE;https://www.netflix.com/br/title/70204970;Anime;2006;16;1 temporada
+70204957;Bleach;https://www.netflix.com/br/title/70204957;Anime;2004;12;5 temporadas
+80095241;Castlevania;https://www.netflix.com/br/title/80095241;Anime;2017;16;4 temporadas
+81176966;KAKEGURUI TWIN;https://www.netflix.com/br/title/81176966;Anime;2022;14;1 temporada
+81228573;Komi Can't Communicate;https://www.netflix.com/br/title/81228573;Anime;2021;12;1 temporada
+80063153;Kuroko no Basket;https://www.netflix.com/br/title/80063153;Anime;2012;10;3 temporadas
+70302573;Sword Art Online;https://www.netflix.com/br/title/70302573;Anime;2012;16;4 temporadas
+80175351;Kakegurui;https://www.netflix.com/br/title/80175351;Anime;2017;14;2 temporadas
+80156387;Little Witch Academia;https://www.netflix.com/br/title/80156387;Anime;2017;10;2 temporadas
+80182054;Shokugeki no Soma;https://www.netflix.com/br/title/80182054;Anime;2015;14;2 temporadas
+81236338;Baki Hanma;https://www.netflix.com/br/title/81236338;Anime;2021;18;1 temporada
+80992228;KENGAN ASHURA;https://www.netflix.com/br/title/80992228;Anime;2019;18;2 temporadas
+81281582;BASTARD!!;https://www.netflix.com/br/title/81281582;Anime;2022;18;1 temporada
+81325983;Beyblade Burst Rise;https://www.netflix.com/br/title/81325983;Anime;2019;L;1 temporada
+80186926;SAINT SEIYA: Os Cavaleiros do Zodíaco;https://www.netflix.com/br/title/80186926;Anime;2019;14;2 temporadas
+81033445;Neon Genesis Evangelion;https://www.netflix.com/br/title/81033445;Anime;1995;16;1 temporada
+81281579;Record of Ragnarok;https://www.netflix.com/br/title/81281579;Anime;2021;16;1 temporada
+81239555;SHAMAN KING;https://www.netflix.com/br/title/81239555;Anime;2021;16;1 temporada
+81054847;BEASTARS - O Lobo Bom;https://www.netflix.com/br/title/81054847;Anime;2019;16;2 temporadas
+80117781;Saiki Kusuo no Psi-nan;https://www.netflix.com/br/title/80117781;Anime;2016;10;3 temporadas
+81261630;EDENS ZERO;https://www.netflix.com/br/title/81261630;Anime;2021;16;1 temporada
+80182123;Violet Evergarden;https://www.netflix.com/br/title/80182123;Anime;2018;16;1 temporada
+81043571;Tenku Shinpan - Sem Saída;https://www.netflix.com/br/title/81043571;Anime;2021;18;1 temporada
+80061943;Yowamushi Pedal;https://www.netflix.com/br/title/80061943;Anime;2013;12;2 temporadas
+80049275;Toradora!;https://www.netflix.com/br/title/80049275;Anime;2008;12;1 temporada
+81145640;The Promised Neverland;https://www.netflix.com/br/title/81145640;Anime;2019;16;1 temporada
+80057968;Glitter Force;https://www.netflix.com/br/title/80057968;Anime;2015;L;2 temporadas
+80198505;Aggretsuko;https://www.netflix.com/br/title/80198505;Anime;2018;12;4 temporadas
+81364944;The Daily Life of the Immortal King;https://www.netflix.com/br/title/81364944;Anime;2020;14;1 temporada
+80065146;Code Geass: Lelouch of the Rebellion;https://www.netflix.com/br/title/80065146;Anime;2006;16;2 temporadas
+81275353;Kotaro Vai Morar Sozinho;https://www.netflix.com/br/title/81275353;Anime;2022;12;1 temporada
+80001305;Cowboy Bebop;https://www.netflix.com/br/title/80001305;Anime;1998;16;1 temporada
+70304252;Blue Exorcist;https://www.netflix.com/br/title/70304252;Anime;2011;16;1 temporada
+80180849;Fate/Apocrypha;https://www.netflix.com/br/title/80180849;Anime;2017;14;2 temporadas
+80994336;DOTA: Dragon's Blood;https://www.netflix.com/br/title/80994336;Anime;2021;16;2 temporadas
+80997338;Hi Score Girl;https://www.netflix.com/br/title/80997338;Anime;2018;14;2 temporadas
+80991903;Dorohedoro;https://www.netflix.com/br/title/80991903;Anime;2020;16;1 temporada
+81001988;O Sangue de Zeus;https://www.netflix.com/br/title/81001988;Anime;2020;18;1 temporada
+80009097;Magi;https://www.netflix.com/br/title/80009097;Anime;2012;14;2 temporadas
+81002003;Círculo de Fogo: The Black;https://www.netflix.com/br/title/81002003;Anime;2021;14;2 temporadas
+81220429;BNA;https://www.netflix.com/br/title/81220429;Anime;2020;14;1 temporada
+80988066;Hellsing Ultimate;https://www.netflix.com/br/title/80988066;Anime;2006;18;1 temporada
+80097594;B: The Beginning;https://www.netflix.com/br/title/80097594;Anime;2018;16;2 temporadas
+81220435;Great Pretender;https://www.netflix.com/br/title/81220435;Anime;2020;18;2 temporadas
+80174974;Devilman Crybaby;https://www.netflix.com/br/title/80174974;Anime;2018;18;1 temporada
+80228274;Teasing Master Takagi-san;https://www.netflix.com/br/title/80228274;Anime;2018;12;1 temporada
+80009361;The Irregular at Magic High School;https://www.netflix.com/br/title/80009361;Anime;2014;16;1 temporada
+81318842;Blue Period;https://www.netflix.com/br/title/81318842;Anime;2021;12;1 temporada
+80234811;Godzilla Ponto Singular;https://www.netflix.com/br/title/80234811;Anime;2021;14;1 temporada
+81228009;Bunny Girl Senpai;https://www.netflix.com/br/title/81228009;Anime;2018;14;1 temporada
+80114225;Erased;https://www.netflix.com/br/title/80114225;Anime;2016;16;1 temporada
+80175350;SWORDGAI The Animation;https://www.netflix.com/br/title/80175350;Anime;2018;16;2 temporadas
+80231373;Ultraman;https://www.netflix.com/br/title/80231373;Anime;2019;14;2 temporadas
+80987707;Megalobox;https://www.netflix.com/br/title/80987707;Anime;2018;16;1 temporada
+81050064;SPRIGGAN;https://www.netflix.com/br/title/81050064;Anime;2022;18;1 temporada
+81261669;Gokushufudou: Tatsu Imortal;https://www.netflix.com/br/title/81261669;Anime;2021;12;1 temporada
+80986797;Forest of Piano;https://www.netflix.com/br/title/80986797;Anime;2018;12;2 temporadas
+81028791;Cells at Work!;https://www.netflix.com/br/title/81028791;Anime;2018;12;1 temporada
+81364887;Heaven Official's Blessing;https://www.netflix.com/br/title/81364887;Anime;2020;14;1 temporada
+81393636;Transformers: War for Cybertron: O Reino;https://www.netflix.com/br/title/81393636;Anime;2021;10;1 temporada
+80997339;Sirius the Jaeger;https://www.netflix.com/br/title/80997339;Anime;2018;16;1 temporada
+80183051;7SEEDS;https://www.netflix.com/br/title/80183051;Anime;2019;16;2 temporadas
+80987064;RESIDENT EVIL: No Escuro Absoluto;https://www.netflix.com/br/title/80987064;Anime;2021;16;1 temporada
+81393633;Transformers: War for Cybertron: O Nascer da Terra;https://www.netflix.com/br/title/81393633;Anime;2020;10;1 temporada
+70213196;Gurren Lagann;https://www.netflix.com/br/title/70213196;Anime;2007;12;1 temporada
+80057281;Stranger Things;https://www.netflix.com/br/title/80057281;Séries e filmes para jovens adultos;2016;16;4 temporadas
+80217315;Sintonia;https://www.netflix.com/br/title/80217315;Séries e filmes para jovens adultos;2019;16;3 temporadas
+70219484;Teen Wolf;https://www.netflix.com/br/title/70219484;Séries e filmes para jovens adultos;2011;16;6 temporadas
+81033243;Rebelde;https://www.netflix.com/br/title/81033243;Séries e filmes para jovens adultos;2022;16;2 temporadas
+80027042;The Flash;https://www.netflix.com/br/title/80027042;Séries e filmes para jovens adultos;2014;12;7 temporadas
+80136311;Anne with an E;https://www.netflix.com/br/title/80136311;Séries e filmes para jovens adultos;2017;12;3 temporadas
+81504820;D1ÁR10S;https://www.netflix.com/br/title/81504820;Séries e filmes para jovens adultos;2022;12;1 temporada
+70155618;Gilmore Girls: Tal Mãe, Tal Filha;https://www.netflix.com/br/title/70155618;Séries e filmes para jovens adultos;2000;12;7 temporadas
+81237994;All of Us Are Dead;https://www.netflix.com/br/title/81237994;Séries e filmes para jovens adultos;2022;16;1 temporada
+70283264;The 100;https://www.netflix.com/br/title/70283264;Séries e filmes para jovens adultos;2014;14;7 temporadas
+80200942;Elite;https://www.netflix.com/br/title/80200942;Séries e filmes para jovens adultos;2018;18;5 temporadas
+80084447;Shadowhunters: The Mortal Instruments;https://www.netflix.com/br/title/80084447;Séries e filmes para jovens adultos;2016;14;4 temporadas
+80133311;Riverdale;https://www.netflix.com/br/title/80133311;Séries e filmes para jovens adultos;2017;16;5 temporadas
+81021245;Control Z;https://www.netflix.com/br/title/81021245;Séries e filmes para jovens adultos;2020;18;3 temporadas
+80236318;Outer Banks;https://www.netflix.com/br/title/80236318;Séries e filmes para jovens adultos;2020;16;2 temporadas
+80065386;Supergirl;https://www.netflix.com/br/title/80065386;Séries e filmes para jovens adultos;2015;12;6 temporadas
+81354739;A Love So Beautiful;https://www.netflix.com/br/title/81354739;Séries e filmes para jovens adultos;2020;12;1 temporada
+80197526;Sex Education;https://www.netflix.com/br/title/80197526;Séries e filmes para jovens adultos;2019;16;3 temporadas
+80179190;Eu Nunca...;https://www.netflix.com/br/title/80179190;Séries e filmes para jovens adultos;2020;14;2 temporadas
+80104198;Perdidos no Espaço;https://www.netflix.com/br/title/80104198;Séries e filmes para jovens adultos;2018;12;3 temporadas
+80117470;13 Reasons Why;https://www.netflix.com/br/title/80117470;Séries e filmes para jovens adultos;2017;18;4 temporadas
+80223989;O Mundo Sombrio de Sabrina;https://www.netflix.com/br/title/80223989;Séries e filmes para jovens adultos;2018;16;4 temporadas
+80117809;On My Block;https://www.netflix.com/br/title/80117809;Séries e filmes para jovens adultos;2018;16;4 temporadas
+80241239;Locke & Key;https://www.netflix.com/br/title/80241239;Séries e filmes para jovens adultos;2020;16;2 temporadas
+81176966;KAKEGURUI TWIN;https://www.netflix.com/br/title/81176966;Séries e filmes para jovens adultos;2022;14;1 temporada
+80232926;Ragnarok;https://www.netflix.com/br/title/80232926;Séries e filmes para jovens adultos;2020;16;2 temporadas
+80063153;Kuroko no Basket;https://www.netflix.com/br/title/80063153;Séries e filmes para jovens adultos;2012;10;3 temporadas
+81005504;Jardim de Meteoros;https://www.netflix.com/br/title/81005504;Séries e filmes para jovens adultos;2018;12;1 temporada
+80182054;Shokugeki no Soma;https://www.netflix.com/br/title/80182054;Séries e filmes para jovens adultos;2015;14;2 temporadas
+80117540;Atypical;https://www.netflix.com/br/title/80117540;Séries e filmes para jovens adultos;2017;14;4 temporadas
+81026700;Primeira Vez Amor;https://www.netflix.com/br/title/81026700;Séries e filmes para jovens adultos;2019;12;2 temporadas
+80211703;Areia Movediça;https://www.netflix.com/br/title/80211703;Séries e filmes para jovens adultos;2019;18;1 temporada
+80238357;A Ordem;https://www.netflix.com/br/title/80238357;Séries e filmes para jovens adultos;2019;16;2 temporadas
+70213130;Meninos antes de flores;https://www.netflix.com/br/title/70213130;Séries e filmes para jovens adultos;2009;12;1 temporada
+80179905;Insatiable;https://www.netflix.com/br/title/80179905;Séries e filmes para jovens adultos;2018;16;2 temporadas
+81435649;Apesar de Tudo, Amor;https://www.netflix.com/br/title/81435649;Séries e filmes para jovens adultos;2021;14;1 temporada
+70140438;Juventude à Flor da Pele;https://www.netflix.com/br/title/70140438;Séries e filmes para jovens adultos;2007;18;7 temporadas
+81025696;Ginny e Georgia;https://www.netflix.com/br/title/81025696;Séries e filmes para jovens adultos;2021;16;1 temporada
+80154610;The Rain;https://www.netflix.com/br/title/80154610;Séries e filmes para jovens adultos;2018;16;3 temporadas
+81213653;Primeira Morte;https://www.netflix.com/br/title/81213653;Séries e filmes para jovens adultos;2022;16;1 temporada
+80117781;Saiki Kusuo no Psi-nan;https://www.netflix.com/br/title/80117781;Séries e filmes para jovens adultos;2016;10;3 temporadas
+81295007;Temporada 1;https://www.netflix.com/br/title/81295007;Séries e filmes para jovens adultos;2022;12;1 temporada
+70155589;Community;https://www.netflix.com/br/title/70155589;Séries e filmes para jovens adultos;2009;12;6 temporadas
+81312802;Juvenile Justice;https://www.netflix.com/br/title/81312802;Séries e filmes para jovens adultos;2022;18;1 temporada
+81030026;Gangnam Beauty;https://www.netflix.com/br/title/81030026;Séries e filmes para jovens adultos;2018;16;1 temporada
+80196382;The A List;https://www.netflix.com/br/title/80196382;Séries e filmes para jovens adultos;2018;10;2 temporadas
+81080697;Love 101;https://www.netflix.com/br/title/81080697;Séries e filmes para jovens adultos;2020;12;2 temporadas
+80218448;Como vender drogas online (rápido);https://www.netflix.com/br/title/80218448;Séries e filmes para jovens adultos;2019;18;3 temporadas
+80175722;The End of the F***ing World;https://www.netflix.com/br/title/80175722;Séries e filmes para jovens adultos;2017;16;2 temporadas
+80241947;Garota de Fora;https://www.netflix.com/br/title/80241947;Séries e filmes para jovens adultos;2018;18;2 temporadas
+80168068;Love Alarm;https://www.netflix.com/br/title/80168068;Séries e filmes para jovens adultos;2019;16;2 temporadas
+80205595;Sempre Bruxa;https://www.netflix.com/br/title/80205595;Séries e filmes para jovens adultos;2018;16;2 temporadas
+81568357;Ninguém Mandou Se Meter com a Gente;https://www.netflix.com/br/title/81568357;Séries e filmes para jovens adultos;2022;12;1 temporada
+80049275;Toradora!;https://www.netflix.com/br/title/80049275;Séries e filmes para jovens adultos;2008;12;1 temporada
+80095815;Santa Clarita Diet;https://www.netflix.com/br/title/80095815;Séries e filmes para jovens adultos;2017;16;3 temporadas
+81044547;Sangue e Água;https://www.netflix.com/br/title/81044547;Séries e filmes para jovens adultos;2020;16;2 temporadas
+70153388;Keeping Up with the Kardashians;https://www.netflix.com/br/title/70153388;Séries e filmes para jovens adultos;2007;16;6 temporadas
+80236319;Sombra e Ossos;https://www.netflix.com/br/title/80236319;Séries e filmes para jovens adultos;2021;14;1 temporada
+80211634;Baby;https://www.netflix.com/br/title/80211634;Séries e filmes para jovens adultos;2018;18;3 temporadas
+80220679;Fate: A Saga Winx;https://www.netflix.com/br/title/80220679;Séries e filmes para jovens adultos;2021;16;1 temporada
+81364944;The Daily Life of the Immortal King;https://www.netflix.com/br/title/81364944;Séries e filmes para jovens adultos;2020;14;1 temporada
+81200229;Ombro Amigo;https://www.netflix.com/br/title/81200229;Séries e filmes para jovens adultos;2019;12;1 temporada
+81034661;AlRawabi School for Girls;https://www.netflix.com/br/title/81034661;Séries e filmes para jovens adultos;2021;16;1 temporada
+81459931;Um de Nós Está Mentindo;https://www.netflix.com/br/title/81459931;Séries e filmes para jovens adultos;2022;16;1 temporada
+81194153;Me Tira Daqui;https://www.netflix.com/br/title/81194153;Séries e filmes para jovens adultos;2021;12;1 temporada
+81210762;Young Royals;https://www.netflix.com/br/title/81210762;Séries e filmes para jovens adultos;2021;16;1 temporada
+81183494;She;https://www.netflix.com/br/title/81183494;Séries e filmes para jovens adultos;2020;16;2 temporadas
+80128686;Hello, My Twenties!;https://www.netflix.com/br/title/80128686;Séries e filmes para jovens adultos;2017;12;2 temporadas
+81016276;O Som da Magia;https://www.netflix.com/br/title/81016276;Séries e filmes para jovens adultos;2022;16;1 temporada
+80199393;Cursed - A Lenda do Lago;https://www.netflix.com/br/title/80199393;Séries e filmes para jovens adultos;2020;16;1 temporada
+81004936;Três Metros Acima do Céu;https://www.netflix.com/br/title/81004936;Séries e filmes para jovens adultos;2020;16;3 temporadas
+80228274;Teasing Master Takagi-san;https://www.netflix.com/br/title/80228274;Séries e filmes para jovens adultos;2018;12;1 temporada
+80230561;Gatunas;https://www.netflix.com/br/title/80230561;Séries e filmes para jovens adultos;2019;16;2 temporadas
+81318842;Blue Period;https://www.netflix.com/br/title/81318842;Séries e filmes para jovens adultos;2021;12;1 temporada
+81001036;Ninguém Mandou;https://www.netflix.com/br/title/81001036;Séries e filmes para jovens adultos;2020;10;1 temporada
+80002479;Peaky Blinders: Sangue, Apostas e Navalhas;https://www.netflix.com/br/title/80002479;Embarque na ação;2013;18;6 temporadas
+80021955;Better Call Saul;https://www.netflix.com/br/title/80021955;Embarque na ação;2015;16;6 temporadas
+81002370;Cobra Kai;https://www.netflix.com/br/title/81002370;Embarque na ação;2018;14;4 temporadas
+70301870;Vikings;https://www.netflix.com/br/title/70301870;Embarque na ação;2013;16;6 temporadas
+80189685;The Witcher;https://www.netflix.com/br/title/80189685;Embarque na ação;2019;18;2 temporadas
+80194704;Midas do Ferro-Velho;https://www.netflix.com/br/title/80194704;Embarque na ação;2018;10;4 temporadas
+80058486;Ponto Cego;https://www.netflix.com/br/title/80058486;Embarque na ação;2015;14;5 temporadas
+70205672;A Rainha do Tráfico;https://www.netflix.com/br/title/70205672;Embarque na ação;2011;16;2 temporadas
+80221210;Irmandade;https://www.netflix.com/br/title/80221210;Embarque na ação;2019;18;2 temporadas
+81098497;O Último Dragão;https://www.netflix.com/br/title/81098497;Embarque na ação;2019;16;2 temporadas
+80024057;Como Defender um Assassino;https://www.netflix.com/br/title/80024057;Embarque na ação;2014;16;6 temporadas
+80117552;Ozark;https://www.netflix.com/br/title/80117552;Embarque na ação;2017;16;4 temporadas
+80020542;Gotham;https://www.netflix.com/br/title/80020542;Embarque na ação;2014;16;5 temporadas
+81249833;VINLAND SAGA;https://www.netflix.com/br/title/81249833;Embarque na ação;2019;16;1 temporada
+80104198;Perdidos no Espaço;https://www.netflix.com/br/title/80104198;Embarque na ação;2018;12;3 temporadas
+80025172;Narcos;https://www.netflix.com/br/title/80025172;Embarque na ação;2015;16;3 temporadas
+80237428;La piloto;https://www.netflix.com/br/title/80237428;Embarque na ação;2017;16;2 temporadas
+80141259;Sobrevivendo a Escobar, Alias JJ;https://www.netflix.com/br/title/80141259;Embarque na ação;2017;18;1 temporada
+80109194;O Atirador;https://www.netflix.com/br/title/80109194;Embarque na ação;2016;16;3 temporadas
+80997343;La Casa de Papel: Coreia;https://www.netflix.com/br/title/80997343;Embarque na ação;2022;16;1 temporada
+81034775;Falsa identidad;https://www.netflix.com/br/title/81034775;Embarque na ação;2018;16;2 temporadas
+80100172;Dark;https://www.netflix.com/br/title/80100172;Embarque na ação;2017;16;3 temporadas
+81435684;Arcane;https://www.netflix.com/br/title/81435684;Embarque na ação;2021;14;1 temporada
+80095241;Castlevania;https://www.netflix.com/br/title/80095241;Embarque na ação;2017;16;4 temporadas
+80218200;Titãs;https://www.netflix.com/br/title/80218200;Embarque na ação;2018;18;3 temporadas
+80133042;El Chapo;https://www.netflix.com/br/title/80133042;Embarque na ação;2017;16;3 temporadas
+80036140;As Bonecas da Máfia;https://www.netflix.com/br/title/80036140;Embarque na ação;2009;16;2 temporadas
+80063153;Kuroko no Basket;https://www.netflix.com/br/title/80063153;Embarque na ação;2012;10;3 temporadas
+80204890;F1: Dirigir para Viver;https://www.netflix.com/br/title/80204890;Embarque na ação;2019;14;4 temporadas
+80174608;Love, Death & Robots;https://www.netflix.com/br/title/80174608;Embarque na ação;2019;18;3 temporadas
+81303831;O Poder e a Lei;https://www.netflix.com/br/title/81303831;Embarque na ação;2022;16;1 temporada
+80211703;Areia Movediça;https://www.netflix.com/br/title/80211703;Embarque na ação;2019;18;1 temporada
+81167570;El final del paraíso;https://www.netflix.com/br/title/81167570;Embarque na ação;2019;16;1 temporada
+80177458;Expresso do Amanhã;https://www.netflix.com/br/title/80177458;Embarque na ação;2020;18;3 temporadas
+81287440;Que a Justiça Seja Feita;https://www.netflix.com/br/title/81287440;Embarque na ação;2022;18;1 temporada
+80113647;Designated Survivor;https://www.netflix.com/br/title/80113647;Embarque na ação;2016;16;3 temporadas
+81325983;Beyblade Burst Rise;https://www.netflix.com/br/title/81325983;Embarque na ação;2019;L;1 temporada
+80241001;O Sucessor;https://www.netflix.com/br/title/80241001;Embarque na ação;2018;16;2 temporadas
+81036622;Toy Boy;https://www.netflix.com/br/title/81036622;Embarque na ação;2019;18;2 temporadas
+80997085;Narcos: México;https://www.netflix.com/br/title/80997085;Embarque na ação;2018;16;3 temporadas
+80203144;Arremesso Final;https://www.netflix.com/br/title/80203144;Embarque na ação;2020;12;1 temporada
+81005126;Neymar: O Caos Perfeito;https://www.netflix.com/br/title/81005126;Embarque na ação;2022;14;1 temporada
+80188730;The K2;https://www.netflix.com/br/title/80188730;Embarque na ação;2016;14;1 temporada
+70305883;Marco Polo;https://www.netflix.com/br/title/70305883;Embarque na ação;2014;18;2 temporadas
+80217669;Top Boy;https://www.netflix.com/br/title/80217669;Embarque na ação;2019;18;2 temporadas
+81011211;My Name;https://www.netflix.com/br/title/81011211;Embarque na ação;2021;16;1 temporada
+81286017;Prisioneiro da Madrugada;https://www.netflix.com/br/title/81286017;Embarque na ação;2022;16;1 temporada
+80113612;Fauda;https://www.netflix.com/br/title/80113612;Embarque na ação;2015;16;3 temporadas
+80120485;O Mecanismo;https://www.netflix.com/br/title/80120485;Embarque na ação;2018;16;2 temporadas
+80220145;A Lei Secreta;https://www.netflix.com/br/title/80220145;Embarque na ação;2017;16;1 temporada
+81043571;Tenku Shinpan - Sem Saída;https://www.netflix.com/br/title/81043571;Embarque na ação;2021;18;1 temporada
+80115297;El Marginal - O Cara de Fora;https://www.netflix.com/br/title/80115297;Embarque na ação;2016;18;5 temporadas
+80049277;Ash vs. Evil Dead;https://www.netflix.com/br/title/80049277;Embarque na ação;2015;18;3 temporadas
+80994336;DOTA: Dragon's Blood;https://www.netflix.com/br/title/80994336;Embarque na ação;2021;16;2 temporadas
+81024039;Bárbaros;https://www.netflix.com/br/title/81024039;Embarque na ação;2020;18;1 temporada
+80991903;Dorohedoro;https://www.netflix.com/br/title/80991903;Embarque na ação;2020;16;1 temporada
+80097140;Altered Carbon;https://www.netflix.com/br/title/80097140;Embarque na ação;2018;18;2 temporadas
+70304245;Um Drink no Inferno;https://www.netflix.com/br/title/70304245;Embarque na ação;2014;16;3 temporadas
+80198988;Black Summer;https://www.netflix.com/br/title/80198988;Embarque na ação;2019;16;2 temporadas
+80145143;Bordertown;https://www.netflix.com/br/title/80145143;Embarque na ação;2016;16;3 temporadas
+81039388;O Homem das Castanhas;https://www.netflix.com/br/title/81039388;Embarque na ação;2021;18;1 temporada
+81002003;Círculo de Fogo: The Black;https://www.netflix.com/br/title/81002003;Embarque na ação;2021;14;2 temporadas
+80199393;Cursed - A Lenda do Lago;https://www.netflix.com/br/title/80199393;Embarque na ação;2020;16;1 temporada
+80988066;Hellsing Ultimate;https://www.netflix.com/br/title/80988066;Embarque na ação;2006;18;1 temporada
+80077417;Colony;https://www.netflix.com/br/title/80077417;Embarque na ação;2016;16;3 temporadas
+80174974;Devilman Crybaby;https://www.netflix.com/br/title/80174974;Embarque na ação;2018;18;1 temporada
+81239373;Matchday: FC Barcelona;https://www.netflix.com/br/title/81239373;Embarque na ação;2020;14;1 temporada
+80177346;Feliz!;https://www.netflix.com/br/title/80177346;Embarque na ação;2017;18;2 temporadas
+81175433;Submundo do Crime;https://www.netflix.com/br/title/81175433;Embarque na ação;2021;16;1 temporada
+80240691;O Bosque;https://www.netflix.com/br/title/80240691;Embarque na ação;2017;16;1 temporada
+80225312;Operação Ecstasy;https://www.netflix.com/br/title/80225312;Embarque na ação;2019;16;3 temporadas
+80189648;Hyperdrive;https://www.netflix.com/br/title/80189648;Embarque na ação;2019;10;1 temporada
+80081537;Suburra: Sangue em Roma;https://www.netflix.com/br/title/80081537;Embarque na ação;2017;18;3 temporadas
+81015514;Ninguém Pode Saber;https://www.netflix.com/br/title/81015514;Embarque na ação;2022;16;1 temporada
+81025403;O Detento;https://www.netflix.com/br/title/81025403;Embarque na ação;2018;18;1 temporada
+81423382;Alba;https://www.netflix.com/br/title/81423382;Séries estrangeiras;2021;16;1 temporada
+81237994;All of Us Are Dead;https://www.netflix.com/br/title/81237994;Séries estrangeiras;2022;16;1 temporada
+81159258;Pousando no Amor;https://www.netflix.com/br/title/81159258;Séries estrangeiras;2019;12;1 temporada
+80200942;Elite;https://www.netflix.com/br/title/80200942;Séries estrangeiras;2018;18;5 temporadas
+80127001;O Grande Guerreiro Otomano;https://www.netflix.com/br/title/80127001;Séries estrangeiras;2014;14;5 temporadas
+81086462;Prisão de Mulheres;https://www.netflix.com/br/title/81086462;Séries estrangeiras;2019;16;2 temporadas
+81365087;Vincenzo;https://www.netflix.com/br/title/81365087;Séries estrangeiras;2021;16;1 temporada
+80176234;Dinheiro Sujo e Amor;https://www.netflix.com/br/title/80176234;Séries estrangeiras;2014;16;1 temporada
+81430282;O Rei de Porcelana;https://www.netflix.com/br/title/81430282;Séries estrangeiras;2021;16;1 temporada
+81517188;Alquimia das Almas;https://www.netflix.com/br/title/81517188;Séries estrangeiras;2022;16;1 temporada
+81442115;Match VIP;https://www.netflix.com/br/title/81442115;Séries estrangeiras;2022;16;1 temporada
+80100172;Dark;https://www.netflix.com/br/title/80100172;Séries estrangeiras;2017;16;3 temporadas
+81243992;Tudo Bem Não Ser Normal;https://www.netflix.com/br/title/81243992;Séries estrangeiras;2020;16;1 temporada
+80232926;Ragnarok;https://www.netflix.com/br/title/80232926;Séries estrangeiras;2020;16;2 temporadas
+81005504;Jardim de Meteoros;https://www.netflix.com/br/title/81005504;Séries estrangeiras;2018;12;1 temporada
+80196931;Hwarang;https://www.netflix.com/br/title/80196931;Séries estrangeiras;2016;16;1 temporada
+81318872;Na Direção do Amor;https://www.netflix.com/br/title/81318872;Séries estrangeiras;2020;12;1 temporada
+81290301;Passarela de Sonhos;https://www.netflix.com/br/title/81290301;Séries estrangeiras;2020;12;1 temporada
+80994082;Lupin;https://www.netflix.com/br/title/80994082;Séries estrangeiras;2021;16;2 temporadas
+81503460;Amanhã;https://www.netflix.com/br/title/81503460;Séries estrangeiras;2022;16;1 temporada
+81517168;Vinte e Cinco, Vinte e Um;https://www.netflix.com/br/title/81517168;Séries estrangeiras;2022;12;1 temporada
+81260283;O Rei Eterno;https://www.netflix.com/br/title/81260283;Séries estrangeiras;2020;12;1 temporada
+81394495;She Would Never Know;https://www.netflix.com/br/title/81394495;Séries estrangeiras;2021;12;1 temporada
+81026700;Primeira Vez Amor;https://www.netflix.com/br/title/81026700;Séries estrangeiras;2019;12;2 temporadas
+81362748;Amor, Casamento e Divórcio;https://www.netflix.com/br/title/81362748;Séries estrangeiras;2021;14;3 temporadas
+80211703;Areia Movediça;https://www.netflix.com/br/title/80211703;Séries estrangeiras;2019;18;1 temporada
+81290293;Apostando Alto;https://www.netflix.com/br/title/81290293;Séries estrangeiras;2020;12;1 temporada
+80100929;As Telefonistas;https://www.netflix.com/br/title/80100929;Séries estrangeiras;2017;18;6 temporadas
+81287440;Que a Justiça Seja Feita;https://www.netflix.com/br/title/81287440;Séries estrangeiras;2022;18;1 temporada
+80241001;O Sucessor;https://www.netflix.com/br/title/80241001;Séries estrangeiras;2018;16;2 temporadas
+70213130;Meninos antes de flores;https://www.netflix.com/br/title/70213130;Séries estrangeiras;2009;12;1 temporada
+81239224;Hospital Playlist;https://www.netflix.com/br/title/81239224;Séries estrangeiras;2020;12;2 temporadas
+81435649;Apesar de Tudo, Amor;https://www.netflix.com/br/title/81435649;Séries estrangeiras;2021;14;1 temporada
+81036622;Toy Boy;https://www.netflix.com/br/title/81036622;Séries estrangeiras;2019;18;2 temporadas
+80154610;The Rain;https://www.netflix.com/br/title/80154610;Séries estrangeiras;2018;16;3 temporadas
+80188605;Cinderela e os Quatro Cavaleiros;https://www.netflix.com/br/title/80188605;Séries estrangeiras;2016;14;1 temporada
+80188730;The K2;https://www.netflix.com/br/title/80188730;Séries estrangeiras;2016;14;1 temporada
+81568842;Amor e Outros Dramas;https://www.netflix.com/br/title/81568842;Séries estrangeiras;2022;16;1 temporada
+81008021;Holo, Meu Amor;https://www.netflix.com/br/title/81008021;Séries estrangeiras;2020;16;1 temporada
+81354529;A Cozinheira de Castamar;https://www.netflix.com/br/title/81354529;Séries estrangeiras;2021;16;1 temporada
+80149594;Intersection;https://www.netflix.com/br/title/80149594;Séries estrangeiras;2016;12;3 temporadas
+80986896;Love in the Moonlight;https://www.netflix.com/br/title/80986896;Séries estrangeiras;2016;16;1 temporada
+81465196;Backstreet Rookie;https://www.netflix.com/br/title/81465196;Séries estrangeiras;2020;14;1 temporada
+81277858;Os Segredos de Manscheid;https://www.netflix.com/br/title/81277858;Séries estrangeiras;2019;16;2 temporadas
+81033650;Herdeiros;https://www.netflix.com/br/title/81033650;Séries estrangeiras;2013;14;1 temporada
+81312802;Juvenile Justice;https://www.netflix.com/br/title/81312802;Séries estrangeiras;2022;18;1 temporada
+81478080;Entrevías;https://www.netflix.com/br/title/81478080;Séries estrangeiras;2022;16;1 temporada
+81030026;Gangnam Beauty;https://www.netflix.com/br/title/81030026;Séries estrangeiras;2018;16;1 temporada
+81403973;É Tudo Meu;https://www.netflix.com/br/title/81403973;Séries estrangeiras;2021;14;1 temporada
+81149763;Intimidade;https://www.netflix.com/br/title/81149763;Séries estrangeiras;2022;16;1 temporada
+81568400;Trinta e Nove;https://www.netflix.com/br/title/81568400;Séries estrangeiras;2022;16;1 temporada
+80991107;Mr. Sunshine - Um Raio de Sol;https://www.netflix.com/br/title/80991107;Séries estrangeiras;2018;16;1 temporada
+80113612;Fauda;https://www.netflix.com/br/title/80113612;Séries estrangeiras;2015;16;3 temporadas
+80214405;Uma Odisseia Coreana;https://www.netflix.com/br/title/80214405;Séries estrangeiras;2017;16;1 temporada
+80099753;Versailles;https://www.netflix.com/br/title/80099753;Séries estrangeiras;2015;18;3 temporadas
+81080697;Love 101;https://www.netflix.com/br/title/81080697;Séries estrangeiras;2020;12;2 temporadas
+80218448;Como vender drogas online (rápido);https://www.netflix.com/br/title/80218448;Séries estrangeiras;2019;18;3 temporadas
+80241947;Garota de Fora;https://www.netflix.com/br/title/80241947;Séries estrangeiras;2018;18;2 temporadas
+80168068;Love Alarm;https://www.netflix.com/br/title/80168068;Séries estrangeiras;2019;16;2 temporadas
+81044547;Sangue e Água;https://www.netflix.com/br/title/81044547;Séries estrangeiras;2020;16;2 temporadas
+80233258;Alto Mar;https://www.netflix.com/br/title/80233258;Séries estrangeiras;2019;16;3 temporadas
+80987113;The Princess Weiyoung;https://www.netflix.com/br/title/80987113;Séries estrangeiras;2016;14;1 temporada
+80212986;Valéria;https://www.netflix.com/br/title/80212986;Séries estrangeiras;2020;18;2 temporadas
+70302482;Borgen;https://www.netflix.com/br/title/70302482;Séries estrangeiras;2010;14;3 temporadas
+81095101;Retaliação;https://www.netflix.com/br/title/81095101;Séries estrangeiras;2019;16;1 temporada
+81026363;Ashes of Love;https://www.netflix.com/br/title/81026363;Séries estrangeiras;2018;14;1 temporada
+80211634;Baby;https://www.netflix.com/br/title/80211634;Séries estrangeiras;2018;18;3 temporadas
+81034661;AlRawabi School for Girls;https://www.netflix.com/br/title/81034661;Séries estrangeiras;2021;16;1 temporada
+81403966;Navillera;https://www.netflix.com/br/title/81403966;Séries estrangeiras;2021;12;1 temporada
+80990381;A Caminho do Céu;https://www.netflix.com/br/title/80990381;Séries estrangeiras;2021;16;1 temporada
+80188423;Healer;https://www.netflix.com/br/title/80188423;Séries estrangeiras;2014;16;1 temporada
+81037848;O Segredo do Templo;https://www.netflix.com/br/title/81037848;Séries estrangeiras;2019;16;3 temporadas
+81211710;Bem-vindos ao Éden;https://www.netflix.com/br/title/81211710;Séries estrangeiras;2022;16;1 temporada
+81568851;Um Pesadelo de Casamento;https://www.netflix.com/br/title/81568851;Séries estrangeiras;2022;12;1 temporada
+80188351;Responde 1988;https://www.netflix.com/br/title/80188351;Séries estrangeiras;2015;14;1 temporada
+80035684;Pablo Escobar, el patrón del mal;https://www.netflix.com/br/title/80035684;Séries dramáticas colombianas;2012;16;1 temporada
+80153272;Sin senos sí hay paraíso;https://www.netflix.com/br/title/80153272;Séries dramáticas colombianas;2016;16;3 temporadas
+81261170;Coração Marcado;https://www.netflix.com/br/title/81261170;Séries dramáticas colombianas;2022;16;1 temporada
+81022683;La Reina del Flow;https://www.netflix.com/br/title/81022683;Séries dramáticas colombianas;2018;14;2 temporadas
+80036140;As Bonecas da Máfia;https://www.netflix.com/br/title/80036140;Séries dramáticas colombianas;2009;16;2 temporadas
+81398330;Novo Rico, Novo Pobre;https://www.netflix.com/br/title/81398330;Séries dramáticas colombianas;2007;14;1 temporada
+80108473;La Esclava Blanca;https://www.netflix.com/br/title/80108473;Séries dramáticas colombianas;2016;14;1 temporada
+81398329;Pedro, O Escamoso;https://www.netflix.com/br/title/81398329;Séries dramáticas colombianas;2001;14;1 temporada
+80120640;A Menina;https://www.netflix.com/br/title/80120640;Séries dramáticas colombianas;2016;14;1 temporada
+81167570;El final del paraíso;https://www.netflix.com/br/title/81167570;Séries dramáticas colombianas;2019;16;1 temporada
+81144163;Amar e Viver;https://www.netflix.com/br/title/81144163;Séries dramáticas colombianas;2020;16;1 temporada
+81055416;Índia Catalina;https://www.netflix.com/br/title/81055416;Séries dramáticas colombianas;2020;16;1 temporada
+80220145;A Lei Secreta;https://www.netflix.com/br/title/80220145;Séries dramáticas colombianas;2017;16;1 temporada
+80220422;Bolívar;https://www.netflix.com/br/title/80220422;Séries dramáticas colombianas;2019;16;1 temporada
+81398328;Canta Escalona;https://www.netflix.com/br/title/81398328;Séries dramáticas colombianas;1991;14;1 temporada
+81084349;Ritmo Selvagem;https://www.netflix.com/br/title/81084349;Séries dramáticas colombianas;2022;16;1 temporada
+81080761;Um Mágico Nada Incrível;https://www.netflix.com/br/title/81080761;Séries dramáticas colombianas;2020;12;2 temporadas
+80186863;The Umbrella Academy;https://www.netflix.com/br/title/80186863;Séries de terror e ficção científica;2019;16;3 temporadas
+70283264;The 100;https://www.netflix.com/br/title/70283264;Séries de terror e ficção científica;2014;14;7 temporadas
+80084447;Shadowhunters: The Mortal Instruments;https://www.netflix.com/br/title/80084447;Séries de terror e ficção científica;2016;14;4 temporadas
+80996532;Resident Evil: A Série;https://www.netflix.com/br/title/80996532;Séries de terror e ficção científica;2022;18;1 temporada
+80065386;Supergirl;https://www.netflix.com/br/title/80065386;Séries de terror e ficção científica;2015;12;6 temporadas
+70204970;DEATH NOTE;https://www.netflix.com/br/title/70204970;Séries de terror e ficção científica;2006;16;1 temporada
+80008434;Z Nation;https://www.netflix.com/br/title/80008434;Séries de terror e ficção científica;2014;16;5 temporadas
+80223989;O Mundo Sombrio de Sabrina;https://www.netflix.com/br/title/80223989;Séries de terror e ficção científica;2018;16;4 temporadas
+80100172;Dark;https://www.netflix.com/br/title/80100172;Séries de terror e ficção científica;2017;16;3 temporadas
+80095241;Castlevania;https://www.netflix.com/br/title/80095241;Séries de terror e ficção científica;2017;16;4 temporadas
+80218200;Titãs;https://www.netflix.com/br/title/80218200;Séries de terror e ficção científica;2018;18;3 temporadas
+80174608;Love, Death & Robots;https://www.netflix.com/br/title/80174608;Séries de terror e ficção científica;2019;18;3 temporadas
+80121349;Van Helsing;https://www.netflix.com/br/title/80121349;Séries de terror e ficção científica;2016;18;5 temporadas
+80178687;Raio Negro;https://www.netflix.com/br/title/80178687;Séries de terror e ficção científica;2018;16;4 temporadas
+80066080;DC's Legends of Tomorrow;https://www.netflix.com/br/title/80066080;Séries de terror e ficção científica;2016;14;6 temporadas
+80177458;Expresso do Amanhã;https://www.netflix.com/br/title/80177458;Séries de terror e ficção científica;2020;18;3 temporadas
+80238357;A Ordem;https://www.netflix.com/br/title/80238357;Séries de terror e ficção científica;2019;16;2 temporadas
+80154610;The Rain;https://www.netflix.com/br/title/80154610;Séries de terror e ficção científica;2018;16;3 temporadas
+80200575;Alice in Borderland;https://www.netflix.com/br/title/80200575;Séries de terror e ficção científica;2020;16;1 temporada
+70264888;Black Mirror;https://www.netflix.com/br/title/70264888;Séries de terror e ficção científica;2011;16;5 temporadas
+81008021;Holo, Meu Amor;https://www.netflix.com/br/title/81008021;Séries de terror e ficção científica;2020;16;1 temporada
+80025744;Sense8;https://www.netflix.com/br/title/80025744;Séries de terror e ficção científica;2015;18;2 temporadas
+80074220;3%;https://www.netflix.com/br/title/80074220;Séries de terror e ficção científica;2016;16;4 temporadas
+70158329;Jornada nas Estrelas: A nova geração;https://www.netflix.com/br/title/70158329;Séries de terror e ficção científica;1987;14;7 temporadas
+80189221;A Maldição da Residência Hill;https://www.netflix.com/br/title/80189221;Séries de terror e ficção científica;2018;16;1 temporada
+80095815;Santa Clarita Diet;https://www.netflix.com/br/title/80095815;Séries de terror e ficção científica;2017;16;3 temporadas
+80108495;Glitch;https://www.netflix.com/br/title/80108495;Séries de terror e ficção científica;2015;16;3 temporadas
+80174479;Final Space;https://www.netflix.com/br/title/80174479;Séries de terror e ficção científica;2018;16;3 temporadas
+81083626;Missa da Meia-Noite;https://www.netflix.com/br/title/81083626;Séries de terror e ficção científica;2021;16;1 temporada
+81237854;A Maldição da Mansão Bly;https://www.netflix.com/br/title/81237854;Séries de terror e ficção científica;2020;16;1 temporada
+80049277;Ash vs. Evil Dead;https://www.netflix.com/br/title/80049277;Séries de terror e ficção científica;2015;18;3 temporadas
+81211710;Bem-vindos ao Éden;https://www.netflix.com/br/title/81211710;Séries de terror e ficção científica;2022;16;1 temporada
+81061734;Sweet Home;https://www.netflix.com/br/title/81061734;Séries de terror e ficção científica;2020;16;1 temporada
+80180171;Kingdom;https://www.netflix.com/br/title/80180171;Séries de terror e ficção científica;2019;16;2 temporadas
+80044950;The OA;https://www.netflix.com/br/title/80044950;Séries de terror e ficção científica;2016;18;2 temporadas
+80105452;Slasher;https://www.netflix.com/br/title/80105452;Séries de terror e ficção científica;2017;18;3 temporadas
+80236236;Outra Vida;https://www.netflix.com/br/title/80236236;Séries de terror e ficção científica;2019;16;2 temporadas
+80097140;Altered Carbon;https://www.netflix.com/br/title/80097140;Séries de terror e ficção científica;2018;18;2 temporadas
+80172145;Diablero;https://www.netflix.com/br/title/80172145;Séries de terror e ficção científica;2018;16;2 temporadas
+80105699;Travelers;https://www.netflix.com/br/title/80105699;Séries de terror e ficção científica;2016;16;3 temporadas
+70304245;Um Drink no Inferno;https://www.netflix.com/br/title/70304245;Séries de terror e ficção científica;2014;16;3 temporadas
+80198988;Black Summer;https://www.netflix.com/br/title/80198988;Séries de terror e ficção científica;2019;16;2 temporadas
+80217779;Marianne;https://www.netflix.com/br/title/80217779;Séries de terror e ficção científica;2019;16;1 temporada
+81008221;Noite Adentro;https://www.netflix.com/br/title/81008221;Séries de terror e ficção científica;2020;14;2 temporadas
+81026915;Better Than Us;https://www.netflix.com/br/title/81026915;Séries de terror e ficção científica;2019;14;1 temporada
+80171099;Salvation;https://www.netflix.com/br/title/80171099;Séries de terror e ficção científica;2017;16;2 temporadas
+81098012;O Mar da Tranquilidade;https://www.netflix.com/br/title/81098012;Séries de terror e ficção científica;2021;16;1 temporada
+80988066;Hellsing Ultimate;https://www.netflix.com/br/title/80988066;Séries de terror e ficção científica;2006;18;1 temporada
+80077417;Colony;https://www.netflix.com/br/title/80077417;Séries de terror e ficção científica;2016;16;3 temporadas
+80213445;Ratched;https://www.netflix.com/br/title/80213445;Séries de terror e ficção científica;2020;18;1 temporada
+80174974;Devilman Crybaby;https://www.netflix.com/br/title/80174974;Séries de terror e ficção científica;2018;18;1 temporada
+80135414;O Nevoeiro;https://www.netflix.com/br/title/80135414;Séries de terror e ficção científica;2017;16;1 temporada
+80222802;Arquivo 81;https://www.netflix.com/br/title/80222802;Séries de terror e ficção científica;2022;16;1 temporada
+81017316;Grite, você está sendo filmado;https://www.netflix.com/br/title/81017316;Séries de terror e ficção científica;2019;12;2 temporadas
+81609084;Venda Sua Casa Assombrada;https://www.netflix.com/br/title/81609084;Séries de terror e ficção científica;2021;16;1 temporada
+80244953;O Legado de Júpiter;https://www.netflix.com/br/title/80244953;Séries de terror e ficção científica;2021;16;1 temporada
+81256675;Profecia do Inferno;https://www.netflix.com/br/title/81256675;Séries de terror e ficção científica;2021;18;1 temporada
+70242310;Hemlock Grove;https://www.netflix.com/br/title/70242310;Séries de terror e ficção científica;2013;18;3 temporadas
+80197462;Daybreak;https://www.netflix.com/br/title/80197462;Séries de terror e ficção científica;2019;16;1 temporada
+81123055;À Tona;https://www.netflix.com/br/title/81123055;Séries de terror e ficção científica;2022;16;1 temporada
+80997687;Drácula;https://www.netflix.com/br/title/80997687;Séries de terror e ficção científica;2020;16;1 temporada
+80221410;A Vida em Outros Planetas;https://www.netflix.com/br/title/80221410;Séries de terror e ficção científica;2020;10;1 temporada
+81397558;O Mito de Sísifo;https://www.netflix.com/br/title/81397558;Séries de terror e ficção científica;2021;16;1 temporada
+81259476;Farzar;https://www.netflix.com/br/title/81259476;Séries de terror e ficção científica;2022;16;1 temporada
+80993062;The I-Land;https://www.netflix.com/br/title/80993062;Séries de terror e ficção científica;2019;16;1 temporada
+80236118;Apocalipse V;https://www.netflix.com/br/title/80236118;Séries de terror e ficção científica;2019;16;1 temporada
+80987064;RESIDENT EVIL: No Escuro Absoluto;https://www.netflix.com/br/title/80987064;Séries de terror e ficção científica;2021;16;1 temporada
+81215555;Eu Vi: América Latina;https://www.netflix.com/br/title/81215555;Séries de terror e ficção científica;2021;16;1 temporada
+81302258;Cidade dos Mortos;https://www.netflix.com/br/title/81302258;Séries de terror e ficção científica;2020;16;1 temporada
+81073507;Zona de Separação;https://www.netflix.com/br/title/81073507;Séries de terror e ficção científica;2020;16;1 temporada
+80119426;Dirk Gently's Holistic Detective Agency;https://www.netflix.com/br/title/80119426;Séries de terror e ficção científica;2016;14;2 temporadas
+81152779;Elfos;https://www.netflix.com/br/title/81152779;Séries de terror e ficção científica;2021;12;1 temporada
+81019792;Coletivo Terror;https://www.netflix.com/br/title/81019792;Séries de terror e ficção científica;2020;18;1 temporada
+80195378;Eu Vi;https://www.netflix.com/br/title/80195378;Séries de terror e ficção científica;2018;18;3 temporadas
+80158285;Legion;https://www.netflix.com/br/title/80158285;Séries de terror e ficção científica;2017;16;3 temporadas
+70281562;Brooklyn Nine-Nine;https://www.netflix.com/br/title/70281562;Séries aclamadas pela crítica;2013;14;7 temporadas
+80057918;Lucifer;https://www.netflix.com/br/title/80057918;Séries aclamadas pela crítica;2016;16;6 temporadas
+80232398;Bridgerton;https://www.netflix.com/br/title/80232398;Séries aclamadas pela crítica;2020;16;2 temporadas
+70285581;Outlander;https://www.netflix.com/br/title/70285581;Séries aclamadas pela crítica;2014;16;5 temporadas
+70205672;A Rainha do Tráfico;https://www.netflix.com/br/title/70205672;Séries aclamadas pela crítica;2011;16;2 temporadas
+80051137;Fuller House;https://www.netflix.com/br/title/80051137;Séries aclamadas pela crítica;2016;L;5 temporadas
+70242311;Orange Is the New Black;https://www.netflix.com/br/title/70242311;Séries aclamadas pela crítica;2013;18;7 temporadas
+80027158;Jane The Virgin;https://www.netflix.com/br/title/80027158;Séries aclamadas pela crítica;2014;14;5 temporadas
+80127001;O Grande Guerreiro Otomano;https://www.netflix.com/br/title/80127001;Séries aclamadas pela crítica;2014;14;5 temporadas
+80024057;Como Defender um Assassino;https://www.netflix.com/br/title/80024057;Séries aclamadas pela crítica;2014;16;6 temporadas
+80117552;Ozark;https://www.netflix.com/br/title/80117552;Séries aclamadas pela crítica;2017;16;4 temporadas
+80197526;Sex Education;https://www.netflix.com/br/title/80197526;Séries aclamadas pela crítica;2019;16;3 temporadas
+80025678;The Crown;https://www.netflix.com/br/title/80025678;Séries aclamadas pela crítica;2016;14;4 temporadas
+80025172;Narcos;https://www.netflix.com/br/title/80025172;Séries aclamadas pela crítica;2015;16;3 temporadas
+81166770;Maid;https://www.netflix.com/br/title/81166770;Séries aclamadas pela crítica;2021;16;1 temporada
+81022683;La Reina del Flow;https://www.netflix.com/br/title/81022683;Séries aclamadas pela crítica;2018;14;2 temporadas
+81037371;Emily em Paris;https://www.netflix.com/br/title/81037371;Séries aclamadas pela crítica;2020;14;2 temporadas
+81435684;Arcane;https://www.netflix.com/br/title/81435684;Séries aclamadas pela crítica;2021;14;1 temporada
+70300800;BoJack Horseman;https://www.netflix.com/br/title/70300800;Séries aclamadas pela crítica;2014;16;6 temporadas
+80117038;Big Mouth;https://www.netflix.com/br/title/80117038;Séries aclamadas pela crítica;2017;16;5 temporadas
+81243992;Tudo Bem Não Ser Normal;https://www.netflix.com/br/title/81243992;Séries aclamadas pela crítica;2020;16;1 temporada
+70153373;Seinfeld;https://www.netflix.com/br/title/70153373;Séries aclamadas pela crítica;1989;12;9 temporadas
+81149450;Vikings: Valhalla;https://www.netflix.com/br/title/81149450;Séries aclamadas pela crítica;2022;16;1 temporada
+80204890;F1: Dirigir para Viver;https://www.netflix.com/br/title/80204890;Séries aclamadas pela crítica;2019;14;4 temporadas
+80174608;Love, Death & Robots;https://www.netflix.com/br/title/80174608;Séries aclamadas pela crítica;2019;18;3 temporadas
+80994082;Lupin;https://www.netflix.com/br/title/80994082;Séries aclamadas pela crítica;2021;16;2 temporadas
+80049832;Nosso Planeta;https://www.netflix.com/br/title/80049832;Séries aclamadas pela crítica;2019;10;1 temporada
+80113701;The Good Place;https://www.netflix.com/br/title/80113701;Séries aclamadas pela crítica;2016;16;4 temporadas
+80017537;Grace and Frankie;https://www.netflix.com/br/title/80017537;Séries aclamadas pela crítica;2015;16;7 temporadas
+70178217;House of Cards;https://www.netflix.com/br/title/70178217;Séries aclamadas pela crítica;2013;18;6 temporadas
+80234304;O Gambito da Rainha;https://www.netflix.com/br/title/80234304;Séries aclamadas pela crítica;2020;16;1 temporada
+70187741;RuPaul's Drag Race;https://www.netflix.com/br/title/70187741;Séries aclamadas pela crítica;2009;14;13 temporadas
+80175802;The Sinner;https://www.netflix.com/br/title/80175802;Séries aclamadas pela crítica;2017;16;4 temporadas
+81008305;Inventando Anna;https://www.netflix.com/br/title/81008305;Séries aclamadas pela crítica;2022;16;1 temporada
+80203144;Arremesso Final;https://www.netflix.com/br/title/80203144;Séries aclamadas pela crítica;2020;12;1 temporada
+70264888;Black Mirror;https://www.netflix.com/br/title/70264888;Séries aclamadas pela crítica;2011;16;5 temporadas
+80095532;One Day at a Time;https://www.netflix.com/br/title/80095532;Séries aclamadas pela crítica;2017;12;3 temporadas
+80025744;Sense8;https://www.netflix.com/br/title/80025744;Séries aclamadas pela crítica;2015;18;2 temporadas
+70142436;As Aventuras de Merlin;https://www.netflix.com/br/title/70142436;Séries aclamadas pela crítica;2008;12;5 temporadas
+80114855;MINDHUNTER;https://www.netflix.com/br/title/80114855;Séries aclamadas pela crítica;2017;16;2 temporadas
+80996601;Casamento às Cegas;https://www.netflix.com/br/title/80996601;Séries aclamadas pela crítica;2020;14;2 temporadas
+80028732;F is for Family;https://www.netflix.com/br/title/80028732;Séries aclamadas pela crítica;2015;16;5 temporadas
+70136140;Jornada nas estrelas;https://www.netflix.com/br/title/70136140;Séries aclamadas pela crítica;1966;10;3 temporadas
+81086133;Os Parques Nacionais Mais Fascinantes do Mundo;https://www.netflix.com/br/title/81086133;Séries aclamadas pela crítica;2022;L;1 temporada
+80179138;Mandou Bem;https://www.netflix.com/br/title/80179138;Séries aclamadas pela crítica;2018;L;6 temporadas
+80175722;The End of the F***ing World;https://www.netflix.com/br/title/80175722;Séries aclamadas pela crítica;2017;16;2 temporadas
+80182123;Violet Evergarden;https://www.netflix.com/br/title/80182123;Séries aclamadas pela crítica;2018;16;1 temporada
+80049275;Toradora!;https://www.netflix.com/br/title/80049275;Séries aclamadas pela crítica;2008;12;1 temporada
+80202462;A Vida e a História de Madam C.J. Walker;https://www.netflix.com/br/title/80202462;Séries aclamadas pela crítica;2020;14;1 temporada
+70302482;Borgen;https://www.netflix.com/br/title/70302482;Séries aclamadas pela crítica;2010;14;3 temporadas
+80223108;Sunset - Milha de Ouro;https://www.netflix.com/br/title/80223108;Séries aclamadas pela crítica;2019;14;5 temporadas
+80153467;Inacreditável;https://www.netflix.com/br/title/80153467;Séries aclamadas pela crítica;2019;16;1 temporada
+81083626;Missa da Meia-Noite;https://www.netflix.com/br/title/81083626;Séries aclamadas pela crítica;2021;16;1 temporada
+81237854;A Maldição da Mansão Bly;https://www.netflix.com/br/title/81237854;Séries aclamadas pela crítica;2020;16;1 temporada
+80001305;Cowboy Bebop;https://www.netflix.com/br/title/80001305;Séries aclamadas pela crítica;1998;16;1 temporada
+80200549;Olhos que Condenam;https://www.netflix.com/br/title/80200549;Séries aclamadas pela crítica;2019;16;1 temporada
+81028174;Família Upshaw;https://www.netflix.com/br/title/81028174;Séries aclamadas pela crítica;2021;16;2 temporadas
+80201680;O Método Kominsky;https://www.netflix.com/br/title/80201680;Séries aclamadas pela crítica;2018;16;3 temporadas
+80149395;The Alienist;https://www.netflix.com/br/title/80149395;Séries aclamadas pela crítica;2018;16;2 temporadas
+80217779;Marianne;https://www.netflix.com/br/title/80217779;Séries aclamadas pela crítica;2019;16;1 temporada
+80219707;Disque Amiga para Matar;https://www.netflix.com/br/title/80219707;Séries aclamadas pela crítica;2019;16;2 temporadas
+70140358;Arrested Development;https://www.netflix.com/br/title/70140358;Séries aclamadas pela crítica;2003;12;5 temporadas
+80146601;Somebody Feed Phil;https://www.netflix.com/br/title/80146601;Séries aclamadas pela crítica;2018;10;5 temporadas
+81019069;Nada Ortodoxa;https://www.netflix.com/br/title/81019069;Séries aclamadas pela crítica;2020;16;1 temporada
+80213445;Ratched;https://www.netflix.com/br/title/80213445;Séries aclamadas pela crítica;2020;18;1 temporada
+80235864;Segurança em Jogo;https://www.netflix.com/br/title/80235864;Séries aclamadas pela crítica;2018;16;1 temporada
+80160037;Queer Eye;https://www.netflix.com/br/title/80160037;Séries aclamadas pela crítica;2018;12;6 temporadas
+80123779;Atlanta;https://www.netflix.com/br/title/80123779;Séries aclamadas pela crítica;2016;18;2 temporadas
+81098586;Explicando - A Mente;https://www.netflix.com/br/title/81098586;Séries aclamadas pela crítica;2019;14;2 temporadas
+70285785;Fargo;https://www.netflix.com/br/title/70285785;Séries aclamadas pela crítica;2014;16;3 temporadas
+80097141;Godless;https://www.netflix.com/br/title/80097141;Séries aclamadas pela crítica;2017;16;1 temporada
+80007945;Chef's Table;https://www.netflix.com/br/title/80007945;Séries aclamadas pela crítica;2015;12;6 temporadas
+80244700;Ninguém Tá Olhando;https://www.netflix.com/br/title/80244700;Séries aclamadas pela crítica;2019;16;1 temporada
+80119411;Alias Grace;https://www.netflix.com/br/title/80119411;Séries aclamadas pela crítica;2017;16;1 temporada
+81046613;Last Chance U: Basquete;https://www.netflix.com/br/title/81046613;Séries aclamadas pela crítica;2021;12;1 temporada
+80221223;Bom Dia, Verônica;https://www.netflix.com/br/title/80221223;Séries para maratonar;2020;18;2 temporadas
+81150303;Sandman;https://www.netflix.com/br/title/81150303;Séries para maratonar;2022;18;1 temporada
+81276119;Respire!;https://www.netflix.com/br/title/81276119;Séries para maratonar;2022;14;1 temporada
+80046347;Señora Acero;https://www.netflix.com/br/title/80046347;Séries para maratonar;2014;16;5 temporadas
+80993876;María Magdalena;https://www.netflix.com/br/title/80993876;Séries para maratonar;2018;16;1 temporada
+80221210;Irmandade;https://www.netflix.com/br/title/80221210;Séries para maratonar;2019;18;2 temporadas
+81021245;Control Z;https://www.netflix.com/br/title/81021245;Séries para maratonar;2020;18;3 temporadas
+81098497;O Último Dragão;https://www.netflix.com/br/title/81098497;Séries para maratonar;2019;16;2 temporadas
+70242311;Orange Is the New Black;https://www.netflix.com/br/title/70242311;Séries para maratonar;2013;18;7 temporadas
+80074249;The Last Kingdom;https://www.netflix.com/br/title/80074249;Séries para maratonar;2015;18;5 temporadas
+80179394;Dinastia;https://www.netflix.com/br/title/80179394;Séries para maratonar;2017;16;4 temporadas
+80027158;Jane The Virgin;https://www.netflix.com/br/title/80027158;Séries para maratonar;2014;14;5 temporadas
+80024057;Como Defender um Assassino;https://www.netflix.com/br/title/80024057;Séries para maratonar;2014;16;6 temporadas
+80117552;Ozark;https://www.netflix.com/br/title/80117552;Séries para maratonar;2017;16;4 temporadas
+80204451;Baki - O Campeão;https://www.netflix.com/br/title/80204451;Séries para maratonar;2018;18;3 temporadas
+80179831;JoJo's Bizarre Adventure;https://www.netflix.com/br/title/80179831;Séries para maratonar;2012;18;4 temporadas
+80197526;Sex Education;https://www.netflix.com/br/title/80197526;Séries para maratonar;2019;16;3 temporadas
+80176234;Dinheiro Sujo e Amor;https://www.netflix.com/br/title/80176234;Séries para maratonar;2014;16;1 temporada
+81430282;O Rei de Porcelana;https://www.netflix.com/br/title/81430282;Séries para maratonar;2021;16;1 temporada
+80211991;Você;https://www.netflix.com/br/title/80211991;Séries para maratonar;2018;18;3 temporadas
+80153272;Sin senos sí hay paraíso;https://www.netflix.com/br/title/80153272;Séries para maratonar;2016;16;3 temporadas
+80104198;Perdidos no Espaço;https://www.netflix.com/br/title/80104198;Séries para maratonar;2018;12;3 temporadas
+80117470;13 Reasons Why;https://www.netflix.com/br/title/80117470;Séries para maratonar;2017;18;4 temporadas
+80025172;Narcos;https://www.netflix.com/br/title/80025172;Séries para maratonar;2015;16;3 temporadas
+80237428;La piloto;https://www.netflix.com/br/title/80237428;Séries para maratonar;2017;16;2 temporadas
+81090319;Desejo Sombrio;https://www.netflix.com/br/title/81090319;Séries para maratonar;2020;16;2 temporadas
+70204970;DEATH NOTE;https://www.netflix.com/br/title/70204970;Séries para maratonar;2006;16;1 temporada
+81166770;Maid;https://www.netflix.com/br/title/81166770;Séries para maratonar;2021;16;1 temporada
+80109194;O Atirador;https://www.netflix.com/br/title/80109194;Séries para maratonar;2016;16;3 temporadas
+81261170;Coração Marcado;https://www.netflix.com/br/title/81261170;Séries para maratonar;2022;16;1 temporada
+80177342;Good Girls;https://www.netflix.com/br/title/80177342;Séries para maratonar;2018;14;4 temporadas
+81442115;Match VIP;https://www.netflix.com/br/title/81442115;Séries para maratonar;2022;16;1 temporada
+80997343;La Casa de Papel: Coreia;https://www.netflix.com/br/title/80997343;Séries para maratonar;2022;16;1 temporada
+81037371;Emily em Paris;https://www.netflix.com/br/title/81037371;Séries para maratonar;2020;14;2 temporadas
+80241239;Locke & Key;https://www.netflix.com/br/title/80241239;Séries para maratonar;2020;16;2 temporadas
+80100172;Dark;https://www.netflix.com/br/title/80100172;Séries para maratonar;2017;16;3 temporadas
+81435684;Arcane;https://www.netflix.com/br/title/81435684;Séries para maratonar;2021;14;1 temporada
+80036140;As Bonecas da Máfia;https://www.netflix.com/br/title/80036140;Séries para maratonar;2009;16;2 temporadas
+81091825;Betty em Nova York;https://www.netflix.com/br/title/81091825;Séries para maratonar;2019;14;1 temporada
+70302573;Sword Art Online;https://www.netflix.com/br/title/70302573;Séries para maratonar;2012;16;4 temporadas
+81221380;Sweet Tooth;https://www.netflix.com/br/title/81221380;Séries para maratonar;2021;14;1 temporada
+80994082;Lupin;https://www.netflix.com/br/title/80994082;Séries para maratonar;2021;16;2 temporadas
+80121349;Van Helsing;https://www.netflix.com/br/title/80121349;Séries para maratonar;2016;18;5 temporadas
+70178217;House of Cards;https://www.netflix.com/br/title/70178217;Séries para maratonar;2013;18;6 temporadas
+80211703;Areia Movediça;https://www.netflix.com/br/title/80211703;Séries para maratonar;2019;18;1 temporada
+80234304;O Gambito da Rainha;https://www.netflix.com/br/title/80234304;Séries para maratonar;2020;16;1 temporada
+80100929;As Telefonistas;https://www.netflix.com/br/title/80100929;Séries para maratonar;2017;18;6 temporadas
+80177458;Expresso do Amanhã;https://www.netflix.com/br/title/80177458;Séries para maratonar;2020;18;3 temporadas
+81236338;Baki Hanma;https://www.netflix.com/br/title/81236338;Séries para maratonar;2021;18;1 temporada
+81287440;Que a Justiça Seja Feita;https://www.netflix.com/br/title/81287440;Séries para maratonar;2022;18;1 temporada
+80113647;Designated Survivor;https://www.netflix.com/br/title/80113647;Séries para maratonar;2016;16;3 temporadas
+80241001;O Sucessor;https://www.netflix.com/br/title/80241001;Séries para maratonar;2018;16;2 temporadas
+80238357;A Ordem;https://www.netflix.com/br/title/80238357;Séries para maratonar;2019;16;2 temporadas
+70213130;Meninos antes de flores;https://www.netflix.com/br/title/70213130;Séries para maratonar;2009;12;1 temporada
+80179905;Insatiable;https://www.netflix.com/br/title/80179905;Séries para maratonar;2018;16;2 temporadas
+81144163;Amar e Viver;https://www.netflix.com/br/title/81144163;Séries para maratonar;2020;16;1 temporada
+80175802;The Sinner;https://www.netflix.com/br/title/80175802;Séries para maratonar;2017;16;4 temporadas
+81036622;Toy Boy;https://www.netflix.com/br/title/81036622;Séries para maratonar;2019;18;2 temporadas
+80991848;Sex/Life;https://www.netflix.com/br/title/80991848;Séries para maratonar;2021;18;1 temporada
+80154610;The Rain;https://www.netflix.com/br/title/80154610;Séries para maratonar;2018;16;3 temporadas
+80997085;Narcos: México;https://www.netflix.com/br/title/80997085;Séries para maratonar;2018;16;3 temporadas
+81008305;Inventando Anna;https://www.netflix.com/br/title/81008305;Séries para maratonar;2022;16;1 temporada
+80203144;Arremesso Final;https://www.netflix.com/br/title/80203144;Séries para maratonar;2020;12;1 temporada
+80208298;Coisa Mais Linda;https://www.netflix.com/br/title/80208298;Séries para maratonar;2019;16;2 temporadas
+80200575;Alice in Borderland;https://www.netflix.com/br/title/80200575;Séries para maratonar;2020;16;1 temporada
+81043160;Elize Matsunaga: Era Uma Vez Um Crime;https://www.netflix.com/br/title/81043160;Séries para maratonar;2021;14;1 temporada
+80067290;Billions;https://www.netflix.com/br/title/80067290;Séries para maratonar;2016;16;5 temporadas
+80025744;Sense8;https://www.netflix.com/br/title/80025744;Séries para maratonar;2015;18;2 temporadas
+70305883;Marco Polo;https://www.netflix.com/br/title/70305883;Séries para maratonar;2014;18;2 temporadas
+80114855;MINDHUNTER;https://www.netflix.com/br/title/80114855;Séries para maratonar;2017;16;2 temporadas
+81277858;Os Segredos de Manscheid;https://www.netflix.com/br/title/81277858;Séries para maratonar;2019;16;2 temporadas
+80217669;Top Boy;https://www.netflix.com/br/title/80217669;Séries para maratonar;2019;18;2 temporadas
+81000207;Enemigo íntimo;https://www.netflix.com/br/title/81000207;Séries para maratonar;2018;18;2 temporadas
+81478080;Entrevías;https://www.netflix.com/br/title/81478080;Séries para maratonar;2022;16;1 temporada
+81011211;My Name;https://www.netflix.com/br/title/81011211;Séries para maratonar;2021;16;1 temporada
+70155547;Bob Esponja;https://www.netflix.com/br/title/70155547;Para assistir juntos: crianças mais velhas;2011;10;3 temporadas
+80103408;Os Jovens Titãs em Ação;https://www.netflix.com/br/title/80103408;Para assistir juntos: crianças mais velhas;2013;10;5 temporadas
+81009646;Jurassic World: Acampamento Jurássico;https://www.netflix.com/br/title/81009646;Para assistir juntos: crianças mais velhas;2020;10;5 temporadas
+80057134;Henry Danger;https://www.netflix.com/br/title/80057134;Para assistir juntos: crianças mais velhas;2014;L;1 temporada
+81186615;Os Thundermans;https://www.netflix.com/br/title/81186615;Para assistir juntos: crianças mais velhas;2013;10;1 temporada
+81291575;Série Jornadas de Mestre Pokémon;https://www.netflix.com/br/title/81291575;Para assistir juntos: crianças mais velhas;2021;L;3 temporadas
+81227574;Kung Fu Panda: O Cavaleiro Dragão;https://www.netflix.com/br/title/81227574;Para assistir juntos: crianças mais velhas;2022;L;1 temporada
+81220677;As Aventuras de Poliana;https://www.netflix.com/br/title/81220677;Para assistir juntos: crianças mais velhas;2018;10;1 temporada
+80027564;Sam & Cat;https://www.netflix.com/br/title/80027564;Para assistir juntos: crianças mais velhas;2013;10;2 temporadas
+80039394;Dragões: Corrida até o Limite;https://www.netflix.com/br/title/80039394;Para assistir juntos: crianças mais velhas;2015;L;6 temporadas
+70142405;Avatar - A lenda de Aang;https://www.netflix.com/br/title/70142405;Para assistir juntos: crianças mais velhas;2005;10;3 temporadas
+81567663;Beyblade Burst Surge;https://www.netflix.com/br/title/81567663;Para assistir juntos: crianças mais velhas;2020;L;1 temporada
+80136311;Anne with an E;https://www.netflix.com/br/title/80136311;Para assistir juntos: crianças mais velhas;2017;12;3 temporadas
+70180051;H2O - Meninas Sereias;https://www.netflix.com/br/title/70180051;Para assistir juntos: crianças mais velhas;2006;10;3 temporadas
+70136153;iCarly;https://www.netflix.com/br/title/70136153;Para assistir juntos: crianças mais velhas;2007;10;1 temporada
+80134695;Zoe e Raven;https://www.netflix.com/br/title/80134695;Para assistir juntos: crianças mais velhas;2017;10;3 temporadas
+81040639;Aucademia;https://www.netflix.com/br/title/81040639;Para assistir juntos: crianças mais velhas;2020;L;2 temporadas
+81504820;D1ÁR10S;https://www.netflix.com/br/title/81504820;Para assistir juntos: crianças mais velhas;2022;12;1 temporada
+80242531;Cuphead - A Série;https://www.netflix.com/br/title/80242531;Para assistir juntos: crianças mais velhas;2022;10;1 temporada
+80075820;Caçadores de Trolls: Contos da Arcadia;https://www.netflix.com/br/title/80075820;Para assistir juntos: crianças mais velhas;2016;10;3 temporadas
+80130521;A Pior das Bruxas;https://www.netflix.com/br/title/80130521;Para assistir juntos: crianças mais velhas;2017;L;4 temporadas
+80178943;O Chefinho - De Volta aos Negócios;https://www.netflix.com/br/title/80178943;Para assistir juntos: crianças mais velhas;2018;L;4 temporadas
+70172485;Brilhante Victória;https://www.netflix.com/br/title/70172485;Para assistir juntos: crianças mais velhas;2010;L;1 temporada
+70252973;Ninjago: Mestres do Spinjitzu;https://www.netflix.com/br/title/70252973;Para assistir juntos: crianças mais velhas;2011;10;10 temporadas
+80176076;Power Rangers Ninja Steel;https://www.netflix.com/br/title/80176076;Para assistir juntos: crianças mais velhas;2017;10;2 temporadas
+70177034;Yu-Gi-Oh!;https://www.netflix.com/br/title/70177034;Para assistir juntos: crianças mais velhas;2000;L;2 temporadas
+70306300;Cine Gibi;https://www.netflix.com/br/title/70306300;Para assistir juntos: crianças mais velhas;2013;L;1 temporada
+80115432;Spirit - Cavalgando Livre;https://www.netflix.com/br/title/80115432;Para assistir juntos: crianças mais velhas;2017;L;8 temporadas
+70171946;Heartland;https://www.netflix.com/br/title/70171946;Para assistir juntos: crianças mais velhas;2007;12;9 temporadas
+70252898;Drama Total;https://www.netflix.com/br/title/70252898;Para assistir juntos: crianças mais velhas;2007;10;2 temporadas
+80117803;Criando Dion;https://www.netflix.com/br/title/80117803;Para assistir juntos: crianças mais velhas;2019;12;2 temporadas
+70294800;Barbie Life in the Dreamhouse;https://www.netflix.com/br/title/70294800;Para assistir juntos: crianças mais velhas;2012;L;1 temporada
+70281343;Mako Mermaids: An H2O Adventure;https://www.netflix.com/br/title/70281343;Para assistir juntos: crianças mais velhas;2013;L;4 temporadas
+80227995;Minecraft: Story Mode;https://www.netflix.com/br/title/80227995;Para assistir juntos: crianças mais velhas;2015;L;1 temporada
+80174285;Alexa e Katie;https://www.netflix.com/br/title/80174285;Para assistir juntos: crianças mais velhas;2018;L;4 temporadas
+80051137;Fuller House;https://www.netflix.com/br/title/80051137;Para assistir juntos: crianças mais velhas;2016;L;5 temporadas
+80155771;Sonic Boom;https://www.netflix.com/br/title/80155771;Para assistir juntos: crianças mais velhas;2014;L;2 temporadas
+80027563;A Lenda de Korra;https://www.netflix.com/br/title/80027563;Para assistir juntos: crianças mais velhas;2011;10;4 temporadas
+80234451;Reunião de Família;https://www.netflix.com/br/title/80234451;Para assistir juntos: crianças mais velhas;2019;10;4 temporadas
+81222715;Homem X Abelha: A Batalha;https://www.netflix.com/br/title/81222715;Para assistir juntos: crianças mais velhas;2022;10;1 temporada
+80179762;She-Ra e as Princesas do Poder;https://www.netflix.com/br/title/80179762;Para assistir juntos: crianças mais velhas;2018;L;5 temporadas
+80212245;O Príncipe Dragão;https://www.netflix.com/br/title/80212245;Para assistir juntos: crianças mais velhas;2018;10;3 temporadas
+81172568;Beyblade Burst Turbo;https://www.netflix.com/br/title/81172568;Para assistir juntos: crianças mais velhas;2018;L;1 temporada
+80007912;Dinossauro Rei;https://www.netflix.com/br/title/80007912;Para assistir juntos: crianças mais velhas;2007;L;1 temporada
+80104198;Perdidos no Espaço;https://www.netflix.com/br/title/80104198;Para assistir juntos: crianças mais velhas;2018;12;3 temporadas
+81500342;O Chefinho: De Volta ao Berço;https://www.netflix.com/br/title/81500342;Para assistir juntos: crianças mais velhas;2022;L;1 temporada
+80111373;Chesapeake Shores;https://www.netflix.com/br/title/80111373;Para assistir juntos: crianças mais velhas;2016;10;5 temporadas
+80225085;Velozes & Furiosos - Espiões do Asfalto;https://www.netflix.com/br/title/80225085;Para assistir juntos: crianças mais velhas;2019;10;6 temporadas
+81005407;O Clube das Babás;https://www.netflix.com/br/title/81005407;Para assistir juntos: crianças mais velhas;2020;10;2 temporadas
+70204944;O Espetacular Homem-Aranha;https://www.netflix.com/br/title/70204944;Para assistir juntos: crianças mais velhas;2008;L;1 temporada
+81006858;Jogo da Lava;https://www.netflix.com/br/title/81006858;Para assistir juntos: crianças mais velhas;2020;L;2 temporadas
+81309532;Supercães;https://www.netflix.com/br/title/81309532;Para assistir juntos: crianças mais velhas;2022;L;1 temporada
+80036416;Good Witch;https://www.netflix.com/br/title/80036416;Para assistir juntos: crianças mais velhas;2015;10;5 temporadas
+81172267;Sonic X;https://www.netflix.com/br/title/81172267;Para assistir juntos: crianças mais velhas;2003;L;2 temporadas
+81333845;Isso é um Bolo?;https://www.netflix.com/br/title/81333845;Para assistir juntos: crianças mais velhas;2022;10;1 temporada
+80063153;Kuroko no Basket;https://www.netflix.com/br/title/80063153;Para assistir juntos: crianças mais velhas;2012;10;3 temporadas
+81059939;Heartstopper;https://www.netflix.com/br/title/81059939;Para assistir juntos: crianças mais velhas;2022;12;1 temporada
+80244283;Maya e os 3 Guerreiros;https://www.netflix.com/br/title/80244283;Para assistir juntos: crianças mais velhas;2021;10;1 temporada
+81443315;Canta Comigo Teen;https://www.netflix.com/br/title/81443315;Para assistir juntos: crianças mais velhas;2020;L;1 temporada
+80050008;Lemony Snicket: Desventuras em Série;https://www.netflix.com/br/title/80050008;Para assistir juntos: crianças mais velhas;2017;12;3 temporadas
+80184682;As Novas Aventuras do Macaco;https://www.netflix.com/br/title/80184682;Para assistir juntos: crianças mais velhas;2018;10;2 temporadas
+80049832;Nosso Planeta;https://www.netflix.com/br/title/80049832;Para assistir juntos: crianças mais velhas;2019;10;1 temporada
+81145135;DC Super Hero Girls;https://www.netflix.com/br/title/81145135;Para assistir juntos: crianças mais velhas;2019;L;1 temporada
+81170676;Filhotes Selvagens;https://www.netflix.com/br/title/81170676;Para assistir juntos: crianças mais velhas;2022;10;1 temporada
+70155579;Johnny Test;https://www.netflix.com/br/title/70155579;Para assistir juntos: crianças mais velhas;2005;L;4 temporadas
+80156387;Little Witch Academia;https://www.netflix.com/br/title/80156387;Para assistir juntos: crianças mais velhas;2017;10;2 temporadas
+81280792;LEGO Ninjago: A Série;https://www.netflix.com/br/title/81280792;Para assistir juntos: crianças mais velhas;2019;L;5 temporadas
+80167821;Carmen Sandiego;https://www.netflix.com/br/title/80167821;Para assistir juntos: crianças mais velhas;2019;L;4 temporadas
+80003196;Wakfu;https://www.netflix.com/br/title/80003196;Para assistir juntos: crianças mais velhas;2008;10;3 temporadas
+80243216;Superdetetives;https://www.netflix.com/br/title/80243216;Para assistir juntos: crianças mais velhas;2019;L;2 temporadas
+80095435;Greenhouse Academy;https://www.netflix.com/br/title/80095435;Para assistir juntos: crianças mais velhas;2017;10;4 temporadas
+70286809;Zig e Sharko;https://www.netflix.com/br/title/70286809;Para assistir juntos: crianças mais velhas;2010;L;1 temporada
+81233669;Maverix;https://www.netflix.com/br/title/81233669;Para assistir juntos: crianças mais velhas;2022;10;1 temporada
+81088239;Da Decoração ao Makeover;https://www.netflix.com/br/title/81088239;Para assistir juntos: crianças mais velhas;2020;L;3 temporadas
+81325983;Beyblade Burst Rise;https://www.netflix.com/br/title/81325983;Para assistir juntos: crianças mais velhas;2019;L;1 temporada
+70155618;Gilmore Girls: Tal Mãe, Tal Filha;https://www.netflix.com/br/title/70155618;Comédia com drama;2000;12;7 temporadas
+70242311;Orange Is the New Black;https://www.netflix.com/br/title/70242311;Comédia com drama;2013;18;7 temporadas
+80027158;Jane The Virgin;https://www.netflix.com/br/title/80027158;Comédia com drama;2014;14;5 temporadas
+80197526;Sex Education;https://www.netflix.com/br/title/80197526;Comédia com drama;2019;16;3 temporadas
+81365087;Vincenzo;https://www.netflix.com/br/title/81365087;Comédia com drama;2021;16;1 temporada
+80179190;Eu Nunca...;https://www.netflix.com/br/title/80179190;Comédia com drama;2020;14;2 temporadas
+81465093;Uncoupled;https://www.netflix.com/br/title/81465093;Comédia com drama;2022;16;1 temporada
+81517188;Alquimia das Almas;https://www.netflix.com/br/title/81517188;Comédia com drama;2022;16;1 temporada
+80177342;Good Girls;https://www.netflix.com/br/title/80177342;Comédia com drama;2018;14;4 temporadas
+80117809;On My Block;https://www.netflix.com/br/title/80117809;Comédia com drama;2018;16;4 temporadas
+81037371;Emily em Paris;https://www.netflix.com/br/title/81037371;Comédia com drama;2020;14;2 temporadas
+81243992;Tudo Bem Não Ser Normal;https://www.netflix.com/br/title/81243992;Comédia com drama;2020;16;1 temporada
+81398330;Novo Rico, Novo Pobre;https://www.netflix.com/br/title/81398330;Comédia com drama;2007;14;1 temporada
+80077977;The Ranch;https://www.netflix.com/br/title/80077977;Comédia com drama;2016;14;8 temporadas
+80196931;Hwarang;https://www.netflix.com/br/title/80196931;Comédia com drama;2016;16;1 temporada
+81318872;Na Direção do Amor;https://www.netflix.com/br/title/81318872;Comédia com drama;2020;12;1 temporada
+80117540;Atypical;https://www.netflix.com/br/title/80117540;Comédia com drama;2017;14;4 temporadas
+80017537;Grace and Frankie;https://www.netflix.com/br/title/80017537;Comédia com drama;2015;16;7 temporadas
+81044355;Maldivas;https://www.netflix.com/br/title/81044355;Comédia com drama;2022;16;1 temporada
+81290293;Apostando Alto;https://www.netflix.com/br/title/81290293;Comédia com drama;2020;12;1 temporada
+80179905;Insatiable;https://www.netflix.com/br/title/80179905;Comédia com drama;2018;16;2 temporadas
+81239224;Hospital Playlist;https://www.netflix.com/br/title/81239224;Comédia com drama;2020;12;2 temporadas
+80176085;The Bold Type;https://www.netflix.com/br/title/80176085;Comédia com drama;2017;16;4 temporadas
+81025696;Ginny e Georgia;https://www.netflix.com/br/title/81025696;Comédia com drama;2021;16;1 temporada
+80188605;Cinderela e os Quatro Cavaleiros;https://www.netflix.com/br/title/80188605;Comédia com drama;2016;14;1 temporada
+80986896;Love in the Moonlight;https://www.netflix.com/br/title/80986896;Comédia com drama;2016;16;1 temporada
+81465196;Backstreet Rookie;https://www.netflix.com/br/title/81465196;Comédia com drama;2020;14;1 temporada
+81295007;Temporada 1;https://www.netflix.com/br/title/81295007;Comédia com drama;2022;12;1 temporada
+81002483;Mãe Só Tem Duas;https://www.netflix.com/br/title/81002483;Comédia com drama;2021;16;2 temporadas
+80218448;Como vender drogas online (rápido);https://www.netflix.com/br/title/80218448;Comédia com drama;2019;18;3 temporadas
+80175722;The End of the F***ing World;https://www.netflix.com/br/title/80175722;Comédia com drama;2017;16;2 temporadas
+80205595;Sempre Bruxa;https://www.netflix.com/br/title/80205595;Comédia com drama;2018;16;2 temporadas
+80212986;Valéria;https://www.netflix.com/br/title/80212986;Comédia com drama;2020;18;2 temporadas
+80188351;Responde 1988;https://www.netflix.com/br/title/80188351;Comédia com drama;2015;14;1 temporada
+81045349;Romance Is a Bonus Book;https://www.netflix.com/br/title/81045349;Comédia com drama;2019;16;1 temporada
+80201680;O Método Kominsky;https://www.netflix.com/br/title/80201680;Comédia com drama;2018;16;3 temporadas
+80128686;Hello, My Twenties!;https://www.netflix.com/br/title/80128686;Comédia com drama;2017;12;2 temporadas
+80219707;Disque Amiga para Matar;https://www.netflix.com/br/title/80219707;Comédia com drama;2019;16;2 temporadas
+80231658;No Good Nick;https://www.netflix.com/br/title/80231658;Comédia com drama;2019;10;2 temporadas
+81092192;Well-Intended Love;https://www.netflix.com/br/title/81092192;Comédia com drama;2019;12;2 temporadas
+81243996;Uma Segunda Chance;https://www.netflix.com/br/title/81243996;Comédia com drama;2020;12;1 temporada
+81025800;Paixão Imprevista;https://www.netflix.com/br/title/81025800;Comédia com drama;2018;12;1 temporada
+80103417;Eu, tu e ela;https://www.netflix.com/br/title/80103417;Comédia com drama;2016;16;5 temporadas
+80123779;Atlanta;https://www.netflix.com/br/title/80123779;Comédia com drama;2016;18;2 temporadas
+70285368;Rita;https://www.netflix.com/br/title/70285368;Comédia com drama;2012;16;5 temporadas
+80998491;After Life - Vocês vão ter de me engolir;https://www.netflix.com/br/title/80998491;Comédia com drama;2019;16;3 temporadas
+80026506;Love;https://www.netflix.com/br/title/80026506;Comédia com drama;2016;18;3 temporadas
+81087124;I Hear You;https://www.netflix.com/br/title/81087124;Comédia com drama;2019;12;1 temporada
+81069541;Amor e Anarquia;https://www.netflix.com/br/title/81069541;Comédia com drama;2020;16;2 temporadas
+80244700;Ninguém Tá Olhando;https://www.netflix.com/br/title/80244700;Comédia com drama;2019;16;1 temporada
+80160935;A Casa das Flores;https://www.netflix.com/br/title/80160935;Comédia com drama;2018;16;3 temporadas
+81010818;Flagrantes de Família;https://www.netflix.com/br/title/81010818;Comédia com drama;2019;18;3 temporadas
+80211627;Boneca Russa;https://www.netflix.com/br/title/80211627;Comédia com drama;2019;16;2 temporadas
+81140470;Sexify;https://www.netflix.com/br/title/81140470;Comédia com drama;2021;18;1 temporada
+81113742;Clark;https://www.netflix.com/br/title/81113742;Comédia com drama;2022;16;1 temporada
+80241545;Feel Good;https://www.netflix.com/br/title/80241545;Comédia com drama;2020;16;2 temporadas
+81198299;Amor para Recomeçar;https://www.netflix.com/br/title/81198299;Comédia com drama;2022;12;1 temporada
+80993625;Um Tempero do Outro Mundo;https://www.netflix.com/br/title/80993625;Comédia com drama;2018;16;1 temporada
+80117551;Everything Sucks!;https://www.netflix.com/br/title/80117551;Comédia com drama;2018;12;1 temporada
+80133335;Dix pour cent;https://www.netflix.com/br/title/80133335;Comédia com drama;2015;16;4 temporadas
+81004814;Amizade Dolorida;https://www.netflix.com/br/title/81004814;Comédia com drama;2019;16;2 temporadas
+80237329;AJ and the Queen;https://www.netflix.com/br/title/80237329;Comédia com drama;2020;14;1 temporada
+80244781;I Am Not Okay With This;https://www.netflix.com/br/title/80244781;Comédia com drama;2020;16;1 temporada
+80109415;Gilmore Girls: Um Ano para Recordar;https://www.netflix.com/br/title/80109415;Comédia com drama;2016;12;1 temporada
+81340910;Apaixonados na Cidade;https://www.netflix.com/br/title/81340910;Comédia com drama;2020;12;1 temporada
+81305952;A Vizinha da Mulher na Janela;https://www.netflix.com/br/title/81305952;Comédia com drama;2022;16;1 temporada
+81594857;Nunca Desista;https://www.netflix.com/br/title/81594857;Comédia com drama;2022;12;1 temporada
+81164276;Post Mortem: Ninguém Morre em Skarnes;https://www.netflix.com/br/title/81164276;Comédia com drama;2021;16;1 temporada
+80170688;O Milagre;https://www.netflix.com/br/title/80170688;Comédia com drama;2016;12;1 temporada
+80119382;Servo do Povo;https://www.netflix.com/br/title/80119382;Comédia com drama;2015;12;3 temporadas
+81276344;Melodia de Esperança;https://www.netflix.com/br/title/81276344;Comédia com drama;2020;12;1 temporada
+80095699;Easy;https://www.netflix.com/br/title/80095699;Comédia com drama;2016;16;3 temporadas
+81389612;Rei dos Stonks;https://www.netflix.com/br/title/81389612;Comédia com drama;2022;16;1 temporada
+81171140;Geração 30 e Poucos;https://www.netflix.com/br/title/81171140;Comédia com drama;2021;14;1 temporada
+81037871;DASH & LILY;https://www.netflix.com/br/title/81037871;Comédia com drama;2020;12;1 temporada
+80188354;Minha Vênus;https://www.netflix.com/br/title/80188354;Séries coreanas para iniciantes;2015;12;1 temporada
+80196931;Hwarang;https://www.netflix.com/br/title/80196931;Séries coreanas para iniciantes;2016;16;1 temporada
+81290301;Passarela de Sonhos;https://www.netflix.com/br/title/81290301;Séries coreanas para iniciantes;2020;12;1 temporada
+81517168;Vinte e Cinco, Vinte e Um;https://www.netflix.com/br/title/81517168;Séries coreanas para iniciantes;2022;12;1 temporada
+70213130;Meninos antes de flores;https://www.netflix.com/br/title/70213130;Séries coreanas para iniciantes;2009;12;1 temporada
+81568842;Amor e Outros Dramas;https://www.netflix.com/br/title/81568842;Séries coreanas para iniciantes;2022;16;1 temporada
+80986896;Love in the Moonlight;https://www.netflix.com/br/title/80986896;Séries coreanas para iniciantes;2016;16;1 temporada
+81465196;Backstreet Rookie;https://www.netflix.com/br/title/81465196;Séries coreanas para iniciantes;2020;14;1 temporada
+81033650;Herdeiros;https://www.netflix.com/br/title/81033650;Séries coreanas para iniciantes;2013;14;1 temporada
+80991107;Mr. Sunshine - Um Raio de Sol;https://www.netflix.com/br/title/80991107;Séries coreanas para iniciantes;2018;16;1 temporada
+81095101;Retaliação;https://www.netflix.com/br/title/81095101;Séries coreanas para iniciantes;2019;16;1 temporada
+80188423;Healer;https://www.netflix.com/br/title/80188423;Séries coreanas para iniciantes;2014;16;1 temporada
+80188351;Responde 1988;https://www.netflix.com/br/title/80188351;Séries coreanas para iniciantes;2015;14;1 temporada
+81193309;Itaewon Class;https://www.netflix.com/br/title/81193309;Séries coreanas para iniciantes;2020;16;1 temporada
+81323551;Caçadores de Demônios;https://www.netflix.com/br/title/81323551;Séries coreanas para iniciantes;2020;16;1 temporada
+81045349;Romance Is a Bonus Book;https://www.netflix.com/br/title/81045349;Séries coreanas para iniciantes;2019;16;1 temporada
+70296735;Ventos de Inverno;https://www.netflix.com/br/title/70296735;Séries coreanas para iniciantes;2013;12;1 temporada
+81012487;A Noiva de Habaek;https://www.netflix.com/br/title/81012487;Séries coreanas para iniciantes;2017;16;1 temporada
+81193313;Chocolate;https://www.netflix.com/br/title/81193313;Séries coreanas para iniciantes;2019;14;1 temporada
+81098012;O Mar da Tranquilidade;https://www.netflix.com/br/title/81098012;Séries coreanas para iniciantes;2021;16;1 temporada
+80990935;Something in the Rain;https://www.netflix.com/br/title/80990935;Séries coreanas para iniciantes;2018;12;1 temporada
+80031716;Uma Chance de Vida;https://www.netflix.com/br/title/80031716;Séries coreanas para iniciantes;2013;16;1 temporada
+81094069;Uma Noite de Primavera;https://www.netflix.com/br/title/81094069;Séries coreanas para iniciantes;2019;12;1 temporada
+70245012;Full House;https://www.netflix.com/br/title/70245012;Séries coreanas para iniciantes;2004;12;1 temporada
+80039905;O Homem Inocente;https://www.netflix.com/br/title/80039905;Séries coreanas para iniciantes;2012;16;1 temporada
+81029990;Beleza Interior;https://www.netflix.com/br/title/81029990;Séries coreanas para iniciantes;2018;16;1 temporada
+81397558;O Mito de Sísifo;https://www.netflix.com/br/title/81397558;Séries coreanas para iniciantes;2021;16;1 temporada
+81116487;Hae-Ryung, a historiadora;https://www.netflix.com/br/title/81116487;Séries coreanas para iniciantes;2019;12;1 temporada
+81267691;My Mister;https://www.netflix.com/br/title/81267691;Séries coreanas para iniciantes;2018;16;1 temporada
+80081705;Iris;https://www.netflix.com/br/title/80081705;Séries coreanas para iniciantes;2009;16;1 temporada
+70244998;Dream High;https://www.netflix.com/br/title/70244998;Séries coreanas para iniciantes;2011;14;1 temporada
+80188348;Who Are You: School 2015;https://www.netflix.com/br/title/80188348;Séries coreanas para iniciantes;2015;16;1 temporada
+81004280;Memórias de Alhambra;https://www.netflix.com/br/title/81004280;Séries coreanas para iniciantes;2018;16;1 temporada
+81144925;Para Sempre Camélia;https://www.netflix.com/br/title/81144925;Séries coreanas para iniciantes;2019;14;1 temporada
+80165295;Vida incompleta;https://www.netflix.com/br/title/80165295;Séries coreanas para iniciantes;2014;14;1 temporada
+81030062;SKY Castle;https://www.netflix.com/br/title/81030062;Séries coreanas para iniciantes;2018;16;1 temporada
+81486374;Inspetora Koo Kyung Yi;https://www.netflix.com/br/title/81486374;Séries coreanas para iniciantes;2021;18;1 temporada
+80986918;The Producers;https://www.netflix.com/br/title/80986918;Séries coreanas para iniciantes;2015;12;1 temporada
+81177545;Hiena;https://www.netflix.com/br/title/81177545;Séries coreanas para iniciantes;2020;12;1 temporada
+80058486;Ponto Cego;;Suspense para TV;2015;14;5 temporadas
+80236318;Outer Banks;;Suspense para TV;2020;16;2 temporadas
+80024057;Como Defender um Assassino;;Suspense para TV;2014;16;6 temporadas
+80211991;Você;;Suspense para TV;2018;18;3 temporadas
+80104198;Perdidos no Espaço;;Suspense para TV;2018;12;3 temporadas
+80117470;13 Reasons Why;;Suspense para TV;2017;18;4 temporadas
+80025172;Narcos;;Suspense para TV;2015;16;3 temporadas
+80237428;La piloto;;Suspense para TV;2017;16;2 temporadas
+81090319;Desejo Sombrio;;Suspense para TV;2020;16;2 temporadas
+70204970;DEATH NOTE;;Suspense para TV;2006;16;1 temporada
+81261170;Coração Marcado;;Suspense para TV;2022;16;1 temporada
+80177342;Good Girls;;Suspense para TV;2018;14;4 temporadas
+80997343;La Casa de Papel: Coreia;;Suspense para TV;2022;16;1 temporada
+81034775;Falsa identidad;;Suspense para TV;2018;16;2 temporadas
+80100172;Dark;;Suspense para TV;2017;16;3 temporadas
+81166747;Quem Matou Sara?;;Suspense para TV;2021;18;3 temporadas
+81303831;O Poder e a Lei;;Suspense para TV;2022;16;1 temporada
+81044355;Maldivas;;Suspense para TV;2022;16;1 temporada
+80113647;Designated Survivor;;Suspense para TV;2016;16;3 temporadas
+80238357;A Ordem;;Suspense para TV;2019;16;2 temporadas
+81033445;Neon Genesis Evangelion;;Suspense para TV;1995;16;1 temporada
+80175802;The Sinner;;Suspense para TV;2017;16;4 temporadas
+81036622;Toy Boy;;Suspense para TV;2019;18;2 temporadas
+80154610;The Rain;;Suspense para TV;2018;16;3 temporadas
+81213653;Primeira Morte;;Suspense para TV;2022;16;1 temporada
+80200575;Alice in Borderland;;Suspense para TV;2020;16;1 temporada
+70264888;Black Mirror;;Suspense para TV;2011;16;5 temporadas
+80025744;Sense8;;Suspense para TV;2015;18;2 temporadas
+70142436;As Aventuras de Merlin;;Suspense para TV;2008;12;5 temporadas
+81478080;Entrevías;;Suspense para TV;2022;16;1 temporada
+70136140;Jornada nas estrelas;;Suspense para TV;1966;10;3 temporadas
+81011211;My Name;;Suspense para TV;2021;16;1 temporada
+80196382;The A List;;Suspense para TV;2018;10;2 temporadas
+81286017;Prisioneiro da Madrugada;;Suspense para TV;2022;16;1 temporada
+81149763;Intimidade;;Suspense para TV;2022;16;1 temporada
+81200228;Os Indomáveis;;Suspense para TV;2019;16;1 temporada
+81568217;Café Minamdang;;Suspense para TV;2022;16;1 temporada
+80189221;A Maldição da Residência Hill;;Suspense para TV;2018;16;1 temporada
+80189829;O Último Guardião;;Suspense para TV;2018;16;4 temporadas
+81043571;Tenku Shinpan - Sem Saída;;Suspense para TV;2021;18;1 temporada
+81196277;La bella y las bestias;;Suspense para TV;2018;16;1 temporada
+81044547;Sangue e Água;;Suspense para TV;2020;16;2 temporadas
+80233258;Alto Mar;;Suspense para TV;2019;16;3 temporadas
+81145640;The Promised Neverland;;Suspense para TV;2019;16;1 temporada
+80987113;The Princess Weiyoung;;Suspense para TV;2016;14;1 temporada
+81237854;A Maldição da Mansão Bly;;Suspense para TV;2020;16;1 temporada
+80188423;Healer;;Suspense para TV;2014;16;1 temporada
+81037848;O Segredo do Templo;;Suspense para TV;2019;16;3 temporadas
+81211710;Bem-vindos ao Éden;;Suspense para TV;2022;16;1 temporada
+81061734;Sweet Home;;Suspense para TV;2020;16;1 temporada
+80066429;Ingobernable;;Suspense para TV;2017;16;2 temporadas
+80105452;Slasher;;Suspense para TV;2017;18;3 temporadas
+80117557;Messiah;;Suspense para TV;2020;16;1 temporada
+81459931;Um de Nós Está Mentindo;;Suspense para TV;2022;16;1 temporada
+80236236;Outra Vida;;Suspense para TV;2019;16;2 temporadas
+80198988;Black Summer;;Suspense para TV;2019;16;2 temporadas
+81183494;She;;Suspense para TV;2020;16;2 temporadas
+80149395;The Alienist;;Suspense para TV;2018;16;2 temporadas
+81036936;O Inocente;;Suspense para TV;2021;18;1 temporada
+80217779;Marianne;;Suspense para TV;2019;16;1 temporada
+80244630;Por Trás de Seus Olhos;;Suspense para TV;2021;16;1 temporada
+80145143;Bordertown;;Suspense para TV;2016;16;3 temporadas
+81039388;O Homem das Castanhas;;Suspense para TV;2021;18;1 temporada
+80165247;72 Animais Perigosos: América Latina;;Suspense para TV;2017;12;1 temporada
+81008221;Noite Adentro;;Suspense para TV;2020;14;2 temporadas
+81026915;Better Than Us;;Suspense para TV;2019;14;1 temporada
+81483462;Bulgasal: Almas Imortais;;Suspense para TV;2021;18;1 temporada
+80171099;Salvation;;Suspense para TV;2017;16;2 temporadas
+81098012;O Mar da Tranquilidade;;Suspense para TV;2021;16;1 temporada
+80213445;Ratched;;Suspense para TV;2020;18;1 temporada
+80097594;B: The Beginning;;Suspense para TV;2018;16;2 temporadas
+80235864;Segurança em Jogo;;Suspense para TV;2018;16;1 temporada
+80135414;O Nevoeiro;;Suspense para TV;2017;16;1 temporada
+80145361;Blood;;Suspense para TV;2015;18;1 temporada
+80222802;Arquivo 81;;Suspense para TV;2022;16;1 temporada
+80026226;Patrulha Canina;;Programas para toda a família;2013;L;3 temporadas
+81009946;A Casa Mágica da Gabby;;Programas para toda a família;2021;L;5 temporadas
+80025494;Peppa Pig;;Programas para toda a família;2004;L;6 temporadas
+81227574;Kung Fu Panda: O Cavaleiro Dragão;;Programas para toda a família;2022;L;1 temporada
+80059506;Chiquititas;;Programas para toda a família;2013;12;1 temporada
+80027564;Sam & Cat;;Programas para toda a família;2013;10;2 temporadas
+70286901;Masha e o Urso;;Programas para toda a família;2009;L;4 temporadas
+80039394;Dragões: Corrida até o Limite;;Programas para toda a família;2015;L;6 temporadas
+81273085;CoComelon;;Programas para toda a família;2020;L;4 temporadas
+70231705;Galinha Pintadinha;;Programas para toda a família;2009;L;4 temporadas
+70142405;Avatar - A lenda de Aang;;Programas para toda a família;2005;10;3 temporadas
+81567663;Beyblade Burst Surge;;Programas para toda a família;2020;L;1 temporada
+80136311;Anne with an E;;Programas para toda a família;2017;12;3 temporadas
+70180051;H2O - Meninas Sereias;;Programas para toda a família;2006;10;3 temporadas
+70234440;My Little Pony: A Amizade é Mágica;;Programas para toda a família;2010;L;1 temporada
+70136153;iCarly;;Programas para toda a família;2007;10;1 temporada
+80134695;Zoe e Raven;;Programas para toda a família;2017;10;3 temporadas
+81040639;Aucademia;;Programas para toda a família;2020;L;2 temporadas
+80242531;Cuphead - A Série;;Programas para toda a família;2022;10;1 temporada
+80075820;Caçadores de Trolls: Contos da Arcadia;;Programas para toda a família;2016;10;3 temporadas
+80199383;Galinha Pintadinha Mini;;Programas para toda a família;2017;L;2 temporadas
+80130521;A Pior das Bruxas;;Programas para toda a família;2017;L;4 temporadas
+80178943;O Chefinho - De Volta aos Negócios;;Programas para toda a família;2018;L;4 temporadas
+70172485;Brilhante Victória;;Programas para toda a família;2010;L;1 temporada
+70252973;Ninjago: Mestres do Spinjitzu;;Programas para toda a família;2011;10;10 temporadas
+80176076;Power Rangers Ninja Steel;;Programas para toda a família;2017;10;2 temporadas
+70180088;O Show do Garfield;;Programas para toda a família;2008;L;1 temporada
+70177034;Yu-Gi-Oh!;;Programas para toda a família;2000;L;2 temporadas
+70306300;Cine Gibi;;Programas para toda a família;2013;L;1 temporada
+80115432;Spirit - Cavalgando Livre;;Programas para toda a família;2017;L;8 temporadas
+70171946;Heartland;;Programas para toda a família;2007;12;9 temporadas
+70252898;Drama Total;;Programas para toda a família;2007;10;2 temporadas
+80117803;Criando Dion;;Programas para toda a família;2019;12;2 temporadas
+70294800;Barbie Life in the Dreamhouse;;Programas para toda a família;2012;L;1 temporada
+81154166;Grizzy e os Lemmings;;Programas para toda a família;2017;L;2 temporadas
+80187223;PJ Masks – Heróis de Pijama;;Programas para toda a família;2015;L;3 temporadas
+70281343;Mako Mermaids: An H2O Adventure;;Programas para toda a família;2013;L;4 temporadas
+80227995;Minecraft: Story Mode;;Programas para toda a família;2015;L;1 temporada
+80174285;Alexa e Katie;;Programas para toda a família;2018;L;4 temporadas
+70288470;Pocoyo;;Programas para toda a família;2005;L;2 temporadas
+80051137;Fuller House;;Programas para toda a família;2016;L;5 temporadas
+80155771;Sonic Boom;;Programas para toda a família;2014;L;2 temporadas
+80027563;A Lenda de Korra;;Programas para toda a família;2011;10;4 temporadas
+80242184;Tubacão;;Programas para toda a família;2021;L;2 temporadas
+80018987;Saúdem Todos o Rei Julien;;Programas para toda a família;2014;L;5 temporadas
+80234451;Reunião de Família;;Programas para toda a família;2019;10;4 temporadas
+80220541;Go! Viva do seu jeito;;Programas para toda a família;2019;L;2 temporadas
+80179762;She-Ra e as Princesas do Poder;;Programas para toda a família;2018;L;5 temporadas
+81422836;Oggy e as Baratas Tontas: E Piya!;;Programas para toda a família;2022;L;1 temporada
+80212245;O Príncipe Dragão;;Programas para toda a família;2018;10;3 temporadas
+81172568;Beyblade Burst Turbo;;Programas para toda a família;2018;L;1 temporada
+80007912;Dinossauro Rei;;Programas para toda a família;2007;L;1 temporada
+80104198;Perdidos no Espaço;;Programas para toda a família;2018;12;3 temporadas
+80213643;Chip e Potato;;Programas para toda a família;2019;L;3 temporadas
+70306085;Especiais temáticos da turma da Mônica;;Programas para toda a família;2010;L;1 temporada
+81500342;O Chefinho: De Volta ao Berço;;Programas para toda a família;2022;L;1 temporada
+80111373;Chesapeake Shores;;Programas para toda a família;2016;10;5 temporadas
+70155543;Dora, a aventureira;;Programas para toda a família;2000;L;2 temporadas
+80225085;Velozes & Furiosos - Espiões do Asfalto;;Programas para toda a família;2019;10;6 temporadas
+81005407;O Clube das Babás;;Programas para toda a família;2020;10;2 temporadas
+70204944;O Espetacular Homem-Aranha;;Programas para toda a família;2008;L;1 temporada
+81006858;Jogo da Lava;;Programas para toda a família;2020;L;2 temporadas
+80062985;Esquadrão Bizarro;;Programas para toda a família;2014;L;1 temporada
+81309532;Supercães;;Programas para toda a família;2022;L;1 temporada
+80036416;Good Witch;;Programas para toda a família;2015;10;5 temporadas
+80227186;Simon;;Programas para toda a família;2016;L;3 temporadas
+81172267;Sonic X;;Programas para toda a família;2003;L;2 temporadas
+70177033;O Clube das Winx;;Programas para toda a família;2004;L;2 temporadas
+81059939;Heartstopper;;Programas para toda a família;2022;12;1 temporada
+80244283;Maya e os 3 Guerreiros;;Programas para toda a família;2021;10;1 temporada
+81443315;Canta Comigo Teen;;Programas para toda a família;2020;L;1 temporada
+80050008;Lemony Snicket: Desventuras em Série;;Programas para toda a família;2017;12;3 temporadas
+80018988;As Aventuras do Gato de Botas;;Programas para toda a família;2015;L;6 temporadas
+80184682;As Novas Aventuras do Macaco;;Programas para toda a família;2018;10;2 temporadas
+81558252;Cry Babies Magic Tears;;Programas para toda a família;2018;L;1 temporada

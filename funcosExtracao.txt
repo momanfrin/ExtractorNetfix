@@ -1,0 +1,11 @@
+REPLACE([DESCRITOR], " ; ","")
+
+SUBSTRING([Id], 1, FINDSTRING([Id],";",1) - 2)
+
+SUBSTRING([Nome], FINDSTRING([Nome],";",1) + 2, 50)
+
+SUBSTRING([Genero], 1, FINDSTRING([Genero],";",1) - 2)
+
+SUBSTRING([ClassificacaoEtaria], FINDSTRING([ClassificacaoEtaria],";",1) + 2, 50)
+
+SUBSTRING([Temporada], 1, FINDSTRING([Temporada],";",1) - 2)

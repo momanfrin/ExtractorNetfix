@@ -1,0 +1,1092 @@
+Id;NomeSerie;url;genero
+80057281;Stranger Things;https://www.netflix.com/br/title/80057281;Lançados nos últimos 12 meses
+80241318;Manifest;https://www.netflix.com/br/title/80241318;Lançados nos últimos 12 meses
+80217315;Sintonia;https://www.netflix.com/br/title/80217315;Lançados nos últimos 12 meses
+80240027;Virgin River;https://www.netflix.com/br/title/80240027;Lançados nos últimos 12 meses
+81009646;Jurassic World: Acampamento Jurássico;https://www.netflix.com/br/title/81009646;Lançados nos últimos 12 meses
+81009946;A Casa Mágica da Gabby;https://www.netflix.com/br/title/81009946;Lançados nos últimos 12 meses
+80002479;Peaky Blinders: Sangue, Apostas e Navalhas;https://www.netflix.com/br/title/80002479;Lançados nos últimos 12 meses
+81396406;Café com Aroma de Mulher;https://www.netflix.com/br/title/81396406;Lançados nos últimos 12 meses
+81518991;Uma Advogada Extraordinária;https://www.netflix.com/br/title/81518991;Lançados nos últimos 12 meses
+70281312;Lista Negra;https://www.netflix.com/br/title/70281312;Lançados nos últimos 12 meses
+81227574;Kung Fu Panda: O Cavaleiro Dragão;https://www.netflix.com/br/title/81227574;Lançados nos últimos 12 meses
+81291575;Série Jornadas de Mestre Pokémon;https://www.netflix.com/br/title/81291575;Lançados nos últimos 12 meses
+81033243;Rebelde;https://www.netflix.com/br/title/81033243;Lançados nos últimos 12 meses
+80186863;The Umbrella Academy;https://www.netflix.com/br/title/80186863;Lançados nos últimos 12 meses
+81040344;Round 6;https://www.netflix.com/br/title/81040344;Lançados nos últimos 12 meses
+81002370;Cobra Kai;https://www.netflix.com/br/title/81002370;Lançados nos últimos 12 meses
+81276119;Respire!;https://www.netflix.com/br/title/81276119;Lançados nos últimos 12 meses
+81273085;CoComelon;https://www.netflix.com/br/title/81273085;Lançados nos últimos 12 meses
+80192098;La casa de papel;https://www.netflix.com/br/title/80192098;Lançados nos últimos 12 meses
+80057918;Lucifer;https://www.netflix.com/br/title/80057918;Lançados nos últimos 12 meses
+80232398;Bridgerton;https://www.netflix.com/br/title/80232398;Lançados nos últimos 12 meses
+81509440;Pretendente Surpresa;https://www.netflix.com/br/title/81509440;Lançados nos últimos 12 meses
+80021955;Better Call Saul;https://www.netflix.com/br/title/80021955;Lançados nos últimos 12 meses
+81423382;Alba;https://www.netflix.com/br/title/81423382;Lançados nos últimos 12 meses
+80242531;Cuphead - A Série;https://www.netflix.com/br/title/80242531;Lançados nos últimos 12 meses
+80027042;The Flash;https://www.netflix.com/br/title/80027042;Lançados nos últimos 12 meses
+80050063;The Seven Deadly Sins;https://www.netflix.com/br/title/80050063;Lançados nos últimos 12 meses
+81222715;Homem X Abelha: A Batalha;https://www.netflix.com/br/title/81222715;Lançados nos últimos 12 meses
+81237994;All of Us Are Dead;https://www.netflix.com/br/title/81237994;Lançados nos últimos 12 meses
+80221210;Irmandade;https://www.netflix.com/br/title/80221210;Lançados nos últimos 12 meses
+81380432;Uma Nova Mulher;https://www.netflix.com/br/title/81380432;Lançados nos últimos 12 meses
+81517188;Alquimia das Almas;https://www.netflix.com/br/title/81517188;Lançados nos últimos 12 meses
+80189685;The Witcher;https://www.netflix.com/br/title/80189685;Lançados nos últimos 12 meses
+81021245;Control Z;https://www.netflix.com/br/title/81021245;Lançados nos últimos 12 meses
+80047032;Paixões Ardentes;https://www.netflix.com/br/title/80047032;Lançados nos últimos 12 meses
+80194704;Midas do Ferro-Velho;https://www.netflix.com/br/title/80194704;Lançados nos últimos 12 meses
+80200942;Elite;https://www.netflix.com/br/title/80200942;Lançados nos últimos 12 meses
+80104198;Perdidos no Espaço;https://www.netflix.com/br/title/80104198;Lançados nos últimos 12 meses
+81504820;D1ÁR10S;https://www.netflix.com/br/title/81504820;Lançados nos últimos 12 meses
+80242184;Tubacão;https://www.netflix.com/br/title/80242184;Lançados nos últimos 12 meses
+81500342;O Chefinho: De Volta ao Berço;https://www.netflix.com/br/title/81500342;Lançados nos últimos 12 meses
+81309532;Supercães;https://www.netflix.com/br/title/81309532;Lançados nos últimos 12 meses
+80225085;Velozes & Furiosos - Espiões do Asfalto;https://www.netflix.com/br/title/80225085;Lançados nos últimos 12 meses
+80234451;Reunião de Família;https://www.netflix.com/br/title/80234451;Lançados nos últimos 12 meses
+80133311;Riverdale;https://www.netflix.com/br/title/80133311;Lançados nos últimos 12 meses
+81333845;Isso é um Bolo?;https://www.netflix.com/br/title/81333845;Lançados nos últimos 12 meses
+81410564;A Sogra que te pariu;https://www.netflix.com/br/title/81410564;Lançados nos últimos 12 meses
+81090319;Desejo Sombrio;https://www.netflix.com/br/title/81090319;Lançados nos últimos 12 meses
+80997343;La Casa de Papel: Coreia;https://www.netflix.com/br/title/80997343;Lançados nos últimos 12 meses
+81006858;Jogo da Lava;https://www.netflix.com/br/title/81006858;Lançados nos últimos 12 meses
+80211991;Você;https://www.netflix.com/br/title/80211991;Lançados nos últimos 12 meses
+70171946;Heartland;https://www.netflix.com/br/title/70171946;Lançados nos últimos 12 meses
+80074249;The Last Kingdom;https://www.netflix.com/br/title/80074249;Lançados nos últimos 12 meses
+80177342;Good Girls;https://www.netflix.com/br/title/80177342;Lançados nos últimos 12 meses
+80065386;Supergirl;https://www.netflix.com/br/title/80065386;Lançados nos últimos 12 meses
+80095697;(Des)encanto;https://www.netflix.com/br/title/80095697;Lançados nos últimos 12 meses
+81037371;Emily em Paris;https://www.netflix.com/br/title/81037371;Lançados nos últimos 12 meses
+80117552;Ozark;https://www.netflix.com/br/title/80117552;Lançados nos últimos 12 meses
+81149450;Vikings: Valhalla;https://www.netflix.com/br/title/81149450;Lançados nos últimos 12 meses
+81005407;O Clube das Babás;https://www.netflix.com/br/title/81005407;Lançados nos últimos 12 meses
+80218200;Titãs;https://www.netflix.com/br/title/80218200;Lançados nos últimos 12 meses
+81166747;Quem Matou Sara?;https://www.netflix.com/br/title/81166747;Lançados nos últimos 12 meses
+81044355;Maldivas;https://www.netflix.com/br/title/81044355;Lançados nos últimos 12 meses
+81261170;Coração Marcado;https://www.netflix.com/br/title/81261170;Lançados nos últimos 12 meses
+80179394;Dinastia;https://www.netflix.com/br/title/80179394;Lançados nos últimos 12 meses
+80111373;Chesapeake Shores;https://www.netflix.com/br/title/80111373;Lançados nos últimos 12 meses
+81473182;Hometown Cha-Cha-Cha;https://www.netflix.com/br/title/81473182;Lançados nos últimos 12 meses
+81287440;Que a Justiça Seja Feita;https://www.netflix.com/br/title/81287440;Lançados nos últimos 12 meses
+81443315;Canta Comigo Teen;https://www.netflix.com/br/title/81443315;Lançados nos últimos 12 meses
+81022683;La Reina del Flow;https://www.netflix.com/br/title/81022683;Lançados nos últimos 12 meses
+81354663;Power Rangers: Dino Fúria;https://www.netflix.com/br/title/81354663;Lançados nos últimos 12 meses
+81430282;O Rei de Porcelana;https://www.netflix.com/br/title/81430282;Lançados nos últimos 12 meses
+81166770;Maid;https://www.netflix.com/br/title/81166770;Lançados nos últimos 12 meses
+81422836;Oggy e as Baratas Tontas: E Piya!;https://www.netflix.com/br/title/81422836;Lançados nos últimos 12 meses
+80215147;Vidrados;https://www.netflix.com/br/title/80215147;Lançados nos últimos 12 meses
+70195800;Suits;https://www.netflix.com/br/title/70195800;TV sobre o local de trabalho
+70281562;Brooklyn Nine-Nine;https://www.netflix.com/br/title/70281562;TV sobre o local de trabalho
+81509440;Pretendente Surpresa;https://www.netflix.com/br/title/81509440;TV sobre o local de trabalho
+80061132;Superstore: Uma Loja de Inconveniências;https://www.netflix.com/br/title/80061132;TV sobre o local de trabalho
+80100929;As Telefonistas;https://www.netflix.com/br/title/80100929;TV sobre o local de trabalho
+81303831;O Poder e a Lei;https://www.netflix.com/br/title/81303831;TV sobre o local de trabalho
+81349493;Vida de Madeireiro;https://www.netflix.com/br/title/81349493;TV sobre o local de trabalho
+81572781;Clima do Amor;https://www.netflix.com/br/title/81572781;TV sobre o local de trabalho
+80198991;Supermães;https://www.netflix.com/br/title/80198991;TV sobre o local de trabalho
+80203254;Restauradores de Rust Valley;https://www.netflix.com/br/title/80203254;TV sobre o local de trabalho
+81465196;Backstreet Rookie;https://www.netflix.com/br/title/81465196;TV sobre o local de trabalho
+81394495;She Would Never Know;https://www.netflix.com/br/title/81394495;TV sobre o local de trabalho
+80198505;Aggretsuko;https://www.netflix.com/br/title/80198505;TV sobre o local de trabalho
+80223108;Sunset - Milha de Ouro;https://www.netflix.com/br/title/80223108;TV sobre o local de trabalho
+80191522;Paradise Police;https://www.netflix.com/br/title/80191522;TV sobre o local de trabalho
+80995819;Departamento de Conspirações;https://www.netflix.com/br/title/80995819;TV sobre o local de trabalho
+81279310;Guia Astrológico para Corações Partidos;https://www.netflix.com/br/title/81279310;TV sobre o local de trabalho
+81045349;Romance Is a Bonus Book;https://www.netflix.com/br/title/81045349;TV sobre o local de trabalho
+81054857;Temporada de Verão;https://www.netflix.com/br/title/81054857;TV sobre o local de trabalho
+80117694;Disjointed;https://www.netflix.com/br/title/80117694;TV sobre o local de trabalho
+81170092;My Secret Romance;https://www.netflix.com/br/title/81170092;TV sobre o local de trabalho
+81303889;Asas da Ambição;https://www.netflix.com/br/title/81303889;TV sobre o local de trabalho
+81267200;Criadores de Diversão;https://www.netflix.com/br/title/81267200;TV sobre o local de trabalho
+81092963;Recursos Humanos;https://www.netflix.com/br/title/81092963;TV sobre o local de trabalho
+80990935;Something in the Rain;https://www.netflix.com/br/title/80990935;TV sobre o local de trabalho
+81470227;Vida a Bordo - Mediterrâneo;https://www.netflix.com/br/title/81470227;TV sobre o local de trabalho
+81017316;Grite, você está sendo filmado;https://www.netflix.com/br/title/81017316;TV sobre o local de trabalho
+81297404;Exorcista de Aluguel;https://www.netflix.com/br/title/81297404;TV sobre o local de trabalho
+80216172;Criminal - Reino Unido;https://www.netflix.com/br/title/80216172;TV sobre o local de trabalho
+80133335;Dix pour cent;https://www.netflix.com/br/title/80133335;TV sobre o local de trabalho
+80135640;West Coast Customs;https://www.netflix.com/br/title/80135640;TV sobre o local de trabalho
+81389612;Rei dos Stonks;https://www.netflix.com/br/title/81389612;TV sobre o local de trabalho
+81281864;O Idiota Favorito de Deus;https://www.netflix.com/br/title/81281864;TV sobre o local de trabalho
+81196469;Tattoo Fail;https://www.netflix.com/br/title/81196469;TV sobre o local de trabalho
+81416676;Do Nada, Grávida;https://www.netflix.com/br/title/81416676;TV sobre o local de trabalho
+81039557;Força-Queer;https://www.netflix.com/br/title/81039557;TV sobre o local de trabalho
+81205830;Search WWW;https://www.netflix.com/br/title/81205830;TV sobre o local de trabalho
+80119382;Servo do Povo;https://www.netflix.com/br/title/80119382;TV sobre o local de trabalho
+81452916;Entre a Razão e a Emoção;https://www.netflix.com/br/title/81452916;TV sobre o local de trabalho
+70171942;Archer;https://www.netflix.com/br/title/70171942;TV sobre o local de trabalho
+80201728;Lenox Hill;https://www.netflix.com/br/title/80201728;TV sobre o local de trabalho
+80157073;Caso de Polícia;https://www.netflix.com/br/title/80157073;TV sobre o local de trabalho
+81149112;Disque Prazer;https://www.netflix.com/br/title/81149112;TV sobre o local de trabalho
+81417684;Imóveis de Luxo em Família;https://www.netflix.com/br/title/81417684;TV sobre o local de trabalho
+81097871;Como Virar um Cowboy;https://www.netflix.com/br/title/81097871;TV sobre o local de trabalho
+81477952;Light the Night;https://www.netflix.com/br/title/81477952;TV sobre o local de trabalho
+80996455;Borges;https://www.netflix.com/br/title/80996455;TV sobre o local de trabalho
+81206259;The Chair;https://www.netflix.com/br/title/81206259;TV sobre o local de trabalho
+81011508;Life;https://www.netflix.com/br/title/81011508;TV sobre o local de trabalho
+81047664;Pit Stop;https://www.netflix.com/br/title/81047664;TV sobre o local de trabalho
+81002465;Pet Stars;https://www.netflix.com/br/title/81002465;TV sobre o local de trabalho
+81164084;Castle and Castle;https://www.netflix.com/br/title/81164084;TV sobre o local de trabalho
+80030346;Club de Cuervos;https://www.netflix.com/br/title/80030346;TV sobre o local de trabalho
+81330745;Tampa Bay à Venda;https://www.netflix.com/br/title/81330745;TV sobre o local de trabalho
+80165295;Vida incompleta;https://www.netflix.com/br/title/80165295;TV sobre o local de trabalho
+81042948;Millennials;https://www.netflix.com/br/title/81042948;TV sobre o local de trabalho
+81108694;Mansão de Praia;https://www.netflix.com/br/title/81108694;TV sobre o local de trabalho
+81020518;Criminal - Alemanha;https://www.netflix.com/br/title/81020518;TV sobre o local de trabalho
+80189898;Osmosis;https://www.netflix.com/br/title/80189898;TV sobre o local de trabalho
+80191680;White Gold;https://www.netflix.com/br/title/80191680;TV sobre o local de trabalho
+81556857;Black Dog;https://www.netflix.com/br/title/81556857;TV sobre o local de trabalho
+80986918;The Producers;https://www.netflix.com/br/title/80986918;TV sobre o local de trabalho
+80067618;Atelier;https://www.netflix.com/br/title/80067618;TV sobre o local de trabalho
+81020513;Criminal - França;https://www.netflix.com/br/title/81020513;TV sobre o local de trabalho
+80196883;Rilakkuma e Kaoru;https://www.netflix.com/br/title/80196883;TV sobre o local de trabalho
+80158516;Great News;https://www.netflix.com/br/title/80158516;TV sobre o local de trabalho
+70258489;Derek;https://www.netflix.com/br/title/70258489;TV sobre o local de trabalho
+80195198;Pine Gap;https://www.netflix.com/br/title/80195198;TV sobre o local de trabalho
+80204364;Styling Hollywood;https://www.netflix.com/br/title/80204364;TV sobre o local de trabalho
+81019632;Irmãos Cervejeiros;https://www.netflix.com/br/title/81019632;TV sobre o local de trabalho
+80207124;Reta Final;https://www.netflix.com/br/title/80207124;TV sobre o local de trabalho
+80097771;A Very Secret Service;https://www.netflix.com/br/title/80097771;TV sobre o local de trabalho
+81023023;Pompas Fúnebres em Família;https://www.netflix.com/br/title/81023023;TV sobre o local de trabalho
+80192577;Champions;https://www.netflix.com/br/title/80192577;TV sobre o local de trabalho
+81117842;Funerária Família Bernard;https://www.netflix.com/br/title/81117842;TV sobre o local de trabalho
+80002479;Peaky Blinders: Sangue, Apostas e Navalhas;https://www.netflix.com/br/title/80002479;Séries policiais
+70281312;Lista Negra;https://www.netflix.com/br/title/70281312;Séries policiais
+70143836;Breaking Bad;https://www.netflix.com/br/title/70143836;Séries policiais
+80192098;La casa de papel;https://www.netflix.com/br/title/80192098;Séries policiais
+80057918;Lucifer;https://www.netflix.com/br/title/80057918;Séries policiais
+80021955;Better Call Saul;https://www.netflix.com/br/title/80021955;Séries policiais
+80059465;Vis a vis;https://www.netflix.com/br/title/80059465;Séries policiais
+80221210;Irmandade;https://www.netflix.com/br/title/80221210;Séries policiais
+80046347;Señora Acero;https://www.netflix.com/br/title/80046347;Séries policiais
+80020542;Gotham;https://www.netflix.com/br/title/80020542;Séries policiais
+80058486;Ponto Cego;https://www.netflix.com/br/title/80058486;Séries policiais
+80200942;Elite;https://www.netflix.com/br/title/80200942;Séries policiais
+70205672;A Rainha do Tráfico;https://www.netflix.com/br/title/70205672;Séries policiais
+70242081;Arrow;https://www.netflix.com/br/title/70242081;Séries policiais
+80133311;Riverdale;https://www.netflix.com/br/title/80133311;Séries policiais
+81090319;Desejo Sombrio;https://www.netflix.com/br/title/81090319;Séries policiais
+80035684;Pablo Escobar, el patrón del mal;https://www.netflix.com/br/title/80035684;Séries policiais
+81086462;Prisão de Mulheres;https://www.netflix.com/br/title/81086462;Séries policiais
+80997343;La Casa de Papel: Coreia;https://www.netflix.com/br/title/80997343;Séries policiais
+80237428;La piloto;https://www.netflix.com/br/title/80237428;Séries policiais
+81098497;O Último Dragão;https://www.netflix.com/br/title/81098497;Séries policiais
+80177342;Good Girls;https://www.netflix.com/br/title/80177342;Séries policiais
+80024057;Como Defender um Assassino;https://www.netflix.com/br/title/80024057;Séries policiais
+80117552;Ozark;https://www.netflix.com/br/title/80117552;Séries policiais
+80025172;Narcos;https://www.netflix.com/br/title/80025172;Séries policiais
+80218200;Titãs;https://www.netflix.com/br/title/80218200;Séries policiais
+81166747;Quem Matou Sara?;https://www.netflix.com/br/title/81166747;Séries policiais
+70204970;DEATH NOTE;https://www.netflix.com/br/title/70204970;Séries policiais
+81287440;Que a Justiça Seja Feita;https://www.netflix.com/br/title/81287440;Séries policiais
+80176234;Dinheiro Sujo e Amor;https://www.netflix.com/br/title/80176234;Séries policiais
+81022683;La Reina del Flow;https://www.netflix.com/br/title/81022683;Séries policiais
+80107369;A Rainha do Sul;https://www.netflix.com/br/title/80107369;Séries policiais
+80100172;Dark;https://www.netflix.com/br/title/80100172;Séries policiais
+80994082;Lupin;https://www.netflix.com/br/title/80994082;Séries policiais
+80221223;Bom Dia, Verônica;https://www.netflix.com/br/title/80221223;Séries policiais
+81303831;O Poder e a Lei;https://www.netflix.com/br/title/81303831;Séries policiais
+80133042;El Chapo;https://www.netflix.com/br/title/80133042;Séries policiais
+81036622;Toy Boy;https://www.netflix.com/br/title/81036622;Séries policiais
+81034775;Falsa identidad;https://www.netflix.com/br/title/81034775;Séries policiais
+81244448;For Life;https://www.netflix.com/br/title/81244448;Séries policiais
+80175802;The Sinner;https://www.netflix.com/br/title/80175802;Séries policiais
+80241001;O Sucessor;https://www.netflix.com/br/title/80241001;Séries policiais
+80177458;Expresso do Amanhã;https://www.netflix.com/br/title/80177458;Séries policiais
+80141259;Sobrevivendo a Escobar, Alias JJ;https://www.netflix.com/br/title/80141259;Séries policiais
+80217669;Top Boy;https://www.netflix.com/br/title/80217669;Séries policiais
+81312802;Juvenile Justice;https://www.netflix.com/br/title/81312802;Séries policiais
+80036140;As Bonecas da Máfia;https://www.netflix.com/br/title/80036140;Séries policiais
+80113647;Designated Survivor;https://www.netflix.com/br/title/80113647;Séries policiais
+81043160;Elize Matsunaga: Era Uma Vez Um Crime;https://www.netflix.com/br/title/81043160;Séries policiais
+80997085;Narcos: México;https://www.netflix.com/br/title/80997085;Séries policiais
+80114855;MINDHUNTER;https://www.netflix.com/br/title/80114855;Séries policiais
+80153271;El Chema;https://www.netflix.com/br/title/80153271;Séries policiais
+81568217;Café Minamdang;https://www.netflix.com/br/title/81568217;Séries policiais
+81277858;Os Segredos de Manscheid;https://www.netflix.com/br/title/81277858;Séries policiais
+80120640;A Menina;https://www.netflix.com/br/title/80120640;Séries policiais
+81286017;Prisioneiro da Madrugada;https://www.netflix.com/br/title/81286017;Séries policiais
+81149763;Intimidade;https://www.netflix.com/br/title/81149763;Séries policiais
+80116922;Por dentro das prisões mais severas do mundo;https://www.netflix.com/br/title/80116922;Séries policiais
+80120485;O Mecanismo;https://www.netflix.com/br/title/80120485;Séries policiais
+80218448;Como vender drogas online (rápido);https://www.netflix.com/br/title/80218448;Séries policiais
+80149395;The Alienist;https://www.netflix.com/br/title/80149395;Séries policiais
+80097140;Altered Carbon;https://www.netflix.com/br/title/80097140;Séries policiais
+81374470;3 Tonelada$: Assalto ao Banco Central;https://www.netflix.com/br/title/81374470;Séries policiais
+80217517;Cidade Invisível;https://www.netflix.com/br/title/80217517;Séries policiais
+81167570;El final del paraíso;https://www.netflix.com/br/title/81167570;Séries policiais
+80233258;Alto Mar;https://www.netflix.com/br/title/80233258;Séries policiais
+81103570;João de Deus - Cura e Crime;https://www.netflix.com/br/title/81103570;Séries policiais
+81026915;Better Than Us;https://www.netflix.com/br/title/81026915;Séries policiais
+81196277;La bella y las bestias;https://www.netflix.com/br/title/81196277;Séries policiais
+80240691;O Bosque;https://www.netflix.com/br/title/80240691;Séries policiais
+80235864;Segurança em Jogo;https://www.netflix.com/br/title/80235864;Séries policiais
+81435253;Malverde, el santo patrón;https://www.netflix.com/br/title/81435253;Séries policiais
+80115297;El Marginal - O Cara de Fora;https://www.netflix.com/br/title/80115297;Séries policiais
+80145143;Bordertown;https://www.netflix.com/br/title/80145143;Séries policiais
+80220145;A Lei Secreta;https://www.netflix.com/br/title/80220145;Séries policiais
+81396406;Café com Aroma de Mulher;https://www.netflix.com/br/title/81396406;Séries românticas
+80232398;Bridgerton;https://www.netflix.com/br/title/80232398;Séries românticas
+70155618;Gilmore Girls: Tal Mãe, Tal Filha;https://www.netflix.com/br/title/70155618;Séries românticas
+81380432;Uma Nova Mulher;https://www.netflix.com/br/title/81380432;Séries românticas
+81517188;Alquimia das Almas;https://www.netflix.com/br/title/81517188;Séries românticas
+80047032;Paixões Ardentes;https://www.netflix.com/br/title/80047032;Séries românticas
+81159258;Pousando no Amor;https://www.netflix.com/br/title/81159258;Séries românticas
+81354739;A Love So Beautiful;https://www.netflix.com/br/title/81354739;Séries românticas
+70285581;Outlander;https://www.netflix.com/br/title/70285581;Séries românticas
+80027158;Jane The Virgin;https://www.netflix.com/br/title/80027158;Séries românticas
+81037371;Emily em Paris;https://www.netflix.com/br/title/81037371;Séries românticas
+80188354;Minha Vênus;https://www.netflix.com/br/title/80188354;Séries românticas
+80111373;Chesapeake Shores;https://www.netflix.com/br/title/80111373;Séries românticas
+81473182;Hometown Cha-Cha-Cha;https://www.netflix.com/br/title/81473182;Séries românticas
+81091825;Betty em Nova York;https://www.netflix.com/br/title/81091825;Séries românticas
+81005504;Jardim de Meteoros;https://www.netflix.com/br/title/81005504;Séries românticas
+80100929;As Telefonistas;https://www.netflix.com/br/title/80100929;Séries românticas
+81279126;O Anjo do Amor;https://www.netflix.com/br/title/81279126;Séries românticas
+81430282;O Rei de Porcelana;https://www.netflix.com/br/title/81430282;Séries românticas
+81243992;Tudo Bem Não Ser Normal;https://www.netflix.com/br/title/81243992;Séries românticas
+81059939;Heartstopper;https://www.netflix.com/br/title/81059939;Séries românticas
+70213130;Meninos antes de flores;https://www.netflix.com/br/title/70213130;Séries românticas
+80117809;On My Block;https://www.netflix.com/br/title/80117809;Séries românticas
+81465093;Uncoupled;https://www.netflix.com/br/title/81465093;Séries românticas
+81260283;O Rei Eterno;https://www.netflix.com/br/title/81260283;Séries românticas
+81572781;Clima do Amor;https://www.netflix.com/br/title/81572781;Séries românticas
+81213653;Primeira Morte;https://www.netflix.com/br/title/81213653;Séries românticas
+81318872;Na Direção do Amor;https://www.netflix.com/br/title/81318872;Séries românticas
+81290293;Apostando Alto;https://www.netflix.com/br/title/81290293;Séries românticas
+81284981;Casamento às Cegas: Brasil;https://www.netflix.com/br/title/81284981;Séries românticas
+80149594;Intersection;https://www.netflix.com/br/title/80149594;Séries românticas
+81486372;Nosso Eterno Verão;https://www.netflix.com/br/title/81486372;Séries românticas
+81033650;Herdeiros;https://www.netflix.com/br/title/81033650;Séries românticas
+80991848;Sex/Life;https://www.netflix.com/br/title/80991848;Séries românticas
+81517168;Vinte e Cinco, Vinte e Um;https://www.netflix.com/br/title/81517168;Séries românticas
+81290301;Passarela de Sonhos;https://www.netflix.com/br/title/81290301;Séries românticas
+80239866;Doces Magnólias;https://www.netflix.com/br/title/80239866;Séries românticas
+80188730;The K2;https://www.netflix.com/br/title/80188730;Séries românticas
+80196931;Hwarang;https://www.netflix.com/br/title/80196931;Séries românticas
+81030008;Fadas da Limpeza;https://www.netflix.com/br/title/81030008;Séries românticas
+80188605;Cinderela e os Quatro Cavaleiros;https://www.netflix.com/br/title/80188605;Séries românticas
+81008021;Holo, Meu Amor;https://www.netflix.com/br/title/81008021;Séries românticas
+81030026;Gangnam Beauty;https://www.netflix.com/br/title/81030026;Séries românticas
+80986896;Love in the Moonlight;https://www.netflix.com/br/title/80986896;Séries românticas
+81435649;Apesar de Tudo, Amor;https://www.netflix.com/br/title/81435649;Séries românticas
+81568400;Trinta e Nove;https://www.netflix.com/br/title/81568400;Séries românticas
+80168068;Love Alarm;https://www.netflix.com/br/title/80168068;Séries românticas
+81144163;Amar e Viver;https://www.netflix.com/br/title/81144163;Séries românticas
+80214405;Uma Odisseia Coreana;https://www.netflix.com/br/title/80214405;Séries românticas
+81465196;Backstreet Rookie;https://www.netflix.com/br/title/81465196;Séries românticas
+80182123;Violet Evergarden;https://www.netflix.com/br/title/80182123;Séries românticas
+81398330;Novo Rico, Novo Pobre;https://www.netflix.com/br/title/81398330;Séries românticas
+81394495;She Would Never Know;https://www.netflix.com/br/title/81394495;Séries românticas
+81026700;Primeira Vez Amor;https://www.netflix.com/br/title/81026700;Séries românticas
+81609047;Dali & Cocky Prince;https://www.netflix.com/br/title/81609047;Séries românticas
+80189829;O Último Guardião;https://www.netflix.com/br/title/80189829;Séries românticas
+81025696;Ginny e Georgia;https://www.netflix.com/br/title/81025696;Séries românticas
+81354529;A Cozinheira de Castamar;https://www.netflix.com/br/title/81354529;Séries românticas
+80996601;Casamento às Cegas;https://www.netflix.com/br/title/80996601;Séries românticas
+80208298;Coisa Mais Linda;https://www.netflix.com/br/title/80208298;Séries românticas
+80188423;Healer;https://www.netflix.com/br/title/80188423;Séries românticas
+81200229;Ombro Amigo;https://www.netflix.com/br/title/81200229;Séries românticas
+80212986;Valéria;https://www.netflix.com/br/title/80212986;Séries românticas
+81436209;Solteiros, Ilhados e Desesperados;https://www.netflix.com/br/title/81436209;Séries românticas
+80997338;Hi Score Girl;https://www.netflix.com/br/title/80997338;Séries românticas
+81012487;A Noiva de Habaek;https://www.netflix.com/br/title/81012487;Séries românticas
+80991107;Mr. Sunshine - Um Raio de Sol;https://www.netflix.com/br/title/80991107;Séries românticas
+80103417;Eu, tu e ela;https://www.netflix.com/br/title/80103417;Séries românticas
+81026363;Ashes of Love;https://www.netflix.com/br/title/81026363;Séries românticas
+81092192;Well-Intended Love;https://www.netflix.com/br/title/81092192;Séries românticas
+81279310;Guia Astrológico para Corações Partidos;https://www.netflix.com/br/title/81279310;Séries românticas
+81283687;Quando meu amor floresce;https://www.netflix.com/br/title/81283687;Séries românticas
+81045349;Romance Is a Bonus Book;https://www.netflix.com/br/title/81045349;Séries românticas
+80145361;Blood;https://www.netflix.com/br/title/80145361;Séries românticas
+81170092;My Secret Romance;https://www.netflix.com/br/title/81170092;Séries românticas
+70177057;The Walking Dead;https://www.netflix.com/br/title/70177057;Séries de terror e ficção científica
+70219484;Teen Wolf;https://www.netflix.com/br/title/70219484;Séries de terror e ficção científica
+80186863;The Umbrella Academy;https://www.netflix.com/br/title/80186863;Séries de terror e ficção científica
+80027042;The Flash;https://www.netflix.com/br/title/80027042;Séries de terror e ficção científica
+81237994;All of Us Are Dead;https://www.netflix.com/br/title/81237994;Séries de terror e ficção científica
+80996532;Resident Evil: A Série;https://www.netflix.com/br/title/80996532;Séries de terror e ficção científica
+70283264;The 100;https://www.netflix.com/br/title/70283264;Séries de terror e ficção científica
+80084447;Shadowhunters: The Mortal Instruments;https://www.netflix.com/br/title/80084447;Séries de terror e ficção científica
+80065386;Supergirl;https://www.netflix.com/br/title/80065386;Séries de terror e ficção científica
+80218200;Titãs;https://www.netflix.com/br/title/80218200;Séries de terror e ficção científica
+70204970;DEATH NOTE;https://www.netflix.com/br/title/70204970;Séries de terror e ficção científica
+80223989;O Mundo Sombrio de Sabrina;https://www.netflix.com/br/title/80223989;Séries de terror e ficção científica
+80095241;Castlevania;https://www.netflix.com/br/title/80095241;Séries de terror e ficção científica
+80100172;Dark;https://www.netflix.com/br/title/80100172;Séries de terror e ficção científica
+80008434;Z Nation;https://www.netflix.com/br/title/80008434;Séries de terror e ficção científica
+80238357;A Ordem;https://www.netflix.com/br/title/80238357;Séries de terror e ficção científica
+80174608;Love, Death & Robots;https://www.netflix.com/br/title/80174608;Séries de terror e ficção científica
+80066080;DC's Legends of Tomorrow;https://www.netflix.com/br/title/80066080;Séries de terror e ficção científica
+80177458;Expresso do Amanhã;https://www.netflix.com/br/title/80177458;Séries de terror e ficção científica
+80154610;The Rain;https://www.netflix.com/br/title/80154610;Séries de terror e ficção científica
+80121349;Van Helsing;https://www.netflix.com/br/title/80121349;Séries de terror e ficção científica
+80174479;Final Space;https://www.netflix.com/br/title/80174479;Séries de terror e ficção científica
+81008021;Holo, Meu Amor;https://www.netflix.com/br/title/81008021;Séries de terror e ficção científica
+70264888;Black Mirror;https://www.netflix.com/br/title/70264888;Séries de terror e ficção científica
+80178687;Raio Negro;https://www.netflix.com/br/title/80178687;Séries de terror e ficção científica
+70158329;Jornada nas Estrelas: A nova geração;https://www.netflix.com/br/title/70158329;Séries de terror e ficção científica
+80108495;Glitch;https://www.netflix.com/br/title/80108495;Séries de terror e ficção científica
+81211710;Bem-vindos ao Éden;https://www.netflix.com/br/title/81211710;Séries de terror e ficção científica
+80189221;A Maldição da Residência Hill;https://www.netflix.com/br/title/80189221;Séries de terror e ficção científica
+80105452;Slasher;https://www.netflix.com/br/title/80105452;Séries de terror e ficção científica
+80095815;Santa Clarita Diet;https://www.netflix.com/br/title/80095815;Séries de terror e ficção científica
+70242310;Hemlock Grove;https://www.netflix.com/br/title/70242310;Séries de terror e ficção científica
+80074220;3%;https://www.netflix.com/br/title/80074220;Séries de terror e ficção científica
+80097140;Altered Carbon;https://www.netflix.com/br/title/80097140;Séries de terror e ficção científica
+80025744;Sense8;https://www.netflix.com/br/title/80025744;Séries de terror e ficção científica
+81008221;Noite Adentro;https://www.netflix.com/br/title/81008221;Séries de terror e ficção científica
+80049277;Ash vs. Evil Dead;https://www.netflix.com/br/title/80049277;Séries de terror e ficção científica
+80044950;The OA;https://www.netflix.com/br/title/80044950;Séries de terror e ficção científica
+80236236;Outra Vida;https://www.netflix.com/br/title/80236236;Séries de terror e ficção científica
+81083626;Missa da Meia-Noite;https://www.netflix.com/br/title/81083626;Séries de terror e ficção científica
+80200575;Alice in Borderland;https://www.netflix.com/br/title/80200575;Séries de terror e ficção científica
+80105699;Travelers;https://www.netflix.com/br/title/80105699;Séries de terror e ficção científica
+81026915;Better Than Us;https://www.netflix.com/br/title/81026915;Séries de terror e ficção científica
+81237854;A Maldição da Mansão Bly;https://www.netflix.com/br/title/81237854;Séries de terror e ficção científica
+80135414;O Nevoeiro;https://www.netflix.com/br/title/80135414;Séries de terror e ficção científica
+81609084;Venda Sua Casa Assombrada;https://www.netflix.com/br/title/81609084;Séries de terror e ficção científica
+80198988;Black Summer;https://www.netflix.com/br/title/80198988;Séries de terror e ficção científica
+81061734;Sweet Home;https://www.netflix.com/br/title/81061734;Séries de terror e ficção científica
+80988066;Hellsing Ultimate;https://www.netflix.com/br/title/80988066;Séries de terror e ficção científica
+80244953;O Legado de Júpiter;https://www.netflix.com/br/title/80244953;Séries de terror e ficção científica
+81256675;Profecia do Inferno;https://www.netflix.com/br/title/81256675;Séries de terror e ficção científica
+80217779;Marianne;https://www.netflix.com/br/title/80217779;Séries de terror e ficção científica
+80180171;Kingdom;https://www.netflix.com/br/title/80180171;Séries de terror e ficção científica
+80222802;Arquivo 81;https://www.netflix.com/br/title/80222802;Séries de terror e ficção científica
+80236118;Apocalipse V;https://www.netflix.com/br/title/80236118;Séries de terror e ficção científica
+70304245;Um Drink no Inferno;https://www.netflix.com/br/title/70304245;Séries de terror e ficção científica
+80213445;Ratched;https://www.netflix.com/br/title/80213445;Séries de terror e ficção científica
+80174974;Devilman Crybaby;https://www.netflix.com/br/title/80174974;Séries de terror e ficção científica
+81123055;À Tona;https://www.netflix.com/br/title/81123055;Séries de terror e ficção científica
+80171099;Salvation;https://www.netflix.com/br/title/80171099;Séries de terror e ficção científica
+81302258;Cidade dos Mortos;https://www.netflix.com/br/title/81302258;Séries de terror e ficção científica
+81098012;O Mar da Tranquilidade;https://www.netflix.com/br/title/81098012;Séries de terror e ficção científica
+80119426;Dirk Gently's Holistic Detective Agency;https://www.netflix.com/br/title/80119426;Séries de terror e ficção científica
+80997687;Drácula;https://www.netflix.com/br/title/80997687;Séries de terror e ficção científica
+81011660;Biohackers;https://www.netflix.com/br/title/81011660;Séries de terror e ficção científica
+80077417;Colony;https://www.netflix.com/br/title/80077417;Séries de terror e ficção científica
+81397558;O Mito de Sísifo;https://www.netflix.com/br/title/81397558;Séries de terror e ficção científica
+81017316;Grite, você está sendo filmado;https://www.netflix.com/br/title/81017316;Séries de terror e ficção científica
+80172145;Diablero;https://www.netflix.com/br/title/80172145;Séries de terror e ficção científica
+81003028;Reality Z;https://www.netflix.com/br/title/81003028;Séries de terror e ficção científica
+80987064;RESIDENT EVIL: No Escuro Absoluto;https://www.netflix.com/br/title/80987064;Séries de terror e ficção científica
+81073507;Zona de Separação;https://www.netflix.com/br/title/81073507;Séries de terror e ficção científica
+81152779;Elfos;https://www.netflix.com/br/title/81152779;Séries de terror e ficção científica
+81259476;Farzar;https://www.netflix.com/br/title/81259476;Séries de terror e ficção científica
+80195378;Eu Vi;https://www.netflix.com/br/title/80195378;Séries de terror e ficção científica
+80107103;ONE PIECE;https://www.netflix.com/br/title/80107103;Populares na Netflix
+70300627;Carrossel;https://www.netflix.com/br/title/70300627;Populares na Netflix
+70155547;Bob Esponja;https://www.netflix.com/br/title/70155547;Populares na Netflix
+80026226;Patrulha Canina;https://www.netflix.com/br/title/80026226;Populares na Netflix
+80103408;Os Jovens Titãs em Ação;https://www.netflix.com/br/title/80103408;Populares na Netflix
+81430305;Carinha de Anjo;https://www.netflix.com/br/title/81430305;Populares na Netflix
+80002479;Peaky Blinders: Sangue, Apostas e Navalhas;https://www.netflix.com/br/title/80002479;Populares na Netflix
+80025494;Peppa Pig;https://www.netflix.com/br/title/80025494;Populares na Netflix
+81430599;Cúmplices de um Resgate;https://www.netflix.com/br/title/81430599;Populares na Netflix
+81396406;Café com Aroma de Mulher;https://www.netflix.com/br/title/81396406;Populares na Netflix
+81518991;Uma Advogada Extraordinária;https://www.netflix.com/br/title/81518991;Populares na Netflix
+80057134;Henry Danger;https://www.netflix.com/br/title/80057134;Populares na Netflix
+81186615;Os Thundermans;https://www.netflix.com/br/title/81186615;Populares na Netflix
+80027564;Sam & Cat;https://www.netflix.com/br/title/80027564;Populares na Netflix
+70281312;Lista Negra;https://www.netflix.com/br/title/70281312;Populares na Netflix
+81227574;Kung Fu Panda: O Cavaleiro Dragão;https://www.netflix.com/br/title/81227574;Populares na Netflix
+70205012;Naruto;https://www.netflix.com/br/title/70205012;Populares na Netflix
+81291575;Série Jornadas de Mestre Pokémon;https://www.netflix.com/br/title/81291575;Populares na Netflix
+80059506;Chiquititas;https://www.netflix.com/br/title/80059506;Populares na Netflix
+81033243;Rebelde;https://www.netflix.com/br/title/81033243;Populares na Netflix
+81220677;As Aventuras de Poliana;https://www.netflix.com/br/title/81220677;Populares na Netflix
+70219484;Teen Wolf;https://www.netflix.com/br/title/70219484;Populares na Netflix
+80186863;The Umbrella Academy;https://www.netflix.com/br/title/80186863;Populares na Netflix
+81040344;Round 6;https://www.netflix.com/br/title/81040344;Populares na Netflix
+81002370;Cobra Kai;https://www.netflix.com/br/title/81002370;Populares na Netflix
+70143836;Breaking Bad;https://www.netflix.com/br/title/70143836;Populares na Netflix
+70286901;Masha e o Urso;https://www.netflix.com/br/title/70286901;Populares na Netflix
+80039394;Dragões: Corrida até o Limite;https://www.netflix.com/br/title/80039394;Populares na Netflix
+81276119;Respire!;https://www.netflix.com/br/title/81276119;Populares na Netflix
+81273085;CoComelon;https://www.netflix.com/br/title/81273085;Populares na Netflix
+80192098;La casa de papel;https://www.netflix.com/br/title/80192098;Populares na Netflix
+81080523;Boruto: Naruto Next Generations;https://www.netflix.com/br/title/81080523;Populares na Netflix
+70142405;Avatar - A lenda de Aang;https://www.netflix.com/br/title/70142405;Populares na Netflix
+70231705;Galinha Pintadinha;https://www.netflix.com/br/title/70231705;Populares na Netflix
+80057918;Lucifer;https://www.netflix.com/br/title/80057918;Populares na Netflix
+80232398;Bridgerton;https://www.netflix.com/br/title/80232398;Populares na Netflix
+70281562;Brooklyn Nine-Nine;https://www.netflix.com/br/title/70281562;Populares na Netflix
+81509440;Pretendente Surpresa;https://www.netflix.com/br/title/81509440;Populares na Netflix
+80021955;Better Call Saul;https://www.netflix.com/br/title/80021955;Populares na Netflix
+81423382;Alba;https://www.netflix.com/br/title/81423382;Populares na Netflix
+70180051;H2O - Meninas Sereias;https://www.netflix.com/br/title/70180051;Populares na Netflix
+80242531;Cuphead - A Série;https://www.netflix.com/br/title/80242531;Populares na Netflix
+80027042;The Flash;https://www.netflix.com/br/title/80027042;Populares na Netflix
+81040639;Aucademia;https://www.netflix.com/br/title/81040639;Populares na Netflix
+70301870;Vikings;https://www.netflix.com/br/title/70301870;Populares na Netflix
+80199383;Galinha Pintadinha Mini;https://www.netflix.com/br/title/80199383;Populares na Netflix
+80075820;Caçadores de Trolls: Contos da Arcadia;https://www.netflix.com/br/title/80075820;Populares na Netflix
+70136153;iCarly;https://www.netflix.com/br/title/70136153;Populares na Netflix
+70234440;My Little Pony: A Amizade é Mágica;https://www.netflix.com/br/title/70234440;Populares na Netflix
+80178943;O Chefinho - De Volta aos Negócios;https://www.netflix.com/br/title/80178943;Populares na Netflix
+80136311;Anne with an E;https://www.netflix.com/br/title/80136311;Populares na Netflix
+80134695;Zoe e Raven;https://www.netflix.com/br/title/80134695;Populares na Netflix
+70155618;Gilmore Girls: Tal Mãe, Tal Filha;https://www.netflix.com/br/title/70155618;Populares na Netflix
+80050063;The Seven Deadly Sins;https://www.netflix.com/br/title/80050063;Populares na Netflix
+81222715;Homem X Abelha: A Batalha;https://www.netflix.com/br/title/81222715;Populares na Netflix
+80130521;A Pior das Bruxas;https://www.netflix.com/br/title/80130521;Populares na Netflix
+81237994;All of Us Are Dead;https://www.netflix.com/br/title/81237994;Populares na Netflix
+81567663;Beyblade Burst Surge;https://www.netflix.com/br/title/81567663;Populares na Netflix
+80000603;Naruto Shippuden;https://www.netflix.com/br/title/80000603;Populares na Netflix
+70180088;O Show do Garfield;https://www.netflix.com/br/title/70180088;Populares na Netflix
+70177034;Yu-Gi-Oh!;https://www.netflix.com/br/title/70177034;Populares na Netflix
+80059465;Vis a vis;https://www.netflix.com/br/title/80059465;Populares na Netflix
+81154166;Grizzy e os Lemmings;https://www.netflix.com/br/title/81154166;Populares na Netflix
+80221210;Irmandade;https://www.netflix.com/br/title/80221210;Populares na Netflix
+80176076;Power Rangers Ninja Steel;https://www.netflix.com/br/title/80176076;Populares na Netflix
+80155771;Sonic Boom;https://www.netflix.com/br/title/80155771;Populares na Netflix
+81380432;Uma Nova Mulher;https://www.netflix.com/br/title/81380432;Populares na Netflix
+70281343;Mako Mermaids: An H2O Adventure;https://www.netflix.com/br/title/70281343;Populares na Netflix
+81517188;Alquimia das Almas;https://www.netflix.com/br/title/81517188;Populares na Netflix
+70294800;Barbie Life in the Dreamhouse;https://www.netflix.com/br/title/70294800;Populares na Netflix
+80115432;Spirit - Cavalgando Livre;https://www.netflix.com/br/title/80115432;Populares na Netflix
+70172485;Brilhante Victória;https://www.netflix.com/br/title/70172485;Populares na Netflix
+70306300;Cine Gibi;https://www.netflix.com/br/title/70306300;Populares na Netflix
+70288470;Pocoyo;https://www.netflix.com/br/title/70288470;Populares na Netflix
+80189685;The Witcher;https://www.netflix.com/br/title/80189685;Populares na Netflix
+70301870;Vikings;https://www.netflix.com/br/title/70301870;Obras de época
+80136311;Anne with an E;https://www.netflix.com/br/title/80136311;Obras de época
+80074249;The Last Kingdom;https://www.netflix.com/br/title/80074249;Obras de época
+81149450;Vikings: Valhalla;https://www.netflix.com/br/title/81149450;Obras de época
+81430282;O Rei de Porcelana;https://www.netflix.com/br/title/81430282;Obras de época
+80127001;O Grande Guerreiro Otomano;https://www.netflix.com/br/title/80127001;Obras de época
+80108473;La Esclava Blanca;https://www.netflix.com/br/title/80108473;Obras de época
+80196931;Hwarang;https://www.netflix.com/br/title/80196931;Obras de época
+80986896;Love in the Moonlight;https://www.netflix.com/br/title/80986896;Obras de época
+80099656;Frontier;https://www.netflix.com/br/title/80099656;Obras de época
+80036407;When Calls the Heart;https://www.netflix.com/br/title/80036407;Obras de época
+70305883;Marco Polo;https://www.netflix.com/br/title/70305883;Obras de época
+80161728;Templários;https://www.netflix.com/br/title/80161728;Obras de época
+80149395;The Alienist;https://www.netflix.com/br/title/80149395;Obras de época
+81354529;A Cozinheira de Castamar;https://www.netflix.com/br/title/81354529;Obras de época
+80099753;Versailles;https://www.netflix.com/br/title/80099753;Obras de época
+81435253;Malverde, el santo patrón;https://www.netflix.com/br/title/81435253;Obras de época
+80991107;Mr. Sunshine - Um Raio de Sol;https://www.netflix.com/br/title/80991107;Obras de época
+80158276;Taboo;https://www.netflix.com/br/title/80158276;Obras de época
+80150507;A Catedral do Mar;https://www.netflix.com/br/title/80150507;Obras de época
+80180171;Kingdom;https://www.netflix.com/br/title/80180171;Obras de época
+80209184;Freud;https://www.netflix.com/br/title/80209184;Obras de época
+80244780;Luna Nera;https://www.netflix.com/br/title/80244780;Obras de época
+81055416;Índia Catalina;https://www.netflix.com/br/title/81055416;Obras de época
+80220422;Bolívar;https://www.netflix.com/br/title/80220422;Obras de época
+81267689;Os Herdeiros da Terra;https://www.netflix.com/br/title/81267689;Obras de época
+80987113;The Princess Weiyoung;https://www.netflix.com/br/title/80987113;Obras de época
+80997687;Drácula;https://www.netflix.com/br/title/80997687;Obras de época
+80213020;Chamas do Destino;https://www.netflix.com/br/title/80213020;Obras de época
+80211648;Os Últimos Czares;https://www.netflix.com/br/title/80211648;Obras de época
+80119411;Alias Grace;https://www.netflix.com/br/title/80119411;Obras de época
+80176771;Damnation;https://www.netflix.com/br/title/80176771;Obras de época
+81116487;Hae-Ryung, a historiadora;https://www.netflix.com/br/title/81116487;Obras de época
+81482476;O Palhaço Coroado;https://www.netflix.com/br/title/81482476;Obras de época
+81028895;Crônicas de Arthdal;https://www.netflix.com/br/title/81028895;Obras de época
+80244928;The English Game;https://www.netflix.com/br/title/80244928;Obras de época
+81054827;Ladrões da Floresta;https://www.netflix.com/br/title/81054827;Obras de época
+80241581;Os Irregulares de Baker Street;https://www.netflix.com/br/title/80241581;Obras de época
+81312457;Kingdom: Ashin of the North;https://www.netflix.com/br/title/81312457;Obras de época
+80161335;As Crônicas de Frankenstein;https://www.netflix.com/br/title/80161335;Obras de época
+81033645;Garota Atrevida;https://www.netflix.com/br/title/81033645;Obras de época
+81161487;Meu País: A Nova Era;https://www.netflix.com/br/title/81161487;Obras de época
+80992775;La Révolution;https://www.netflix.com/br/title/80992775;Obras de época
+80993613;O Avanço da Fênix;https://www.netflix.com/br/title/80993613;Obras de época
+81249469;Oktoberfest: Sangue e Cerveja;https://www.netflix.com/br/title/81249469;Obras de época
+80094273;O Levante da Páscoa;https://www.netflix.com/br/title/80094273;Obras de época
+81203251;Palácio Yanxi: As Aventuras da Princesa;https://www.netflix.com/br/title/81203251;Obras de época
+80241234;A Noiva Fantasma;https://www.netflix.com/br/title/80241234;Obras de época
+80083594;Marco Polo: One Hundred Eyes;https://www.netflix.com/br/title/80083594;Obras de época
+81380432;Uma Nova Mulher;https://www.netflix.com/br/title/81380432;Lançamentos
+81033243;Rebelde;https://www.netflix.com/br/title/81033243;Lançamentos
+81276119;Respire!;https://www.netflix.com/br/title/81276119;Lançamentos
+81568217;Café Minamdang;https://www.netflix.com/br/title/81568217;Lançamentos
+81287440;Que a Justiça Seja Feita;https://www.netflix.com/br/title/81287440;Lançamentos
+81465093;Uncoupled;https://www.netflix.com/br/title/81465093;Lançamentos
+81568851;Um Pesadelo de Casamento;https://www.netflix.com/br/title/81568851;Lançamentos
+80194704;Midas do Ferro-Velho;https://www.netflix.com/br/title/80194704;Lançamentos
+81504820;D1ÁR10S;https://www.netflix.com/br/title/81504820;Lançamentos
+81422836;Oggy e as Baratas Tontas: E Piya!;https://www.netflix.com/br/title/81422836;Lançamentos
+81387065;O Homem Mais Odiado da Internet;https://www.netflix.com/br/title/81387065;Lançamentos
+81135649;Arvolândia;https://www.netflix.com/br/title/81135649;Lançamentos
+81568357;Ninguém Mandou Se Meter com a Gente;https://www.netflix.com/br/title/81568357;Lançamentos
+81249665;Street Food: EUA;https://www.netflix.com/br/title/81249665;Lançamentos
+81088239;Da Decoração ao Makeover;https://www.netflix.com/br/title/81088239;Lançamentos
+81599270;Parque do T-Rex;https://www.netflix.com/br/title/81599270;Lançamentos
+81313289;Detetive Conan: O Dia a Dia de Zero;https://www.netflix.com/br/title/81313289;Lançamentos
+81122196;Masaba Masaba;https://www.netflix.com/br/title/81122196;Lançamentos
+81203364;Fanático;https://www.netflix.com/br/title/81203364;Lançamentos
+80057281;Stranger Things;https://www.netflix.com/br/title/80057281;Lançamentos
+80217315;Sintonia;https://www.netflix.com/br/title/80217315;Lançamentos
+80241318;Manifest;https://www.netflix.com/br/title/80241318;Lançamentos
+81518991;Uma Advogada Extraordinária;https://www.netflix.com/br/title/81518991;Lançamentos
+80240027;Virgin River;https://www.netflix.com/br/title/80240027;Lançamentos
+80002479;Peaky Blinders: Sangue, Apostas e Navalhas;https://www.netflix.com/br/title/80002479;Lançamentos
+70281312;Lista Negra;https://www.netflix.com/br/title/70281312;Lançamentos
+80107103;ONE PIECE;https://www.netflix.com/br/title/80107103;Lançamentos
+81009646;Jurassic World: Acampamento Jurássico;https://www.netflix.com/br/title/81009646;Lançamentos
+81009946;A Casa Mágica da Gabby;https://www.netflix.com/br/title/81009946;Lançamentos
+81423382;Alba;https://www.netflix.com/br/title/81423382;Lançamentos
+80186863;The Umbrella Academy;https://www.netflix.com/br/title/80186863;Lançamentos
+80996532;Resident Evil: A Série;https://www.netflix.com/br/title/80996532;Lançamentos
+81517188;Alquimia das Almas;https://www.netflix.com/br/title/81517188;Lançamentos
+80221210;Irmandade;https://www.netflix.com/br/title/80221210;Lançamentos
+80047032;Paixões Ardentes;https://www.netflix.com/br/title/80047032;Lançamentos
+81227574;Kung Fu Panda: O Cavaleiro Dragão;https://www.netflix.com/br/title/81227574;Lançamentos
+81021245;Control Z;https://www.netflix.com/br/title/81021245;Lançamentos
+80997343;La Casa de Papel: Coreia;https://www.netflix.com/br/title/80997343;Lançamentos
+81291575;Série Jornadas de Mestre Pokémon;https://www.netflix.com/br/title/81291575;Lançamentos
+81166747;Quem Matou Sara?;https://www.netflix.com/br/title/81166747;Lançamentos
+81442115;Match VIP;https://www.netflix.com/br/title/81442115;Lançamentos
+81044355;Maldivas;https://www.netflix.com/br/title/81044355;Lançamentos
+81303831;O Poder e a Lei;https://www.netflix.com/br/title/81303831;Lançamentos
+80188354;Minha Vênus;https://www.netflix.com/br/title/80188354;Lançamentos
+81222715;Homem X Abelha: A Batalha;https://www.netflix.com/br/title/81222715;Lançamentos
+81568842;Amor e Outros Dramas;https://www.netflix.com/br/title/81568842;Lançamentos
+81249731;Boo, Bitch;https://www.netflix.com/br/title/81249731;Lançamentos
+81213653;Primeira Morte;https://www.netflix.com/br/title/81213653;Lançamentos
+81249833;VINLAND SAGA;https://www.netflix.com/br/title/81249833;Lançamentos
+80174608;Love, Death & Robots;https://www.netflix.com/br/title/80174608;Lançamentos
+80196931;Hwarang;https://www.netflix.com/br/title/80196931;Lançamentos
+81303889;Asas da Ambição;https://www.netflix.com/br/title/81303889;Lançamentos
+81286017;Prisioneiro da Madrugada;https://www.netflix.com/br/title/81286017;Lançamentos
+80215147;Vidrados;https://www.netflix.com/br/title/80215147;Lançamentos
+81211710;Bem-vindos ao Éden;https://www.netflix.com/br/title/81211710;Lançamentos
+81478080;Entrevías;https://www.netflix.com/br/title/81478080;Lançamentos
+81500342;O Chefinho: De Volta ao Berço;https://www.netflix.com/br/title/81500342;Lançamentos
+80242184;Tubacão;https://www.netflix.com/br/title/80242184;Lançamentos
+81609047;Dali & Cocky Prince;https://www.netflix.com/br/title/81609047;Lançamentos
+81277858;Os Segredos de Manscheid;https://www.netflix.com/br/title/81277858;Lançamentos
+81332264;Blippi;https://www.netflix.com/br/title/81332264;Lançamentos
+81568411;Meu Diário para a Liberdade;https://www.netflix.com/br/title/81568411;Lançamentos
+81149763;Intimidade;https://www.netflix.com/br/title/81149763;Lançamentos
+81006858;Jogo da Lava;https://www.netflix.com/br/title/81006858;Lançamentos
+81281582;BASTARD!!;https://www.netflix.com/br/title/81281582;Lançamentos
+81279126;O Anjo do Amor;https://www.netflix.com/br/title/81279126;Lançamentos
+81183494;She;https://www.netflix.com/br/title/81183494;Lançamentos
+81465196;Backstreet Rookie;https://www.netflix.com/br/title/81465196;Lançamentos
+81349493;Vida de Madeireiro;https://www.netflix.com/br/title/81349493;Lançamentos
+80986896;Love in the Moonlight;https://www.netflix.com/br/title/80986896;Lançamentos
+81239555;SHAMAN KING;https://www.netflix.com/br/title/81239555;Lançamentos
+81151079;My Magic Pet Morphle;https://www.netflix.com/br/title/81151079;Lançamentos
+81474612;Casais em Crise;https://www.netflix.com/br/title/81474612;Lançamentos
+81280792;LEGO Ninjago: A Série;https://www.netflix.com/br/title/81280792;Lançamentos
+81597946;Totoy Kids - José Comilão 1;https://www.netflix.com/br/title/81597946;Lançamentos
+81518991;Uma Advogada Extraordinária;https://www.netflix.com/br/title/81518991;TV com mulheres fortes
+81423382;Alba;https://www.netflix.com/br/title/81423382;TV com mulheres fortes
+80059465;Vis a vis;https://www.netflix.com/br/title/80059465;TV com mulheres fortes
+81021245;Control Z;https://www.netflix.com/br/title/81021245;TV com mulheres fortes
+70283264;The 100;https://www.netflix.com/br/title/70283264;TV com mulheres fortes
+80046347;Señora Acero;https://www.netflix.com/br/title/80046347;TV com mulheres fortes
+80058486;Ponto Cego;https://www.netflix.com/br/title/80058486;TV com mulheres fortes
+80084447;Shadowhunters: The Mortal Instruments;https://www.netflix.com/br/title/80084447;TV com mulheres fortes
+70205672;A Rainha do Tráfico;https://www.netflix.com/br/title/70205672;TV com mulheres fortes
+80993876;María Magdalena;https://www.netflix.com/br/title/80993876;TV com mulheres fortes
+70285581;Outlander;https://www.netflix.com/br/title/70285581;TV com mulheres fortes
+80051137;Fuller House;https://www.netflix.com/br/title/80051137;TV com mulheres fortes
+81090319;Desejo Sombrio;https://www.netflix.com/br/title/81090319;TV com mulheres fortes
+81086462;Prisão de Mulheres;https://www.netflix.com/br/title/81086462;TV com mulheres fortes
+80237428;La piloto;https://www.netflix.com/br/title/80237428;TV com mulheres fortes
+70171946;Heartland;https://www.netflix.com/br/title/70171946;TV com mulheres fortes
+80177342;Good Girls;https://www.netflix.com/br/title/80177342;TV com mulheres fortes
+80024057;Como Defender um Assassino;https://www.netflix.com/br/title/80024057;TV com mulheres fortes
+80065386;Supergirl;https://www.netflix.com/br/title/80065386;TV com mulheres fortes
+80027158;Jane The Virgin;https://www.netflix.com/br/title/80027158;TV com mulheres fortes
+80095697;(Des)encanto;https://www.netflix.com/br/title/80095697;TV com mulheres fortes
+81037371;Emily em Paris;https://www.netflix.com/br/title/81037371;TV com mulheres fortes
+81435684;Arcane;https://www.netflix.com/br/title/81435684;TV com mulheres fortes
+80025678;The Crown;https://www.netflix.com/br/title/80025678;TV com mulheres fortes
+70242311;Orange Is the New Black;https://www.netflix.com/br/title/70242311;TV com mulheres fortes
+80223989;O Mundo Sombrio de Sabrina;https://www.netflix.com/br/title/80223989;TV com mulheres fortes
+80179190;Eu Nunca...;https://www.netflix.com/br/title/80179190;TV com mulheres fortes
+80100929;As Telefonistas;https://www.netflix.com/br/title/80100929;TV com mulheres fortes
+81022683;La Reina del Flow;https://www.netflix.com/br/title/81022683;TV com mulheres fortes
+80156387;Little Witch Academia;https://www.netflix.com/br/title/80156387;TV com mulheres fortes
+80107369;A Rainha do Sul;https://www.netflix.com/br/title/80107369;TV com mulheres fortes
+80036416;Good Witch;https://www.netflix.com/br/title/80036416;TV com mulheres fortes
+80221223;Bom Dia, Verônica;https://www.netflix.com/br/title/80221223;TV com mulheres fortes
+81166770;Maid;https://www.netflix.com/br/title/81166770;TV com mulheres fortes
+80113701;The Good Place;https://www.netflix.com/br/title/80113701;TV com mulheres fortes
+80017537;Grace and Frankie;https://www.netflix.com/br/title/80017537;TV com mulheres fortes
+81032078;Turbulências de Verão;https://www.netflix.com/br/title/81032078;TV com mulheres fortes
+80179138;Mandou Bem;https://www.netflix.com/br/title/80179138;TV com mulheres fortes
+80234304;O Gambito da Rainha;https://www.netflix.com/br/title/80234304;TV com mulheres fortes
+81442115;Match VIP;https://www.netflix.com/br/title/81442115;TV com mulheres fortes
+80108473;La Esclava Blanca;https://www.netflix.com/br/title/80108473;TV com mulheres fortes
+80991848;Sex/Life;https://www.netflix.com/br/title/80991848;TV com mulheres fortes
+80121349;Van Helsing;https://www.netflix.com/br/title/80121349;TV com mulheres fortes
+81312802;Juvenile Justice;https://www.netflix.com/br/title/81312802;TV com mulheres fortes
+80176085;The Bold Type;https://www.netflix.com/br/title/80176085;TV com mulheres fortes
+80036140;As Bonecas da Máfia;https://www.netflix.com/br/title/80036140;TV com mulheres fortes
+80239866;Doces Magnólias;https://www.netflix.com/br/title/80239866;TV com mulheres fortes
+81002483;Mãe Só Tem Duas;https://www.netflix.com/br/title/81002483;TV com mulheres fortes
+80084164;The Shannara Chronicles;https://www.netflix.com/br/title/80084164;TV com mulheres fortes
+80036407;When Calls the Heart;https://www.netflix.com/br/title/80036407;TV com mulheres fortes
+81362748;Amor, Casamento e Divórcio;https://www.netflix.com/br/title/81362748;TV com mulheres fortes
+80120640;A Menina;https://www.netflix.com/br/title/80120640;TV com mulheres fortes
+80182123;Violet Evergarden;https://www.netflix.com/br/title/80182123;TV com mulheres fortes
+80198505;Aggretsuko;https://www.netflix.com/br/title/80198505;TV com mulheres fortes
+70302482;Borgen;https://www.netflix.com/br/title/70302482;TV com mulheres fortes
+81025696;Ginny e Georgia;https://www.netflix.com/br/title/81025696;TV com mulheres fortes
+70153388;Keeping Up with the Kardashians;https://www.netflix.com/br/title/70153388;TV com mulheres fortes
+70158331;Star Trek: Voyager;https://www.netflix.com/br/title/70158331;TV com mulheres fortes
+80095532;One Day at a Time;https://www.netflix.com/br/title/80095532;TV com mulheres fortes
+80205595;Sempre Bruxa;https://www.netflix.com/br/title/80205595;TV com mulheres fortes
+81568357;Ninguém Mandou Se Meter com a Gente;https://www.netflix.com/br/title/81568357;TV com mulheres fortes
+70242310;Hemlock Grove;https://www.netflix.com/br/title/70242310;TV com mulheres fortes
+80074220;3%;https://www.netflix.com/br/title/80074220;TV com mulheres fortes
+81037848;O Segredo do Templo;https://www.netflix.com/br/title/81037848;TV com mulheres fortes
+80044950;The OA;https://www.netflix.com/br/title/80044950;TV com mulheres fortes
+80236236;Outra Vida;https://www.netflix.com/br/title/80236236;TV com mulheres fortes
+81167570;El final del paraíso;https://www.netflix.com/br/title/81167570;TV com mulheres fortes
+81044547;Sangue e Água;https://www.netflix.com/br/title/81044547;TV com mulheres fortes
+80233258;Alto Mar;https://www.netflix.com/br/title/80233258;TV com mulheres fortes
+81000207;Enemigo íntimo;https://www.netflix.com/br/title/81000207;TV com mulheres fortes
+80236319;Sombra e Ossos;https://www.netflix.com/br/title/80236319;TV com mulheres fortes
+80241947;Garota de Fora;https://www.netflix.com/br/title/80241947;TV com mulheres fortes
+80208298;Coisa Mais Linda;https://www.netflix.com/br/title/80208298;TV com mulheres fortes
+80220679;Fate: A Saga Winx;https://www.netflix.com/br/title/80220679;TV com mulheres fortes
+80179905;Insatiable;https://www.netflix.com/br/title/80179905;TV com mulheres fortes
+80221210;Irmandade;https://www.netflix.com/br/title/80221210;Gângsteres, barões do tráfico e do chefes do crime
+80020542;Gotham;https://www.netflix.com/br/title/80020542;Gângsteres, barões do tráfico e do chefes do crime
+70205672;A Rainha do Tráfico;https://www.netflix.com/br/title/70205672;Gângsteres, barões do tráfico e do chefes do crime
+80035684;Pablo Escobar, el patrón del mal;https://www.netflix.com/br/title/80035684;Gângsteres, barões do tráfico e do chefes do crime
+80237428;La piloto;https://www.netflix.com/br/title/80237428;Gângsteres, barões do tráfico e do chefes do crime
+80025172;Narcos;https://www.netflix.com/br/title/80025172;Gângsteres, barões do tráfico e do chefes do crime
+80107369;A Rainha do Sul;https://www.netflix.com/br/title/80107369;Gângsteres, barões do tráfico e do chefes do crime
+80133042;El Chapo;https://www.netflix.com/br/title/80133042;Gângsteres, barões do tráfico e do chefes do crime
+80141259;Sobrevivendo a Escobar, Alias JJ;https://www.netflix.com/br/title/80141259;Gângsteres, barões do tráfico e do chefes do crime
+80217669;Top Boy;https://www.netflix.com/br/title/80217669;Gângsteres, barões do tráfico e do chefes do crime
+80036140;As Bonecas da Máfia;https://www.netflix.com/br/title/80036140;Gângsteres, barões do tráfico e do chefes do crime
+80997085;Narcos: México;https://www.netflix.com/br/title/80997085;Gângsteres, barões do tráfico e do chefes do crime
+80153271;El Chema;https://www.netflix.com/br/title/80153271;Gângsteres, barões do tráfico e do chefes do crime
+81000207;Enemigo íntimo;https://www.netflix.com/br/title/81000207;Gângsteres, barões do tráfico e do chefes do crime
+80220145;A Lei Secreta;https://www.netflix.com/br/title/80220145;Gângsteres, barões do tráfico e do chefes do crime
+80225312;Operação Ecstasy;https://www.netflix.com/br/title/80225312;Gângsteres, barões do tráfico e do chefes do crime
+81175433;Submundo do Crime;https://www.netflix.com/br/title/81175433;Gângsteres, barões do tráfico e do chefes do crime
+81003880;Pacto de Sangue;https://www.netflix.com/br/title/81003880;Gângsteres, barões do tráfico e do chefes do crime
+80177803;Chefes do Tráfico;https://www.netflix.com/br/title/80177803;Gângsteres, barões do tráfico e do chefes do crime
+81128450;Dinheiro Fácil: A Série;https://www.netflix.com/br/title/81128450;Gângsteres, barões do tráfico e do chefes do crime
+81219804;Reis de Joanesburgo;https://www.netflix.com/br/title/81219804;Gângsteres, barões do tráfico e do chefes do crime
+80238711;Yankee;https://www.netflix.com/br/title/80238711;Gângsteres, barões do tráfico e do chefes do crime
+81287826;Bangkok no Limite;https://www.netflix.com/br/title/81287826;Gângsteres, barões do tráfico e do chefes do crime
+80214339;Barra Bravas;https://www.netflix.com/br/title/80214339;Gângsteres, barões do tráfico e do chefes do crime
+80227798;El Desconocido: A História de Cholo Adrián;https://www.netflix.com/br/title/80227798;Gângsteres, barões do tráfico e do chefes do crime
+80184569;Quando Conheci El Chapo;https://www.netflix.com/br/title/80184569;Gângsteres, barões do tráfico e do chefes do crime
+80996810;Cocaine Cowboys: The Kings of Miami;https://www.netflix.com/br/title/80996810;Gângsteres, barões do tráfico e do chefes do crime
+81095075;Linha de Tensão;https://www.netflix.com/br/title/81095075;Gângsteres, barões do tráfico e do chefes do crime
+80236318;Outer Banks;https://www.netflix.com/br/title/80236318;Séries teen
+80200942;Elite;https://www.netflix.com/br/title/80200942;Séries teen
+80084447;Shadowhunters: The Mortal Instruments;https://www.netflix.com/br/title/80084447;Séries teen
+81504820;D1ÁR10S;https://www.netflix.com/br/title/81504820;Séries teen
+81354739;A Love So Beautiful;https://www.netflix.com/br/title/81354739;Séries teen
+80220541;Go! Viva do seu jeito;https://www.netflix.com/br/title/80220541;Séries teen
+80133311;Riverdale;https://www.netflix.com/br/title/80133311;Séries teen
+80197526;Sex Education;https://www.netflix.com/br/title/80197526;Séries teen
+80223989;O Mundo Sombrio de Sabrina;https://www.netflix.com/br/title/80223989;Séries teen
+81005504;Jardim de Meteoros;https://www.netflix.com/br/title/81005504;Séries teen
+81443315;Canta Comigo Teen;https://www.netflix.com/br/title/81443315;Séries teen
+80179190;Eu Nunca...;https://www.netflix.com/br/title/80179190;Séries teen
+80232926;Ragnarok;https://www.netflix.com/br/title/80232926;Séries teen
+80063153;Kuroko no Basket;https://www.netflix.com/br/title/80063153;Séries teen
+80095435;Greenhouse Academy;https://www.netflix.com/br/title/80095435;Séries teen
+81059939;Heartstopper;https://www.netflix.com/br/title/81059939;Séries teen
+81295007;Temporada 1;https://www.netflix.com/br/title/81295007;Séries teen
+80117470;13 Reasons Why;https://www.netflix.com/br/title/80117470;Séries teen
+80241239;Locke & Key;https://www.netflix.com/br/title/80241239;Séries teen
+80238357;A Ordem;https://www.netflix.com/br/title/80238357;Séries teen
+80117540;Atypical;https://www.netflix.com/br/title/80117540;Séries teen
+81032078;Turbulências de Verão;https://www.netflix.com/br/title/81032078;Séries teen
+70213130;Meninos antes de flores;https://www.netflix.com/br/title/70213130;Séries teen
+80117809;On My Block;https://www.netflix.com/br/title/80117809;Séries teen
+80196382;The A List;https://www.netflix.com/br/title/80196382;Séries teen
+81249731;Boo, Bitch;https://www.netflix.com/br/title/81249731;Séries teen
+81213653;Primeira Morte;https://www.netflix.com/br/title/81213653;Séries teen
+80154610;The Rain;https://www.netflix.com/br/title/80154610;Séries teen
+80182054;Shokugeki no Soma;https://www.netflix.com/br/title/80182054;Séries teen
+80168068;Love Alarm;https://www.netflix.com/br/title/80168068;Séries teen
+70140438;Juventude à Flor da Pele;https://www.netflix.com/br/title/70140438;Séries teen
+80218448;Como vender drogas online (rápido);https://www.netflix.com/br/title/80218448;Séries teen
+80175722;The End of the F***ing World;https://www.netflix.com/br/title/80175722;Séries teen
+81025696;Ginny e Georgia;https://www.netflix.com/br/title/81025696;Séries teen
+81364944;The Daily Life of the Immortal King;https://www.netflix.com/br/title/81364944;Séries teen
+80205595;Sempre Bruxa;https://www.netflix.com/br/title/80205595;Séries teen
+81568357;Ninguém Mandou Se Meter com a Gente;https://www.netflix.com/br/title/81568357;Séries teen
+81080697;Love 101;https://www.netflix.com/br/title/81080697;Séries teen
+81044547;Sangue e Água;https://www.netflix.com/br/title/81044547;Séries teen
+80236319;Sombra e Ossos;https://www.netflix.com/br/title/80236319;Séries teen
+80244332;Ashley Garcia: A de Amor;https://www.netflix.com/br/title/80244332;Séries teen
+80241947;Garota de Fora;https://www.netflix.com/br/title/80241947;Séries teen
+80220679;Fate: A Saga Winx;https://www.netflix.com/br/title/80220679;Séries teen
+80179905;Insatiable;https://www.netflix.com/br/title/80179905;Séries teen
+80242724;Warrior Nun;https://www.netflix.com/br/title/80242724;Séries teen
+81034661;AlRawabi School for Girls;https://www.netflix.com/br/title/81034661;Séries teen
+81200229;Ombro Amigo;https://www.netflix.com/br/title/81200229;Séries teen
+81289456;Clube de Mergulho;https://www.netflix.com/br/title/81289456;Séries teen
+80211634;Baby;https://www.netflix.com/br/title/80211634;Séries teen
+81016276;O Som da Magia;https://www.netflix.com/br/title/81016276;Séries teen
+80199393;Cursed - A Lenda do Lago;https://www.netflix.com/br/title/80199393;Séries teen
+81459931;Um de Nós Está Mentindo;https://www.netflix.com/br/title/81459931;Séries teen
+81054857;Temporada de Verão;https://www.netflix.com/br/title/81054857;Séries teen
+81017308;O Preço da Perfeição;https://www.netflix.com/br/title/81017308;Séries teen
+81210762;Young Royals;https://www.netflix.com/br/title/81210762;Séries teen
+81228009;Bunny Girl Senpai;https://www.netflix.com/br/title/81228009;Séries teen
+81213803;As 7 Vidas de Lea;https://www.netflix.com/br/title/81213803;Séries teen
+80244780;Luna Nera;https://www.netflix.com/br/title/80244780;Séries teen
+81004936;Três Metros Acima do Céu;https://www.netflix.com/br/title/81004936;Séries teen
+80049275;Toradora!;https://www.netflix.com/br/title/80049275;Séries teen
+80188348;Who Are You: School 2015;https://www.netflix.com/br/title/80188348;Séries teen
+81001036;Ninguém Mandou;https://www.netflix.com/br/title/81001036;Séries teen
+80211703;Areia Movediça;https://www.netflix.com/br/title/80211703;Séries teen
+80228274;Teasing Master Takagi-san;https://www.netflix.com/br/title/80228274;Séries teen
+81028791;Cells at Work!;https://www.netflix.com/br/title/81028791;Séries teen
+80197989;The Society;https://www.netflix.com/br/title/80197989;Séries teen
+80092878;Good Morning Call;https://www.netflix.com/br/title/80092878;Séries teen
+81033361;A Desordem que Ficou;https://www.netflix.com/br/title/81033361;Séries teen
+70244998;Dream High;https://www.netflix.com/br/title/70244998;Séries teen
+81152779;Elfos;https://www.netflix.com/br/title/81152779;Séries teen
+81185502;A Little Thing Called First Love;https://www.netflix.com/br/title/81185502;Séries teen
+80197462;Daybreak;https://www.netflix.com/br/title/80197462;Séries teen
+80222720;Vampiros;https://www.netflix.com/br/title/80222720;Séries teen
+80244781;I Am Not Okay With This;https://www.netflix.com/br/title/80244781;Séries teen
+80244479;Colin em Preto e Branco;https://www.netflix.com/br/title/80244479;Séries teen
+81040344;Round 6;https://www.netflix.com/br/title/81040344;Suspense para TV
+80058486;Ponto Cego;https://www.netflix.com/br/title/80058486;Suspense para TV
+80104198;Perdidos no Espaço;https://www.netflix.com/br/title/80104198;Suspense para TV
+81090319;Desejo Sombrio;https://www.netflix.com/br/title/81090319;Suspense para TV
+81086462;Prisão de Mulheres;https://www.netflix.com/br/title/81086462;Suspense para TV
+80997343;La Casa de Papel: Coreia;https://www.netflix.com/br/title/80997343;Suspense para TV
+80237428;La piloto;https://www.netflix.com/br/title/80237428;Suspense para TV
+80211991;Você;https://www.netflix.com/br/title/80211991;Suspense para TV
+80177342;Good Girls;https://www.netflix.com/br/title/80177342;Suspense para TV
+80024057;Como Defender um Assassino;https://www.netflix.com/br/title/80024057;Suspense para TV
+80025172;Narcos;https://www.netflix.com/br/title/80025172;Suspense para TV
+81166747;Quem Matou Sara?;https://www.netflix.com/br/title/81166747;Suspense para TV
+81044355;Maldivas;https://www.netflix.com/br/title/81044355;Suspense para TV
+81261170;Coração Marcado;https://www.netflix.com/br/title/81261170;Suspense para TV
+70204970;DEATH NOTE;https://www.netflix.com/br/title/70204970;Suspense para TV
+80100172;Dark;https://www.netflix.com/br/title/80100172;Suspense para TV
+80221223;Bom Dia, Verônica;https://www.netflix.com/br/title/80221223;Suspense para TV
+81303831;O Poder e a Lei;https://www.netflix.com/br/title/81303831;Suspense para TV
+80117470;13 Reasons Why;https://www.netflix.com/br/title/80117470;Suspense para TV
+81036622;Toy Boy;https://www.netflix.com/br/title/81036622;Suspense para TV
+81034775;Falsa identidad;https://www.netflix.com/br/title/81034775;Suspense para TV
+80127001;O Grande Guerreiro Otomano;https://www.netflix.com/br/title/80127001;Suspense para TV
+80238357;A Ordem;https://www.netflix.com/br/title/80238357;Suspense para TV
+80175802;The Sinner;https://www.netflix.com/br/title/80175802;Suspense para TV
+80196382;The A List;https://www.netflix.com/br/title/80196382;Suspense para TV
+81033445;Neon Genesis Evangelion;https://www.netflix.com/br/title/81033445;Suspense para TV
+81213653;Primeira Morte;https://www.netflix.com/br/title/81213653;Suspense para TV
+80154610;The Rain;https://www.netflix.com/br/title/80154610;Suspense para TV
+70136140;Jornada nas estrelas;https://www.netflix.com/br/title/70136140;Suspense para TV
+80113647;Designated Survivor;https://www.netflix.com/br/title/80113647;Suspense para TV
+70264888;Black Mirror;https://www.netflix.com/br/title/70264888;Suspense para TV
+81478080;Entrevías;https://www.netflix.com/br/title/81478080;Suspense para TV
+81568217;Café Minamdang;https://www.netflix.com/br/title/81568217;Suspense para TV
+81286017;Prisioneiro da Madrugada;https://www.netflix.com/br/title/81286017;Suspense para TV
+81211710;Bem-vindos ao Éden;https://www.netflix.com/br/title/81211710;Suspense para TV
+81200228;Os Indomáveis;https://www.netflix.com/br/title/81200228;Suspense para TV
+81149763;Intimidade;https://www.netflix.com/br/title/81149763;Suspense para TV
+81145640;The Promised Neverland;https://www.netflix.com/br/title/81145640;Suspense para TV
+80149395;The Alienist;https://www.netflix.com/br/title/80149395;Suspense para TV
+80189221;A Maldição da Residência Hill;https://www.netflix.com/br/title/80189221;Suspense para TV
+80189829;O Último Guardião;https://www.netflix.com/br/title/80189829;Suspense para TV
+70142436;As Aventuras de Merlin;https://www.netflix.com/br/title/70142436;Suspense para TV
+80105452;Slasher;https://www.netflix.com/br/title/80105452;Suspense para TV
+81037848;O Segredo do Templo;https://www.netflix.com/br/title/81037848;Suspense para TV
+80025744;Sense8;https://www.netflix.com/br/title/80025744;Suspense para TV
+81008221;Noite Adentro;https://www.netflix.com/br/title/81008221;Suspense para TV
+80236236;Outra Vida;https://www.netflix.com/br/title/80236236;Suspense para TV
+80200575;Alice in Borderland;https://www.netflix.com/br/title/80200575;Suspense para TV
+81044547;Sangue e Água;https://www.netflix.com/br/title/81044547;Suspense para TV
+80233258;Alto Mar;https://www.netflix.com/br/title/80233258;Suspense para TV
+80188423;Healer;https://www.netflix.com/br/title/80188423;Suspense para TV
+81026915;Better Than Us;https://www.netflix.com/br/title/81026915;Suspense para TV
+80242724;Warrior Nun;https://www.netflix.com/br/title/80242724;Suspense para TV
+81196277;La bella y las bestias;https://www.netflix.com/br/title/81196277;Suspense para TV
+80240691;O Bosque;https://www.netflix.com/br/title/80240691;Suspense para TV
+80066429;Ingobernable;https://www.netflix.com/br/title/80066429;Suspense para TV
+81237854;A Maldição da Mansão Bly;https://www.netflix.com/br/title/81237854;Suspense para TV
+80235864;Segurança em Jogo;https://www.netflix.com/br/title/80235864;Suspense para TV
+80145143;Bordertown;https://www.netflix.com/br/title/80145143;Suspense para TV
+80135414;O Nevoeiro;https://www.netflix.com/br/title/80135414;Suspense para TV
+80198988;Black Summer;https://www.netflix.com/br/title/80198988;Suspense para TV
+81039388;O Homem das Castanhas;https://www.netflix.com/br/title/81039388;Suspense para TV
+81459931;Um de Nós Está Mentindo;https://www.netflix.com/br/title/81459931;Suspense para TV
+81011211;My Name;https://www.netflix.com/br/title/81011211;Suspense para TV
+81483462;Bulgasal: Almas Imortais;https://www.netflix.com/br/title/81483462;Suspense para TV
+81061734;Sweet Home;https://www.netflix.com/br/title/81061734;Suspense para TV
+80145361;Blood;https://www.netflix.com/br/title/80145361;Suspense para TV
+81036936;O Inocente;https://www.netflix.com/br/title/81036936;Suspense para TV
+80225312;Operação Ecstasy;https://www.netflix.com/br/title/80225312;Suspense para TV
+81043571;Tenku Shinpan - Sem Saída;https://www.netflix.com/br/title/81043571;Suspense para TV
+81256675;Profecia do Inferno;https://www.netflix.com/br/title/81256675;Suspense para TV
+80217779;Marianne;https://www.netflix.com/br/title/80217779;Suspense para TV
+81017308;O Preço da Perfeição;https://www.netflix.com/br/title/81017308;Suspense para TV
+80244630;Por Trás de Seus Olhos;https://www.netflix.com/br/title/80244630;Suspense para TV
+80222802;Arquivo 81;https://www.netflix.com/br/title/80222802;Suspense para TV
+81430599;Cúmplices de um Resgate;https://www.netflix.com/br/title/81430599;Para assistir juntos: crianças mais velhas
+80057134;Henry Danger;https://www.netflix.com/br/title/80057134;Para assistir juntos: crianças mais velhas
+81186615;Os Thundermans;https://www.netflix.com/br/title/81186615;Para assistir juntos: crianças mais velhas
+80027564;Sam & Cat;https://www.netflix.com/br/title/80027564;Para assistir juntos: crianças mais velhas
+81227574;Kung Fu Panda: O Cavaleiro Dragão;https://www.netflix.com/br/title/81227574;Para assistir juntos: crianças mais velhas
+70205012;Naruto;https://www.netflix.com/br/title/70205012;Para assistir juntos: crianças mais velhas
+81291575;Série Jornadas de Mestre Pokémon;https://www.netflix.com/br/title/81291575;Para assistir juntos: crianças mais velhas
+81220677;As Aventuras de Poliana;https://www.netflix.com/br/title/81220677;Para assistir juntos: crianças mais velhas
+80039394;Dragões: Corrida até o Limite;https://www.netflix.com/br/title/80039394;Para assistir juntos: crianças mais velhas
+70142405;Avatar - A lenda de Aang;https://www.netflix.com/br/title/70142405;Para assistir juntos: crianças mais velhas
+70180051;H2O - Meninas Sereias;https://www.netflix.com/br/title/70180051;Para assistir juntos: crianças mais velhas
+80242531;Cuphead - A Série;https://www.netflix.com/br/title/80242531;Para assistir juntos: crianças mais velhas
+81040639;Aucademia;https://www.netflix.com/br/title/81040639;Para assistir juntos: crianças mais velhas
+80075820;Caçadores de Trolls: Contos da Arcadia;https://www.netflix.com/br/title/80075820;Para assistir juntos: crianças mais velhas
+70136153;iCarly;https://www.netflix.com/br/title/70136153;Para assistir juntos: crianças mais velhas
+80178943;O Chefinho - De Volta aos Negócios;https://www.netflix.com/br/title/80178943;Para assistir juntos: crianças mais velhas
+80136311;Anne with an E;https://www.netflix.com/br/title/80136311;Para assistir juntos: crianças mais velhas
+80134695;Zoe e Raven;https://www.netflix.com/br/title/80134695;Para assistir juntos: crianças mais velhas
+81222715;Homem X Abelha: A Batalha;https://www.netflix.com/br/title/81222715;Para assistir juntos: crianças mais velhas
+80130521;A Pior das Bruxas;https://www.netflix.com/br/title/80130521;Para assistir juntos: crianças mais velhas
+81567663;Beyblade Burst Surge;https://www.netflix.com/br/title/81567663;Para assistir juntos: crianças mais velhas
+70177034;Yu-Gi-Oh!;https://www.netflix.com/br/title/70177034;Para assistir juntos: crianças mais velhas
+80176076;Power Rangers Ninja Steel;https://www.netflix.com/br/title/80176076;Para assistir juntos: crianças mais velhas
+80155771;Sonic Boom;https://www.netflix.com/br/title/80155771;Para assistir juntos: crianças mais velhas
+70281343;Mako Mermaids: An H2O Adventure;https://www.netflix.com/br/title/70281343;Para assistir juntos: crianças mais velhas
+70294800;Barbie Life in the Dreamhouse;https://www.netflix.com/br/title/70294800;Para assistir juntos: crianças mais velhas
+80115432;Spirit - Cavalgando Livre;https://www.netflix.com/br/title/80115432;Para assistir juntos: crianças mais velhas
+70172485;Brilhante Victória;https://www.netflix.com/br/title/70172485;Para assistir juntos: crianças mais velhas
+70306300;Cine Gibi;https://www.netflix.com/br/title/70306300;Para assistir juntos: crianças mais velhas
+80227995;Minecraft: Story Mode;https://www.netflix.com/br/title/80227995;Para assistir juntos: crianças mais velhas
+70252973;Ninjago: Mestres do Spinjitzu;https://www.netflix.com/br/title/70252973;Para assistir juntos: crianças mais velhas
+81172568;Beyblade Burst Turbo;https://www.netflix.com/br/title/81172568;Para assistir juntos: crianças mais velhas
+80104198;Perdidos no Espaço;https://www.netflix.com/br/title/80104198;Para assistir juntos: crianças mais velhas
+81504820;D1ÁR10S;https://www.netflix.com/br/title/81504820;Para assistir juntos: crianças mais velhas
+80179762;She-Ra e as Princesas do Poder;https://www.netflix.com/br/title/80179762;Para assistir juntos: crianças mais velhas
+81500342;O Chefinho: De Volta ao Berço;https://www.netflix.com/br/title/81500342;Para assistir juntos: crianças mais velhas
+81309532;Supercães;https://www.netflix.com/br/title/81309532;Para assistir juntos: crianças mais velhas
+70252898;Drama Total;https://www.netflix.com/br/title/70252898;Para assistir juntos: crianças mais velhas
+80225085;Velozes & Furiosos - Espiões do Asfalto;https://www.netflix.com/br/title/80225085;Para assistir juntos: crianças mais velhas
+80174285;Alexa e Katie;https://www.netflix.com/br/title/80174285;Para assistir juntos: crianças mais velhas
+80234451;Reunião de Família;https://www.netflix.com/br/title/80234451;Para assistir juntos: crianças mais velhas
+80117803;Criando Dion;https://www.netflix.com/br/title/80117803;Para assistir juntos: crianças mais velhas
+81333845;Isso é um Bolo?;https://www.netflix.com/br/title/81333845;Para assistir juntos: crianças mais velhas
+80051137;Fuller House;https://www.netflix.com/br/title/80051137;Para assistir juntos: crianças mais velhas
+80027563;A Lenda de Korra;https://www.netflix.com/br/title/80027563;Para assistir juntos: crianças mais velhas
+81006858;Jogo da Lava;https://www.netflix.com/br/title/81006858;Para assistir juntos: crianças mais velhas
+70171946;Heartland;https://www.netflix.com/br/title/70171946;Para assistir juntos: crianças mais velhas
+80212245;O Príncipe Dragão;https://www.netflix.com/br/title/80212245;Para assistir juntos: crianças mais velhas
+81005407;O Clube das Babás;https://www.netflix.com/br/title/81005407;Para assistir juntos: crianças mais velhas
+80184682;As Novas Aventuras do Macaco;https://www.netflix.com/br/title/80184682;Para assistir juntos: crianças mais velhas
+80167821;Carmen Sandiego;https://www.netflix.com/br/title/80167821;Para assistir juntos: crianças mais velhas
+80111373;Chesapeake Shores;https://www.netflix.com/br/title/80111373;Para assistir juntos: crianças mais velhas
+81172267;Sonic X;https://www.netflix.com/br/title/81172267;Para assistir juntos: crianças mais velhas
+70204944;O Espetacular Homem-Aranha;https://www.netflix.com/br/title/70204944;Para assistir juntos: crianças mais velhas
+80243216;Superdetetives;https://www.netflix.com/br/title/80243216;Para assistir juntos: crianças mais velhas
+81443315;Canta Comigo Teen;https://www.netflix.com/br/title/81443315;Para assistir juntos: crianças mais velhas
+80156387;Little Witch Academia;https://www.netflix.com/br/title/80156387;Para assistir juntos: crianças mais velhas
+81325983;Beyblade Burst Rise;https://www.netflix.com/br/title/81325983;Para assistir juntos: crianças mais velhas
+80049832;Nosso Planeta;https://www.netflix.com/br/title/80049832;Para assistir juntos: crianças mais velhas
+80036416;Good Witch;https://www.netflix.com/br/title/80036416;Para assistir juntos: crianças mais velhas
+80063153;Kuroko no Basket;https://www.netflix.com/br/title/80063153;Para assistir juntos: crianças mais velhas
+80095435;Greenhouse Academy;https://www.netflix.com/br/title/80095435;Para assistir juntos: crianças mais velhas
+81218438;Esquadrão de Confeiteiros;https://www.netflix.com/br/title/81218438;Para assistir juntos: crianças mais velhas
+81059939;Heartstopper;https://www.netflix.com/br/title/81059939;Para assistir juntos: crianças mais velhas
+80179782;As Épicas Aventuras do Capitão Cueca;https://www.netflix.com/br/title/80179782;Para assistir juntos: crianças mais velhas
+81233669;Maverix;https://www.netflix.com/br/title/81233669;Para assistir juntos: crianças mais velhas
+80050008;Lemony Snicket: Desventuras em Série;https://www.netflix.com/br/title/80050008;Para assistir juntos: crianças mais velhas
+80244283;Maya e os 3 Guerreiros;https://www.netflix.com/br/title/80244283;Para assistir juntos: crianças mais velhas
+81170676;Filhotes Selvagens;https://www.netflix.com/br/title/81170676;Para assistir juntos: crianças mais velhas
+80147919;O Vazio;https://www.netflix.com/br/title/80147919;Para assistir juntos: crianças mais velhas
+80003196;Wakfu;https://www.netflix.com/br/title/80003196;Para assistir juntos: crianças mais velhas
+81032078;Turbulências de Verão;https://www.netflix.com/br/title/81032078;Para assistir juntos: crianças mais velhas
+81145135;DC Super Hero Girls;https://www.netflix.com/br/title/81145135;Para assistir juntos: crianças mais velhas
+80214792;Diário de Horrores;https://www.netflix.com/br/title/80214792;Para assistir juntos: crianças mais velhas
+80196382;The A List;https://www.netflix.com/br/title/80196382;Para assistir juntos: crianças mais velhas
+70285581;Outlander;https://www.netflix.com/br/title/70285581;Séries sobre guerra e política
+80025678;The Crown;https://www.netflix.com/br/title/80025678;Séries sobre guerra e política
+80177458;Expresso do Amanhã;https://www.netflix.com/br/title/80177458;Séries sobre guerra e política
+70178217;House of Cards;https://www.netflix.com/br/title/70178217;Séries sobre guerra e política
+80188730;The K2;https://www.netflix.com/br/title/80188730;Séries sobre guerra e política
+80113647;Designated Survivor;https://www.netflix.com/br/title/80113647;Séries sobre guerra e política
+80120640;A Menina;https://www.netflix.com/br/title/80120640;Séries sobre guerra e política
+81149763;Intimidade;https://www.netflix.com/br/title/81149763;Séries sobre guerra e política
+80120485;O Mecanismo;https://www.netflix.com/br/title/80120485;Séries sobre guerra e política
+70302482;Borgen;https://www.netflix.com/br/title/70302482;Séries sobre guerra e política
+81354529;A Cozinheira de Castamar;https://www.netflix.com/br/title/81354529;Séries sobre guerra e política
+80074220;3%;https://www.netflix.com/br/title/80074220;Séries sobre guerra e política
+80989924;Grandes Momentos da Segunda Guerra em Cores;https://www.netflix.com/br/title/80989924;Séries sobre guerra e política
+81026915;Better Than Us;https://www.netflix.com/br/title/81026915;Séries sobre guerra e política
+80099753;Versailles;https://www.netflix.com/br/title/80099753;Séries sobre guerra e política
+80066429;Ingobernable;https://www.netflix.com/br/title/80066429;Séries sobre guerra e política
+80235864;Segurança em Jogo;https://www.netflix.com/br/title/80235864;Séries sobre guerra e política
+80991107;Mr. Sunshine - Um Raio de Sol;https://www.netflix.com/br/title/80991107;Séries sobre guerra e política
+81152788;Anatomia de um Escândalo;https://www.netflix.com/br/title/81152788;Séries sobre guerra e política
+80180171;Kingdom;https://www.netflix.com/br/title/80180171;Séries sobre guerra e política
+80236118;Apocalipse V;https://www.netflix.com/br/title/80236118;Séries sobre guerra e política
+80117557;Messiah;https://www.netflix.com/br/title/80117557;Séries sobre guerra e política
+80220422;Bolívar;https://www.netflix.com/br/title/80220422;Séries sobre guerra e política
+81488464;Segunda Guerra em Cores: Caminho para a Vitória;https://www.netflix.com/br/title/81488464;Séries sobre guerra e política
+80217946;Bandidos na TV;https://www.netflix.com/br/title/80217946;Séries sobre guerra e política
+80989772;Como Se Tornar um Tirano;https://www.netflix.com/br/title/80989772;Séries sobre guerra e política
+81282868;Borgen: o Reino, o Poder e a Glória;https://www.netflix.com/br/title/81282868;Séries sobre guerra e política
+80081537;Suburra: Sangue em Roma;https://www.netflix.com/br/title/80081537;Séries sobre guerra e política
+80077417;Colony;https://www.netflix.com/br/title/80077417;Séries sobre guerra e política
+80148535;O Cristal Encantado: A Era da Resistência;https://www.netflix.com/br/title/80148535;Séries sobre guerra e política
+80211648;Os Últimos Czares;https://www.netflix.com/br/title/80211648;Séries sobre guerra e política
+81091385;Guerras do Brasil.doc;https://www.netflix.com/br/title/81091385;Séries sobre guerra e política
+80138915;Hitler's Circle of Evil;https://www.netflix.com/br/title/80138915;Séries sobre guerra e política
+81212136;Meia-Noite no Hotel Pera Palace;https://www.netflix.com/br/title/81212136;Séries sobre guerra e política
+81054827;Ladrões da Floresta;https://www.netflix.com/br/title/81054827;Séries sobre guerra e política
+80081705;Iris;https://www.netflix.com/br/title/80081705;Séries sobre guerra e política
+81315804;Ponto de Virada: 11/9 e a Guerra contra o Terror;https://www.netflix.com/br/title/81315804;Séries sobre guerra e política
+80230435;Distrito Selvagem;https://www.netflix.com/br/title/80230435;Séries sobre guerra e política
+81014547;O Arsenal dos Espiões;https://www.netflix.com/br/title/81014547;Séries sobre guerra e política
+81161487;Meu País: A Nova Era;https://www.netflix.com/br/title/81161487;Séries sobre guerra e política
+80992775;La Révolution;https://www.netflix.com/br/title/80992775;Séries sobre guerra e política
+81147725;A Garota de Oslo;https://www.netflix.com/br/title/81147725;Séries sobre guerra e política
+80178151;O Espião;https://www.netflix.com/br/title/80178151;Séries sobre guerra e política
+80169786;Medalha de Honra;https://www.netflix.com/br/title/80169786;Séries sobre guerra e política
+80206395;Trump: Um Sonho Americano;https://www.netflix.com/br/title/80206395;Séries sobre guerra e política
+80218819;Nós Somos a Onda;https://www.netflix.com/br/title/80218819;Séries sobre guerra e política
+81316863;Navios de Guerra: Inferno no Mar;https://www.netflix.com/br/title/81316863;Séries sobre guerra e política
+81198582;Preso No. 1;https://www.netflix.com/br/title/81198582;Séries sobre guerra e política
+80193978;Warrior - A Batalha de Todos os Dias;https://www.netflix.com/br/title/80193978;Séries sobre guerra e política
+80037278;Marseille;https://www.netflix.com/br/title/80037278;Séries sobre guerra e política
+81122682;Jaguar;https://www.netflix.com/br/title/81122682;Séries sobre guerra e política
+81072109;Designated Survivor: Coreia;https://www.netflix.com/br/title/81072109;Séries sobre guerra e política
+81019775;The Liberator;https://www.netflix.com/br/title/81019775;Séries sobre guerra e política
+80094273;O Levante da Páscoa;https://www.netflix.com/br/title/80094273;Séries sobre guerra e política
+81058498;A Busca;https://www.netflix.com/br/title/81058498;Séries sobre guerra e política
+80211136;Secret City;https://www.netflix.com/br/title/80211136;Séries sobre guerra e política
+80063867;The Family - Democracia Ameaçada;https://www.netflix.com/br/title/80063867;Séries sobre guerra e política
+81095387;Vosso Reino;https://www.netflix.com/br/title/81095387;Séries sobre guerra e política
+81342973;King of Boys: O Retorno do Rei;https://www.netflix.com/br/title/81342973;Séries sobre guerra e política
+80184569;Quando Conheci El Chapo;https://www.netflix.com/br/title/80184569;Séries sobre guerra e política
+81073977;Glória;https://www.netflix.com/br/title/81073977;Séries sobre guerra e política
+81206211;Estado Zero;https://www.netflix.com/br/title/81206211;Séries sobre guerra e política
+80201488;O Monstro ao Lado;https://www.netflix.com/br/title/80201488;Séries sobre guerra e política
+80145141;Black Earth Rising;https://www.netflix.com/br/title/80145141;Séries sobre guerra e política
+80205593;1983;https://www.netflix.com/br/title/80205593;Séries sobre guerra e política
+80217848;Corvos - Violência do EI;https://www.netflix.com/br/title/80217848;Séries sobre guerra e política
+81070963;Chefe de Gabinete;https://www.netflix.com/br/title/81070963;Séries sobre guerra e política
+81424068;Sombras da Guerra;https://www.netflix.com/br/title/81424068;Séries sobre guerra e política
+81021294;Jornada de Heróis;https://www.netflix.com/br/title/81021294;Séries sobre guerra e política
+81477445;Japão Submerso: A Esperança;https://www.netflix.com/br/title/81477445;Séries sobre guerra e política
+80209609;Realidade Não Documentada;https://www.netflix.com/br/title/80209609;Séries sobre guerra e política
+80195198;Pine Gap;https://www.netflix.com/br/title/80195198;Séries sobre guerra e política
+80223793;Traidores;https://www.netflix.com/br/title/80223793;Séries sobre guerra e política
+81037116;Adam Conover: Política se Discute?;https://www.netflix.com/br/title/81037116;Séries sobre guerra e política
+81051782;Os Favoritos de Midas;https://www.netflix.com/br/title/81051782;Séries sobre guerra e política
+80027158;Jane The Virgin;;Autores aclamados
+80095697;(Des)encanto;;Autores aclamados
+80117552;Ozark;;Autores aclamados
+70242311;Orange Is the New Black;;Autores aclamados
+80113701;The Good Place;;Autores aclamados
+70153373;Seinfeld;;Autores aclamados
+70155589;Community;;Autores aclamados
+81008305;Inventando Anna;;Autores aclamados
+80121349;Van Helsing;;Autores aclamados
+70178217;House of Cards;;Autores aclamados
+80095532;One Day at a Time;;Autores aclamados
+80991107;Mr. Sunshine - Um Raio de Sol;;Autores aclamados
+80998491;After Life - Vocês vão ter de me engolir;;Autores aclamados
+81152788;Anatomia de um Escândalo;;Autores aclamados
+80213445;Ratched;;Autores aclamados
+70285785;Fargo;;Autores aclamados
+80026506;Love;;Autores aclamados
+70140358;Arrested Development;;Autores aclamados
+80077417;Colony;;Autores aclamados
+80025384;Unbreakable Kimmy Schmidt;;Autores aclamados
+81078819;El Camino: A Breaking Bad Film;;Autores aclamados
+80109415;Gilmore Girls: Um Ano para Recordar;;Autores aclamados
+80010655;Bloodline;;Autores aclamados
+80237329;AJ and the Queen;;Autores aclamados
+80158285;Legion;;Autores aclamados
+81021929;Space Force;;Autores aclamados
+80244928;The English Game;;Autores aclamados
+80214406;Manual do Presidiário;;Autores aclamados
+80114988;GLOW;;Autores aclamados
+81088617;Hollywood;;Autores aclamados
+80115328;Jogos Sagrados;;Autores aclamados
+70213238;Monty Python's Flying Circus;;Autores aclamados
+80245103;Halston;;Autores aclamados
+80049714;Master of None;;Autores aclamados
+80241248;The Politician;;Autores aclamados
+80214523;Live;;Autores aclamados
+81056700;#blackAF;;Autores aclamados
+70258489;Derek;;Autores aclamados
+80046193;Lady Dynamite;;Autores aclamados
+81159258;Pousando no Amor;;Dramas coreanos
+80188354;Minha Vênus;;Dramas coreanos
+81365087;Vincenzo;;Dramas coreanos
+81473182;Hometown Cha-Cha-Cha;;Dramas coreanos
+81279126;O Anjo do Amor;;Dramas coreanos
+81243992;Tudo Bem Não Ser Normal;;Dramas coreanos
+70213130;Meninos antes de flores;;Dramas coreanos
+81503460;Amanhã;;Dramas coreanos
+81260283;O Rei Eterno;;Dramas coreanos
+81572781;Clima do Amor;;Dramas coreanos
+81318872;Na Direção do Amor;;Dramas coreanos
+81442115;Match VIP;;Dramas coreanos
+81290293;Apostando Alto;;Dramas coreanos
+81486372;Nosso Eterno Verão;;Dramas coreanos
+81033650;Herdeiros;;Dramas coreanos
+81239224;Hospital Playlist;;Dramas coreanos
+81517168;Vinte e Cinco, Vinte e Um;;Dramas coreanos
+81312802;Juvenile Justice;;Dramas coreanos
+81290301;Passarela de Sonhos;;Dramas coreanos
+80188730;The K2;;Dramas coreanos
+81568842;Amor e Outros Dramas;;Dramas coreanos
+80196931;Hwarang;;Dramas coreanos
+81030008;Fadas da Limpeza;;Dramas coreanos
+80188605;Cinderela e os Quatro Cavaleiros;;Dramas coreanos
+81008021;Holo, Meu Amor;;Dramas coreanos
+81030026;Gangnam Beauty;;Dramas coreanos
+80986896;Love in the Moonlight;;Dramas coreanos
+81435649;Apesar de Tudo, Amor;;Dramas coreanos
+81568400;Trinta e Nove;;Dramas coreanos
+80168068;Love Alarm;;Dramas coreanos
+81362748;Amor, Casamento e Divórcio;;Dramas coreanos
+81568217;Café Minamdang;;Dramas coreanos
+80214405;Uma Odisseia Coreana;;Dramas coreanos
+81465196;Backstreet Rookie;;Dramas coreanos
+81394495;She Would Never Know;;Dramas coreanos
+81026700;Primeira Vez Amor;;Dramas coreanos
+81609047;Dali & Cocky Prince;;Dramas coreanos
+81403966;Navillera;;Dramas coreanos
+81193309;Itaewon Class;;Dramas coreanos
+81095101;Retaliação;;Dramas coreanos
+80188423;Healer;;Dramas coreanos
+80990381;A Caminho do Céu;;Dramas coreanos
+81016276;O Som da Magia;;Dramas coreanos
+81012487;A Noiva de Habaek;;Dramas coreanos
+81609084;Venda Sua Casa Assombrada;;Dramas coreanos
+80991107;Mr. Sunshine - Um Raio de Sol;;Dramas coreanos
+81323551;Caçadores de Demônios;;Dramas coreanos
+81011211;My Name;;Dramas coreanos
+81483462;Bulgasal: Almas Imortais;;Dramas coreanos
+81283687;Quando meu amor floresce;;Dramas coreanos
+81045349;Romance Is a Bonus Book;;Dramas coreanos
+81061734;Sweet Home;;Dramas coreanos
+80145361;Blood;;Dramas coreanos
+81170092;My Secret Romance;;Dramas coreanos
+81256675;Profecia do Inferno;;Dramas coreanos
+81568411;Meu Diário para a Liberdade;;Dramas coreanos
+80180171;Kingdom;;Dramas coreanos
+81403973;É Tudo Meu;;Dramas coreanos
+80031716;Uma Chance de Vida;;Dramas coreanos
+81205775;Touch Your Heart;;Dramas coreanos
+81167119;Porque Esta é a Minha Primeira Vida;;Dramas coreanos
+81194153;Me Tira Daqui;;Dramas coreanos
+81205812;Her Private Life;;Dramas coreanos
+81568851;Um Pesadelo de Casamento;;Dramas coreanos
+80188348;Who Are You: School 2015;;Dramas coreanos
+70245012;Full House;;Dramas coreanos
+81029990;Beleza Interior;;Dramas coreanos
+80039905;O Homem Inocente;;Dramas coreanos
+81205849;Hotel Del Luna;;Dramas coreanos
+81430301;Loucos Um Pelo Outro;;Dramas coreanos
+81098012;O Mar da Tranquilidade;;Dramas coreanos
+81556875;My Unfamiliar Family;;Dramas coreanos
+81267651;My Shy Boss;;Dramas coreanos
+80990935;Something in the Rain;;Dramas coreanos
+81029926;Bem-vindos a Waikiki;;Dramas coreanos
